@@ -112,7 +112,9 @@ export default function Home() {
 
           <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
             <a
-              href="mailto:nicetryskrock@gmail.com"
+              href="https://calendly.com/kan-ai/30min"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group inline-flex min-h-[48px] items-center gap-2.5 rounded-full px-6 font-mono text-[12px] uppercase tracking-[0.05em] font-medium transition-all duration-300 hover:-translate-y-[1px] active:scale-[0.98]"
               style={{
                 background: 'var(--accent)',
@@ -316,7 +318,9 @@ export default function Home() {
           <p className="mt-12 max-w-[60ch] text-[15px] leading-[1.6] text-[var(--text-mute)]">
             Paid in two milestones: 50% at kickoff, 50% at handover.{' '}
             <a
-              href="mailto:nicetryskrock@gmail.com"
+              href="https://calendly.com/kan-ai/30min"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-[var(--accent)] underline underline-offset-4 hover:text-[var(--text)]"
             >
               Book a free 30-min call
@@ -390,13 +394,13 @@ export default function Home() {
               LinkedIn
             </a>
             <a
-              href="https://calendly.com/"
+              href="https://calendly.com/kan-ai/30min"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex min-h-[44px] items-center gap-2.5 rounded-full border border-[var(--line-2)] px-5 font-mono text-[12px] uppercase tracking-[0.05em] text-[var(--text)] transition-colors hover:border-[var(--text)] hover:bg-[var(--text)] hover:text-[var(--bg-base)]"
+              className="inline-flex min-h-[44px] items-center gap-2.5 rounded-full border border-[var(--line-2)] px-5 font-mono text-[12px] uppercase tracking-[0.05em] text-[var(--text)] transition-colors hover:border-[var(--accent)] hover:bg-[var(--accent)] hover:text-[var(--bg-base)]"
             >
               <Calendar size={16} weight="regular" />
-              Calendly<sup className="ml-0.5 text-[9px] lowercase" style={{ color: 'var(--warn)' }}>todo</sup>
+              Book 30-min call
             </a>
           </div>
         </div>

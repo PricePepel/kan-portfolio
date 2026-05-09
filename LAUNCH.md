@@ -35,7 +35,7 @@ Portfolio/
 The non-content prerequisites. Don't skip; without these, the content posts have nowhere to land.
 
 - [ ] **Banking unblock**: Payoneer account with parent-guarantor signature. 5–10 days to verify. *Without this, you cannot legally receive client payment from US/EU.*
-- [ ] **Calendly account**: free tier. Custom URL `calendly.com/kan-ai` or `calendly.com/ruslankan`. One event type: "30-min discovery call", 14:00–22:00 Tashkent. Booking question: "What are you trying to ship and by when?"
+- [x] **Calendly account**: live at https://calendly.com/kan-ai/30min. Wired into nav, hero, pricing footer, and contact pill on the portfolio site.
 - [ ] **GitHub profile README**: create new repo `github.com/PricePepel/PricePepel` (matching your username makes it your public bio). Paste contents of `github-readme/profile-readme.md`. Add a profile photo (any clean headshot or a clean avatar). Add bio: "AI integration for SaaS founders. Anthropic + OpenAI + Next.js + Supabase. Tashkent, GMT+5." Add location, link to portfolio.
 - [ ] **GitHub case-studies repo**: create new public repo `github.com/PricePepel/kan-case-studies`. Push the contents of `github-readme/case-studies/`. Pin it on your profile.
 - [ ] **Pin 4 repositories** on your profile: kan-case-studies + polymarket-tracker + 2 others (any substantive repo, not itstep-sql-practices).
@@ -92,6 +92,7 @@ When all checked: you're ready to post.
 When you change strategy, log it here briefly.
 
 - 2026-05-09: prices set to Phase 1 anchors ($1,500 / $3,500 / $7,500 + $1,000 trial sprint). Live site updated. GitHub + LinkedIn linked. Calendly pending setup.
+- 2026-05-10: Calendly live at https://calendly.com/kan-ai/30min, wired across the site. Vercel deploy live at kan-portfolio-pricepepels-projects.vercel.app (auth-protection still on, needs disabling).
 
 ---
 

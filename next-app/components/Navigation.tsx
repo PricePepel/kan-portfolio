@@ -54,7 +54,9 @@ export function Navigation() {
           {mounted ? (theme === 'dark' ? <Moon size={16} weight="regular" /> : <Sun size={16} weight="regular" />) : <Moon size={16} weight="regular" />}
         </button>
         <a
-          href="mailto:nicetryskrock@gmail.com"
+          href="https://calendly.com/kan-ai/30min"
+          target="_blank"
+          rel="noopener noreferrer"
           className="ml-2 inline-flex min-h-[44px] items-center gap-2 rounded-full border border-[var(--line-2)] px-4 font-mono text-[12px] uppercase tracking-[0.05em] transition-colors hover:bg-[var(--text)] hover:text-[var(--bg-base)]"
         >
           <span className="h-1.5 w-1.5 rounded-full" style={{ background: 'var(--good)' }} aria-hidden="true" />
