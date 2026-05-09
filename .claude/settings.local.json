@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp *)",
+      "mcp__framer-mcp__getProjectXml",
+      "mcp__framer-mcp__searchFonts",
+      "mcp__framer-mcp__manageColorStyle",
+      "mcp__framer-mcp__manageTextStyle",
+      "mcp__framer-mcp__createCMSCollection",
+      "mcp__framer-mcp__getCMSCollections",
+      "mcp__framer-mcp__upsertCMSItem",
+      "mcp__framer-mcp__getNodeXml",
+      "mcp__framer-mcp__updateXmlForNode",
+      "mcp__framer-mcp__getProjectWebsiteUrl",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_resize",
+      "mcp__playwright__browser_snapshot",
+      "mcp__framer-mcp__deleteNode",
+      "mcp__playwright__browser_take_screenshot",
+      "Bash(netstat -ano)",
+      "Bash(taskkill //PID 24896 //F)",
+      "Bash(node \"C:\\\\Users\\\\Asus\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\load-context.mjs\")",
+      "WebFetch(domain:www.thatfestivalsite.com)",
+      "WebFetch(domain:teatrlalka.pl)",
+      "WebFetch(domain:www.fromanother.love)",
+      "WebFetch(domain:kawka.me)",
+      "WebFetch(domain:www.gov.uk)",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__obsidian__search_vault_simple",
+      "Bash(npm install *)",
+      "Bash(rm -f index.html styles.css script.js)",
+      "Bash(rm -f kan-*.jpeg kan-*.png hero-*.png process-*.png portfolio-pre-republish.jpeg)",
+      "Bash(rm -rf .playwright-mcp)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3030)",
+      "Bash(npx -y impeccable --json --fast app components)",
+      "mcp__obsidian__get_vault_file",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
