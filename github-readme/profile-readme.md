@@ -1,4 +1,4 @@
-<h1 align="center">Kan</h1>
+﻿<h1 align="center">Kan</h1>
 
 <p align="center">
   <strong>AI integration specialist for SaaS founders.</strong><br/>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-domain.com">Portfolio</a> ·
+  <a href="https://kan-portfolio-pricepepels-projects.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ruslan-kan-207692384/">LinkedIn</a> ·
   <a href="mailto:nicetryskrock@gmail.com">Email</a>
 </p>
@@ -15,17 +15,17 @@
 
 I ship production AI features for SaaS. Flat fee, no retainer, fast turnaround.
 
-Booking projects for **June 2026 onwards**. Most builds land between $1.5k and $12k depending on scope. [Trial sprint available at $1,000 for 5–7 days.](https://your-portfolio-domain.com#pricing)
+Booking projects for **June 2026 onwards**. Most builds land between $1.5k and $12k depending on scope. [Trial sprint available at $1,000 for 5-7 days.](https://kan-portfolio-pricepepels-projects.vercel.app#pricing)
 
 ---
 
 ## What I build
 
-**1. AI feature integration** — Anthropic or OpenAI dropped into your existing app. Working endpoints, fallbacks, streaming, costs you can predict before shipping. *2–3 weeks.*
+**1. AI feature integration**, Anthropic or OpenAI dropped into your existing app. Working endpoints, fallbacks, streaming, costs you can predict before shipping. *2-3 weeks.*
 
-**2. Internal AI tools** — Admin assistants, internal copilots, ops automations. Built for your team to use, not for a public launch, so we move fast. *3–5 weeks.*
+**2. Internal AI tools**, admin assistants, internal copilots, ops automations. Built for your team to use, not for a public launch, so we move fast. *3-5 weeks.*
 
-**3. AI-first MVPs** — Full Next.js + Supabase + LLM stack, end-to-end. Production-ready from week one, not a proof of concept you have to throw away. *5–8 weeks.*
+**3. AI-first MVPs**, full Next.js + Supabase + LLM stack, end-to-end. Production-ready from week one, not a proof of concept you have to throw away. *5-8 weeks.*
 
 ---
 
@@ -53,10 +53,10 @@ See full case studies at [`kan-case-studies`](https://github.com/PricePepel/kan-
 
 ## How I work
 
-- **Discovery call (30 min)** — we scope, surface risks, agree on what gets shipped.
-- **Fixed scope, flat fee** — one-page brief, single number quoted within 48h. No retainer, no change orders.
-- **Ship in N weeks** — daily commits to a shared repo, async updates, demo every Friday.
-- **Handover** — code, docs, deploys, costs. Yours to own. I stay reachable for 2 weeks of bug-fix support.
+- **Discovery call (30 min)**, we scope, surface risks, agree on what gets shipped.
+- **Fixed scope, flat fee**, one-page brief, single number quoted within 48h. No retainer, no change orders.
+- **Ship in N weeks**, daily commits to a shared repo, async updates, demo every Friday.
+- **Handover**, code, docs, deploys, costs. Yours to own. I stay reachable for 2 weeks of bug-fix support.
 
 ---
 
@@ -64,11 +64,4 @@ See full case studies at [`kan-case-studies`](https://github.com/PricePepel/kan-
 
 Working with Claude Code as the dev workflow, which is why turnaround is faster than most freelance shops without sacrificing test coverage or production-readiness.
 
-Reach me at [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com) or book a discovery call directly through the [portfolio](https://your-portfolio-domain.com).
-
-<!--
-TODO before publishing:
-1. Replace "your-portfolio-domain.com" with your actual deployed URL.
-2. Add a real profile photo to your GitHub account.
-3. Optionally add a banner/header image (1280x640) above the title.
--->
+Reach me at [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com) or book a discovery call directly through the [portfolio](https://kan-portfolio-pricepepels-projects.vercel.app).
