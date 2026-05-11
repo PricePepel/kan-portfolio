@@ -1,0 +1,198 @@
+/* ============================================================
+   Resume page — Jake's Resume look-alike, paper feel.
+   Optimised for browser print → PDF. Letter paper, 0.5" margins.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap');
+
+.resume-page {
+  position: relative;
+  z-index: 1;
+  min-height: 100dvh;
+  background: #e9e6df;
+  color: #111;
+  padding: 32px 16px 80px;
+  font-family: 'Source Sans 3', 'Latin Modern Roman', Cambria, Georgia, serif;
+}
+
+/* Hide the global Tashkent sky canvas on the resume route — it's a paper view */
+body:has(.resume-page) > canvas,
+body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
+  display: none !important;
+}
+
+.resume-toolbar {
+  margin: 0 auto 24px;
+  max-width: 8.5in;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.resume-toolbar__link {
+  color: #444;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid #c8c2b6;
+  transition: background-color 0.2s, color 0.2s;
+}
+.resume-toolbar__link:hover {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+.resume-toolbar__btn {
+  background: #111;
+  color: #fff;
+  border: 1px solid #111;
+  padding: 8px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+.resume-toolbar__btn:hover {
+  background: #444;
+  border-color: #444;
+}
+
+/* ====== The paper ====== */
+.resume {
+  background: #fff;
+  color: #111;
+  margin: 0 auto;
+  max-width: 8.5in;
+  min-height: 11in;
+  padding: 0.5in 0.6in;
+  box-shadow: 0 24px 60px -20px rgba(0, 0, 0, 0.25), 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-size: 10.5pt;
+  line-height: 1.35;
+}
+
+.resume__header {
+  text-align: center;
+  margin-bottom: 8pt;
+}
+
+.resume__header h1 {
+  font-family: 'Source Sans 3', Georgia, serif;
+  font-size: 24pt;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0 0 2pt;
+}
+
+.resume__contact {
+  font-size: 10pt;
+  color: #222;
+  margin: 0;
+}
+
+.resume__contact a {
+  color: #222;
+  text-decoration: underline;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 2px;
+}
+
+.resume__section {
+  margin-top: 8pt;
+}
+
+.resume__section h2 {
+  font-family: 'Source Sans 3', Georgia, serif;
+  font-size: 12pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0 0 4pt;
+  padding-bottom: 1pt;
+  border-bottom: 0.75pt solid #111;
+}
+
+.resume__entry {
+  margin: 4pt 0 6pt;
+}
+
+.resume__entry-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12pt;
+  font-size: 10.5pt;
+}
+
+.resume__entry-row strong {
+  font-weight: 700;
+}
+
+.resume__entry-row--italic {
+  font-style: italic;
+  font-size: 10pt;
+  color: #222;
+  margin-top: 1pt;
+}
+
+.resume__entry ul,
+.resume__plain-list {
+  margin: 2pt 0 0;
+  padding-left: 18pt;
+}
+
+.resume__entry ul li,
+.resume__plain-list li {
+  margin: 1pt 0;
+  font-size: 10.5pt;
+  line-height: 1.35;
+}
+
+.resume__plain-list {
+  padding-left: 16pt;
+  list-style: none;
+}
+.resume__plain-list li {
+  margin: 1.5pt 0;
+}
+
+/* ====== Print ====== */
+@media print {
+  @page {
+    size: letter;
+    margin: 0.5in;
+  }
+  html,
+  body {
+    background: #fff !important;
+  }
+  .resume-page {
+    background: #fff !important;
+    padding: 0 !important;
+  }
+  .resume-toolbar {
+    display: none !important;
+  }
+  .resume {
+    box-shadow: none !important;
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    min-height: 0 !important;
+  }
+  a {
+    color: #111 !important;
+    text-decoration: none !important;
+  }
+}
