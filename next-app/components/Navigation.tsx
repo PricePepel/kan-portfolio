@@ -43,6 +43,7 @@ export function Navigation() {
           <a href="#work" className="transition-colors hover:text-[var(--text)]">Work</a>
           <a href="#process" className="transition-colors hover:text-[var(--text)]">Process</a>
           <a href="#about" className="transition-colors hover:text-[var(--text)]">About</a>
+          <a href="/resume" className="transition-colors hover:text-[var(--text)]">Resume</a>
           <a href="#contact" className="transition-colors hover:text-[var(--text)]">Contact</a>
         </nav>
         <button

@@ -1,0 +1,172 @@
+%-------------------------
+% Resume in Latex
+% Author : Ruslan Kan (built from Jake's Resume template)
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.55in}
+\addtolength{\evensidemargin}{-0.55in}
+\addtolength{\textwidth}{1.1in}
+\addtolength{\topmargin}{-.6in}
+\addtolength{\textheight}{1.1in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Ruslan Kan} \\ \vspace{1pt}
+    \small Tashkent, Uzbekistan $|$ \href{mailto:kan.nadya1978@gmail.com}{\underline{kan.nadya1978@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/ruslan-kan-207692384/}{\underline{linkedin.com/in/ruslan-kan}} $|$
+    \href{https://github.com/PricePepel}{\underline{github.com/PricePepel}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Minerva University}{Aug. 2026 -- May 2030}
+      {B.S. in Computer Science (incoming, Class of 2030)}{San Francisco $\rightarrow$ Seoul, Hyderabad, Berlin, Buenos Aires, London/Taipei}
+    \resumeSubheading
+      {Tashkent High School (11-year system)}{Sep. 2015 -- Jun. 2026}
+      {\textbf{SAT 1510} (Math 800, Verbal 710) $|$ \textbf{IELTS 7.5} $|$ Academic Council Leader (900+ students)}{Tashkent, Uzbekistan}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Lead Software Developer \& Co-founder}{Jun. 2025 -- Present}
+      {Saman AI Academy --- EU EdTech4BY accelerator portfolio}{Tashkent, Uzbekistan}
+      \resumeItemListStart
+        \resumeItem{Built \textbf{samanTA} (\texttt{ta.saman.academy}) AI quiz/tutor platform: \textbf{117 users, 70 deployed school bots, 562 quiz sessions, 59.8\% completion, 77.6\% avg score} since launch --- Telegram + web cabinet on FastAPI/Supabase/OpenAI}
+        \resumeItem{Shipped \textbf{Saman CRM} coach cockpit (\texttt{saman.academy}): 5-tab dashboard, AI Concierge (GPT-4o context doc + GPT-4o-mini Telegram nudges), Stripe \$9.99/mo Premium paywall, public coach landing pages}
+        \resumeItem{Closed \textbf{\$5K seed} from \textbf{EU EdTech4BY accelerator}; \textbf{\$15K second tranche} under review}
+        \resumeItem{Own engineering across three production surfaces (samanTA, CRM, Rankings) sharing one FastAPI backend on Supabase; co-lead product strategy with CEO, COO/CPO, and CTO}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Web Development Instructor (Volunteer)}{2024 -- 2025}
+      {ITSTEP Academy}{Tashkent, Uzbekistan}
+      \resumeItemListStart
+        \resumeItem{Taught HTML/CSS, JavaScript, and React to \textbf{80+ students aged 10--17} across multiple cohorts; built lesson plans and mentored first deployed projects}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Sole Author --- Peer-Reviewed Publication}{Aug. 2025}
+      {Journal of Fintech, Business, and Development (JFBD), ISSN 3065-9809}{Vol. 2 No. 1, pp. 1--15}
+      \resumeItemListStart
+        \resumeItem{\href{https://economicjournals.org/index.php/JFBD/article/view/51}{\underline{``Influence of Components of the Artificial Intelligence on the Fin-tech Market of Uzbekistan: Banking and Insurance Systems''}} --- 15-page analysis of AI as a mechanism for structural change, inclusion, and trust in financial systems}
+        \resumeItem{Surveyed AI adoption across credit scoring, fraud detection, biometric authentication, and digital banking in Uzbekistan; combined secondary data with expert interviews and proposed a government-strategy framework}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Independent Projects}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\textbf{TrainHire (Naviq)} $|$ \emph{Next.js 16, React 19, Supabase, Anthropic Claude, Stripe, HeyGen}}{2026 -- Present}
+          \resumeItemListStart
+            \resumeItem{B2B SaaS that AI-generates 80-lesson training academies tailored to each employer's internship specialty; three role-scoped portals (Dev, Employer, Intern) with idempotent UTC streak keys and JWKS-verified auth}
+            \resumeItem{Integrated Anthropic Claude Sonnet for lesson generation and HeyGen for AI presenter videos; Stripe employer subscription planned}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{OLMA} $|$ \emph{Next.js 15, Supabase, Zustand, React Query}}{2025 -- 2026}
+          \resumeItemListStart
+            \resumeItem{Peer-to-peer learning network with dual-currency skill exchange, clubs, and gamified rankings; MVP shipped end-to-end including auth, social graph, and ranking engine}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Polymarket Tracker} $|$ \emph{Node 20, GitHub Actions cron, Polymarket public API}}{2026 -- Present}
+          \resumeItemListStart
+            \resumeItem{Cron-driven scraper and paper-trader for the top-50 BTC 5-minute prediction-market contracts; runs on GitHub Actions, writes structured logs to an Obsidian-Git repo, security-audited PAPER mode}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------ACHIEVEMENTS-----------
+\section{Selected Achievements}
+  \resumeSubHeadingListStart
+    \resumeItem{\textbf{Mental arithmetic:} \textbf{Grand Champion of the World}; 3$\times$ Grand Champion of Uzbekistan}
+    \resumeItem{\textbf{Math olympiads --- 19+ wins} across AMO, SASMO, SEAMO, AMC, and Math League}
+    \resumeItem{\textbf{World Scholar's Cup:} 2$\times$ WOW Speaker at Nationals; \textbf{\#8 overall Senior Division}, Tashkent National Round 2026; 20+ medals/cups across rounds}
+    \resumeItem{\textbf{Languages:} Russian (native), English (fluent --- IELTS 7.5)}
+  \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: TypeScript, JavaScript, Python, SQL (PostgreSQL), HTML/CSS, PHP} \\
+     \textbf{Frameworks}{: Next.js (App Router), React 19, FastAPI, Tailwind, Shadcn/ui, Vite, WordPress} \\
+     \textbf{Backend \& Data}{: Supabase (Postgres, RLS, Auth, Storage), Stripe, REST API design} \\
+     \textbf{AI \& APIs}{: Anthropic Claude (Sonnet), OpenAI (GPT-4o/4o-mini), Telegram Bot API, HeyGen, TanStack Query} \\
+     \textbf{Tools}{: Git, GitHub Actions, Vercel, Docker, ESLint}
+    }}
+ \end{itemize}
+
+\end{document}
