@@ -39,9 +39,11 @@ export const CASES: CaseStudy[] = [
       "I shipped Naviq (TrainHire), a B2B SaaS that turns a job spec into a full 20-lesson onboarding academy and hands it to interns through a gamified personal cabinet. Stack: Next.js 16 App Router, React 19, TypeScript 5, Tailwind 4, Supabase for auth and Postgres, Zod for validation. The course generator runs on Anthropic Claude with OpenAI as a fallback, then publishes lessons into Notion via the official API. Admins enrol interns from a dedicated portal, watch progress, and route data through Google Sheets, amoCRM, and a Telegram bot. I wired XP on a 10/20/30 step curve, level scaling at 50·n², and idempotent UTC streak keys. 56 Vitest tests pass; MVP is live on dev at naviq.app.",
     stack: ['Next.js 16', 'React 19', 'Supabase', 'Anthropic', 'Vitest'],
     sticker: '[ 80 LESSONS ]',
+    // Lined-notebook pattern echoes the 80-lesson curriculum
     mediaStyle: {
-      background:
-        'linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 60) 60%, oklch(16% 0.03 55) 100%)'
+      backgroundImage:
+        'repeating-linear-gradient(0deg, transparent 0 31px, oklch(35% 0.04 60 / 0.18) 31px 32px), linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 60) 60%, oklch(16% 0.03 55) 100%)',
+      backgroundSize: '32px 32px, auto'
     },
     bigmarkColor: 'oklch(72% 0.14 60)',
     bentoSpan: 'md:col-span-2 md:row-span-2',
@@ -58,12 +60,14 @@ export const CASES: CaseStudy[] = [
     short:
       'GPT-4o tutor and quiz engine with a Telegram bot front-end. Live tutor flow used by students daily.',
     full:
-      "I built samanTA, an AI quiz and tutoring platform that runs across a React + Vite web app, a FastAPI backend on Supabase, and a Python Telegram bot. Coaches assemble single-select, multi-select, and open quizzes; students take them on the web or inside Telegram, and OpenAI generates and grades content. The bot handles linking, quiz delivery, streak tracking, and configurable reminders at 24, 48, 72, 120, and 168 hour cadences, gated by a require_linked_account decorator that resolves the supabase_user_id before any handler runs. Auth uses Supabase JWTs verified via JWKS. Stripe Premium at $9.99/mo gates the AI Concierge. Verification: 56 of 56 unit tests, SQL dry runs, end-to-end smoke tests on a real test user.",
+      "I built samanTA, an AI quiz and tutoring platform that runs across a React + Vite web app, a FastAPI backend on Supabase, and a Python Telegram bot. Coaches assemble single-select, multi-select, and open quizzes; students take them on the web or inside Telegram, and OpenAI generates and grades content. The bot handles linking, quiz delivery, streak tracking, and configurable reminders at 24, 48, 72, 120, and 168 hour cadences, gated by a require_linked_account decorator that resolves the supabase_user_id before any handler runs. Auth uses Supabase JWTs verified via JWKS. A Stripe-gated premium tier gates the AI Concierge. Verification: 56 of 56 unit tests, SQL dry runs, end-to-end smoke tests on a real test user.",
     stack: ['React + Vite', 'FastAPI', 'Supabase', 'OpenAI', 'Telegram'],
     sticker: '[ TELEGRAM ]',
+    // Dot grid echoes chat-bubble / quiz-tick texture
     mediaStyle: {
-      background:
-        'linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 155) 60%, oklch(14% 0.03 155) 100%)'
+      backgroundImage:
+        'radial-gradient(circle at center, oklch(45% 0.06 155 / 0.28) 1.4px, transparent 2px), linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 155) 60%, oklch(14% 0.03 155) 100%)',
+      backgroundSize: '22px 22px, auto'
     },
     bigmarkColor: 'var(--good)',
     bentoSpan: 'md:col-span-1 md:row-span-1',
@@ -83,9 +87,11 @@ export const CASES: CaseStudy[] = [
       "I built Polymarket Tracker, a cron-driven scraper plus paper-trader that watches the top 50 Polymarket CRYPTO accounts trading BTC up-or-down 5-minute markets. Core scanner is a zero-dependency Node 20 script (track.mjs uses native fetch) deployed two ways: a GitHub Actions cron firing every 15 minutes via cron-job.org workflow_dispatch, plus a local Windows Task Scheduler job that writes directly into Obsidian via the Local REST API. State persists in a committed state.json with last-seen timestamps and recent transaction hashes for dedup. A separate signal layer on the same data feeds a paper-trading harness running in PAPER mode. Workflow stays green; observed cron response is HTTP 204, security-audited end to end.",
     stack: ['Node 20', 'GitHub Actions', 'Polymarket API'],
     sticker: '[ 5m CRON ]',
+    // Fine ticked grid echoes 5-minute candlestick chart axes
     mediaStyle: {
-      background:
-        'linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 25) 60%, oklch(14% 0.03 25) 100%)'
+      backgroundImage:
+        'repeating-linear-gradient(90deg, transparent 0 23px, oklch(45% 0.05 25 / 0.18) 23px 24px), repeating-linear-gradient(0deg, transparent 0 23px, oklch(45% 0.05 25 / 0.10) 23px 24px), linear-gradient(135deg, var(--bg-base) 0%, oklch(12% 0.02 25) 60%, oklch(14% 0.03 25) 100%)',
+      backgroundSize: '24px 24px, 24px 24px, auto'
     },
     bigmarkColor: 'var(--good)',
     bentoSpan: 'md:col-span-1 md:row-span-1',
@@ -96,7 +102,7 @@ export const CASES: CaseStudy[] = [
     slug: 'kenmore',
     year: '2026',
     client: 'Kenmore',
-    tag: 'Freelance',
+    tag: 'Client work',
     title: 'Kenmore Appliance Support',
     bigmarkHTML: 'K',
     short:

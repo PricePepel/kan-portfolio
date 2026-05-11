@@ -9,11 +9,11 @@ export function ConsoleSignature() {
       const body = 'color:#c28a3d;font-family:ui-monospace,monospace;font-size:12px;line-height:1.6;';
       const mute = 'color:#7a6b58;font-family:ui-monospace,monospace;font-size:11px;line-height:1.6;';
       console.log(
-        '%c K %c  Kan · AI integration specialist for SaaS\n' +
-          '%c  Anthropic, OpenAI, Next.js, Supabase. Production AI features, shipped fast.\n' +
-          "   Booking June 2026 onward. Tashkent · GMT+5.\n" +
+        '%c K %c  Kan · Builder. Tashkent → Minerva.\n' +
+          '%c  17, finishing school. Four AI projects shipped, all written up.\n' +
+          "   Anthropic, OpenAI, Next.js, Supabase. Minerva class of 2030.\n" +
           '   nicetryskrock@gmail.com\n\n' +
-          '%c  PS: rebuilt in Next.js 15 + GSAP + Tailwind v4. Found a bug? Tell me.',
+          '%c  PS: built in Next.js 15 + GSAP + Tailwind v4. Found a bug? Tell me.',
         k,
         body,
         body,

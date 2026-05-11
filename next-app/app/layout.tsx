@@ -1,22 +1,24 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
+import { TashkentSky } from '@/components/TashkentSky';
+import { ScrollReveal } from '@/components/ScrollReveal';
 
 const OG_DESC =
-  'Production AI features for SaaS. Anthropic, OpenAI, Next.js, Supabase. Flat fee, no retainer.';
+  'Production AI, shipped before university. Four projects live across SaaS, edtech, market analysis, and a WordPress build. Tashkent → Minerva, class of 2030.';
 
 export const metadata: Metadata = {
-  title: 'Kan · AI integration specialist for SaaS',
+  title: 'Kan · Builder. Tashkent → Minerva.',
   description:
-    'I ship production AI features for SaaS. Anthropic, OpenAI, Next.js, Supabase. Fast turnaround, flat fee, no retainer. Tashkent, Uzbekistan.',
+    'I ship production AI features and tools. Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up in public. Heading to Minerva University in August 2026, class of 2030.',
   openGraph: {
-    title: 'Kan · AI integration specialist for SaaS',
+    title: 'Kan · Builder. Tashkent → Minerva.',
     description: OG_DESC,
     type: 'website',
     siteName: 'Kan'
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Kan · AI integration specialist for SaaS',
+    title: 'Kan · Builder. Tashkent → Minerva.',
     description: OG_DESC
   },
   icons: {
@@ -45,6 +47,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className="overflow-x-hidden w-full max-w-full">
         <a href="#hero" className="skip-link">Skip to content</a>
+        <TashkentSky />
+        <ScrollReveal />
         {children}
       </body>
     </html>

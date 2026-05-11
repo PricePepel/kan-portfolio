@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'Kan · AI integration specialist for SaaS';
+export const alt = 'Kan · Builder. Tashkent → Minerva.';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -43,7 +43,7 @@ export default async function OG() {
           </div>
           <div style={{ fontSize: 22, fontWeight: 600, opacity: 0.7 }}>Kan</div>
           <div style={{ marginLeft: 'auto', fontSize: 18, opacity: 0.5, fontFamily: 'monospace' }}>
-            AVAILABLE · JUN &apos;26
+            BUILDING · 2026
           </div>
         </div>
 
@@ -58,10 +58,9 @@ export default async function OG() {
               flexDirection: 'column'
             }}
           >
-            <span>AI integration specialist</span>
+            <span>Production AI,</span>
             <span>
-              for{' '}
-              <span style={{ color: '#c98e3d' }}>SaaS founders.</span>
+              <span style={{ color: '#c98e3d' }}>shipped before university.</span>
             </span>
           </div>
           <div
@@ -72,7 +71,7 @@ export default async function OG() {
               lineHeight: 1.4
             }}
           >
-            Anthropic, OpenAI, Next.js, Supabase. Flat fee, no retainer. Tashkent · GMT+5.
+            Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up. Tashkent · GMT+5.
           </div>
         </div>
 

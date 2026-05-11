@@ -100,31 +100,10 @@ export function SelectedWork() {
   // and consumed on close so we always pop our own entry rather than leaving it.
   const ownsHistoryEntryRef = useRef(false);
 
-  // Card stacking on scroll: each tile reveals with subtle scale-in + fade
-  useGSAP(
-    () => {
-      const tiles = gsap.utils.toArray<HTMLElement>('.case-tile');
-      tiles.forEach((tile) => {
-        gsap.fromTo(
-          tile,
-          { y: 60, opacity: 0, scale: 0.96 },
-          {
-            y: 0,
-            opacity: 1,
-            scale: 1,
-            duration: 0.9,
-            ease: 'expo.out',
-            scrollTrigger: {
-              trigger: tile,
-              start: 'top 85%',
-              once: true
-            }
-          }
-        );
-      });
-    },
-    { scope: sectionRef }
-  );
+  // Scroll-reveal removed by editorial choice: two scroll-fade systems
+  // (here + Process) competed and gave the page a "everything fades up"
+  // feeling. The case-bigmark View Transition on open is the load-bearing
+  // motion for this section; tiles are present from first paint.
 
   // Hash sync — runs on mount AND on popstate. We never push history from here;
   // popstate is the single source of truth for activeSlug.
@@ -250,8 +229,8 @@ export function SelectedWork() {
         <div className="mx-auto max-w-[1400px]">
           <header className="mb-16 flex flex-col gap-5">
             <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
-              <span className="rule-draw inline-block h-px w-7 bg-[var(--accent)]" />
-              ( 02 / selected work · 2025 )
+              <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
+              ( 02 / selected work · 2025–26 )
             </span>
             <h2
               className="font-bold tracking-tight"
@@ -264,9 +243,9 @@ export function SelectedWork() {
                 textWrap: 'balance'
               }}
             >
-              Recent builds.{' '}
+              Four builds.{' '}
               <span style={{ color: 'var(--text-faint)', fontWeight: 300 }}>
-                Four shipped, more under NDA.
+                Shipped, written up, in production.
               </span>
             </h2>
           </header>
@@ -340,8 +319,13 @@ function CaseTile({
           )}
         </h3>
         <p className="text-[14px] leading-[1.55] text-[var(--text-mute)]">{caseStudy.short}</p>
-        <span className="mt-2 inline-flex items-center gap-1 font-mono text-[11px] uppercase tracking-[0.06em] text-[var(--accent)] transition-all group-hover:gap-2">
-          Read case <ArrowUpRight size={12} weight="bold" />
+        <span className="mt-2 inline-flex items-center gap-1.5 font-mono text-[11px] uppercase tracking-[0.06em] text-[var(--accent)]">
+          Read case
+          <ArrowUpRight
+            size={12}
+            weight="bold"
+            className="transition-transform duration-300 group-hover:translate-x-0.5"
+          />
         </span>
       </div>
     </a>
@@ -362,7 +346,7 @@ function CaseDetail({ caseStudy, onClose }: { caseStudy: CaseStudy; onClose: () 
         data-close-btn
         onClick={onClose}
         aria-label="Close case detail"
-        className="fixed right-6 top-6 z-[210] grid h-12 w-12 place-items-center rounded-full border border-[var(--line-2)] bg-[var(--bg-elev)] text-[var(--text)] transition-all duration-200 hover:rotate-90 hover:border-[var(--text)] hover:bg-[var(--bg-elev-2)] active:scale-95 md:right-10 md:top-10"
+        className="fixed right-6 top-6 z-[210] grid h-12 w-12 place-items-center rounded-full border border-[var(--line-2)] bg-[var(--bg-elev)] text-[var(--text)] transition-[transform,background-color,border-color] duration-200 hover:rotate-90 hover:border-[var(--text)] hover:bg-[var(--bg-elev-2)] active:scale-95 md:right-10 md:top-10"
       >
         <X size={20} weight="bold" />
       </button>

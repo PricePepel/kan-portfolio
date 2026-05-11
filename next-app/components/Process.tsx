@@ -17,34 +17,39 @@ interface Step {
 const STEPS: Step[] = [
   {
     num: '01',
-    title: 'Discovery call',
-    body: '30 minutes. We scope the feature, surface risks, and agree on what gets shipped.',
-    time: '~30 min'
+    title: 'Sit with the problem',
+    body: 'Read the docs, the repos, the prior art. The right question is usually sharper than the first sketch.',
+    time: '1–3 days'
   },
   {
     num: '02',
-    title: 'Fixed scope, flat fee',
-    body: 'A one-page brief with deliverable, timeline, and a single number. No retainer, no change orders.',
-    time: '~48 h'
+    title: 'Smallest end-to-end slice',
+    body: 'A working flow from input to output beats four perfect components in isolation. Get the loop running first.',
+    time: 'Week 1'
   },
   {
     num: '03',
-    title: 'Ship in N weeks',
-    body: 'Daily commits to a shared repo. Async updates over Slack or email. Demo every Friday.',
+    title: 'Ship in public',
+    body: 'Daily commits to a shared repo, weekly write-ups. The work compounds because it stays visible.',
     time: '2–6 wk'
   },
   {
     num: '04',
-    title: 'Handover',
-    body: 'Code, docs, deploys, costs. Yours to own. I stay reachable for two weeks of bug-fix support.',
-    time: '+2 wk'
+    title: 'Document and move on',
+    body: 'Postmortem the week after handover. Open-source what is safe to open. Two weeks later it teaches someone else.',
+    time: '+1 wk'
   }
 ];
 
 export function Process() {
   const sectionRef = useRef<HTMLElement | null>(null);
 
-  // Scroll-pin: sticky title left, steps scroll up right
+  // Scroll-pin: sticky title left, steps scroll up right.
+  // The pin is the entire motion of this section — it is structural and
+  // communicates "this is a sequence." The previous step entrance fade-up
+  // was removed in the same pass as SelectedWork's tile scroll-reveal;
+  // two scroll-fade systems competed and gave the page a uniform
+  // "everything-fades-up" rhythm.
   useGSAP(
     () => {
       const mm = gsap.matchMedia();
@@ -53,7 +58,6 @@ export function Process() {
         const stepsCol = sectionRef.current?.querySelector<HTMLElement>('.process-steps');
         if (!stickyEl || !stepsCol) return;
 
-        // Pin the title column for the duration of the steps scroll
         ScrollTrigger.create({
           trigger: sectionRef.current!,
           start: 'top top+=80',
@@ -61,22 +65,6 @@ export function Process() {
           end: 'bottom bottom-=120',
           pin: stickyEl,
           pinSpacing: false
-        });
-
-        // Stagger fade-in for each step on enter
-        const steps = gsap.utils.toArray<HTMLElement>('.process-step');
-        steps.forEach((s) => {
-          gsap.fromTo(
-            s,
-            { y: 50, opacity: 0 },
-            {
-              y: 0,
-              opacity: 1,
-              duration: 0.85,
-              ease: 'expo.out',
-              scrollTrigger: { trigger: s, start: 'top 78%', once: true }
-            }
-          );
         });
       });
     },
@@ -93,7 +81,7 @@ export function Process() {
         {/* Sticky title */}
         <div className="process-sticky">
           <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
-            <span className="rule-draw inline-block h-px w-7 bg-[var(--accent)]" />
+            <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
             ( 03 / process )
           </span>
           <h2
@@ -107,10 +95,10 @@ export function Process() {
               textWrap: 'balance'
             }}
           >
-            How we ship together.
+            How I approach a build.
           </h2>
           <p className="mt-6 max-w-[42ch] text-[16px] leading-[1.6] text-[var(--text-mute)]">
-            Four chapters from the first call to handover. Same shape every project.
+            Four chapters from problem to handover. Same shape every project: the slow part comes first.
           </p>
         </div>
 
