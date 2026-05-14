@@ -1,0 +1,87 @@
+{
+  "matched": [
+    {
+      "company": "Canonical",
+      "role": "Graduate Software Engineer",
+      "url": "https://canonical.com/careers/7814327",
+      "method": "web-form",
+      "ats": "direct",
+      "category": "ai-ml",
+      "details": "Remote globally, 2025-2026 grads, Python/JS/Go, AI/ML/Cloud/K8s work areas, competitive pay + 2K learning budget",
+      "priority": "A",
+      "status": "ready_to_apply"
+    }
+  ],
+  "emailContacts": [
+    {
+      "company": "Five Q",
+      "email": "jobs@fiveq.com",
+      "category": "other",
+      "description": "Interactive web development and marketing agency"
+    },
+    {
+      "company": "Sysdig Cloud",
+      "email": "talent@sysdig.com",
+      "category": "ai-ml",
+      "description": "Container security, monitoring, forensics"
+    },
+    {
+      "company": "Zapier",
+      "email": "recruiting@zapier.com",
+      "category": "devtools",
+      "description": "Connect apps, automate tasks"
+    },
+    {
+      "company": "Doist",
+      "email": "careers@doist.com",
+      "category": "saas",
+      "description": "Productivity software (Todoist, Twist)"
+    },
+    {
+      "company": "Stripe",
+      "email": "candidatefeedback-applications@stripe.com",
+      "category": "fintech",
+      "description": "Payment infrastructure, has university recruiting"
+    }
+  ],
+  "noOpenings": [
+    "Gridium",
+    "Foundersuite.com",
+    "BloodHub",
+    "Railroad19",
+    "Antavo",
+    "Buffer"
+  ],
+  "jsRendered": [
+    "Aha!",
+    "Bitovi",
+    "ConvertKit",
+    "GitLab",
+    "Stripe",
+    "CircleCI",
+    "Heroku",
+    "Mozilla"
+  ],
+  "redirected": [
+    {
+      "company": "Formstack",
+      "newUrl": "intellistack.com (Ashby ATS)"
+    },
+    {
+      "company": "Auth0",
+      "newUrl": "okta.com/company/careers/"
+    },
+    {
+      "company": "Domino Data Lab",
+      "newUrl": "domino.ai/careers (no junior roles)"
+    },
+    {
+      "company": "Mozilla",
+      "newUrl": "mozilla.org/careers/en-US/"
+    }
+  ],
+  "notFound": [
+    "Litmus (404)",
+    "Mattermost (403 on Lever)"
+  ]
+}
