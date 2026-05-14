@@ -1,6 +1,6 @@
 # Cold Email Draft — Five Q
 
-**To:** jobs@fiveq.com
+**To:** hire@fiveq.com
 **From:** nicetryskrock@gmail.com
 **Subject:** Junior Developer Application — Ruslan Kan | Minerva CS '30
 

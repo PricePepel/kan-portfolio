@@ -1,0 +1,177 @@
+[
+  {
+    "name": "GatherContent",
+    "email": "careers@bynder.com",
+    "description": "Painlessly plan, organise and produce web con",
+    "category": "ai-ml",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "GMB Fitness",
+    "email": "hi@gmb.io",
+    "description": "Online fitness training",
+    "category": "ai-ml",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Mobomo",
+    "email": "hiring@mobomo.com",
+    "description": "Software product development",
+    "category": "saas",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Network Ninja",
+    "email": "nni@networkninja.com",
+    "description": "Customizable Management Software",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Recruiterbox",
+    "email": "hire@trakstar.com",
+    "description": "Recruitment software",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "AdEspresso",
+    "email": "work@adespresso.com",
+    "description": "Optimize your Facebook Ads Easily",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Axelerant",
+    "email": "jobs@axelerant.com",
+    "description": "We’re an incubator for innovative products and services created to make the world a happier place.",
+    "category": "saas",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Bugcrowd",
+    "email": "careers@bugcrowd.com",
+    "description": "We bring thousands of good hackers to the fight,",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Covenant Eyes",
+    "email": "employment@covenanteyes.com",
+    "description": "Internet filtering and accountability",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Digital Ocean",
+    "email": "recops@digitalocean.com",
+    "description": "Simple Cloud Hosting, Built for Developers.",
+    "category": "devtools",
+    "employeeCount": "501-1000"
+  },
+  {
+    "name": "Human Made",
+    "email": "hiring@humanmade.com",
+    "description": "WordPress Development",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Kanopi Studios",
+    "email": "hr@kanopi.com",
+    "description": "Open Source Design, Development & Support",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Paylock",
+    "email": "hr@paylock.com",
+    "description": "Offers a suite of parking management services",
+    "category": "other",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "ScienceLogic",
+    "email": "hr@sciencelogic.com",
+    "description": "Hybrid IT Monitoring",
+    "category": "other",
+    "employeeCount": "201-500"
+  },
+  {
+    "name": "Surevine",
+    "email": "jobs@surevine.com",
+    "description": "Secure Collaboration Solutions",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "SurveyMonkey",
+    "email": "recruiting@surveymonkey.com",
+    "description": "Create professional surveys tailored to your needs",
+    "category": "ai-ml",
+    "employeeCount": "501-1000"
+  },
+  {
+    "name": "Treehouse",
+    "email": "jobs@teamtreehouse.com",
+    "description": "Treehouse is an online interactive education platform",
+    "category": "edtech",
+    "employeeCount": "51-200"
+  },
+  {
+    "name": "Wikimedia",
+    "email": "recruiting@wikimedia.org",
+    "description": "wikipedia :doge:",
+    "category": "other",
+    "employeeCount": "201-500"
+  },
+  {
+    "name": "GOFAR",
+    "email": "ian@gofar.co",
+    "description": "We log, score and improve driving beautifully",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Logmein",
+    "email": "jobs@goto.com",
+    "description": "Get In and go with remote access from LogMeIn",
+    "category": "other",
+    "employeeCount": "1001-5000"
+  },
+  {
+    "name": "MarsBased",
+    "email": "hola@marsbased.com",
+    "description": "Design & development consultancy",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Prezly",
+    "email": "al@prezly.com",
+    "description": "Connect your content with your influencers.",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Team App",
+    "email": "jobs@teamapp.com",
+    "description": "Smartphone app for sports team communication.",
+    "category": "other",
+    "employeeCount": "11-50"
+  },
+  {
+    "name": "Owsy",
+    "email": "careers@bindhq.com",
+    "description": "CREATING PRODUCTS FOR FINANCIAL SERVICES FIRMS.",
+    "category": "saas",
+    "employeeCount": "1-10"
+  },
+  {
+    "name": "Waygo",
+    "email": "jobs@translateabroad.com",
+    "description": "Visual OCR & Translation for Mobile",
+    "category": "other",
+    "employeeCount": "1-10"
+  }
+]
