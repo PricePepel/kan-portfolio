@@ -82,7 +82,7 @@ export function Process() {
         <div className="process-sticky">
           <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
             <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
-            ( 03 / process )
+            ( 04 / how i work )
           </span>
           <h2
             className="mt-5 font-bold tracking-tight"

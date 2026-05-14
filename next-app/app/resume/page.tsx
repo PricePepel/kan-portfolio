@@ -27,14 +27,14 @@ type Project = {
 const EXPERIENCE: Role[] = [
   {
     title: 'Lead Software Developer & Co-founder',
-    org: 'Saman AI Academy — EU EdTech4BY accelerator portfolio',
+    org: 'Saman AI Academy · EU EdTech4BY accelerator portfolio',
     location: 'Tashkent, Uzbekistan',
-    dates: 'Jun. 2025 — Present',
+    dates: 'Jun. 2025 – Present',
     bullets: [
       <>
         Built <strong>samanTA</strong> (ta.saman.academy) AI quiz/tutor platform:{' '}
         <strong>117 users, 70 deployed school bots, 562 quiz sessions, 59.8% completion, 77.6% avg score</strong> since
-        launch — Telegram + web cabinet on FastAPI / Supabase / OpenAI.
+        launch on Telegram + web cabinet (FastAPI / Supabase / OpenAI).
       </>,
       <>
         Shipped <strong>Saman CRM</strong> coach cockpit (saman.academy): 5-tab dashboard, AI Concierge (GPT-4o context
@@ -54,7 +54,7 @@ const EXPERIENCE: Role[] = [
     title: 'Web Development Instructor (Volunteer)',
     org: 'ITSTEP Academy',
     location: 'Tashkent, Uzbekistan',
-    dates: '2024 — 2025',
+    dates: '2024 – 2025',
     bullets: [
       <>
         Taught HTML/CSS, JavaScript, and React to <strong>80+ students aged 10–17</strong> across multiple cohorts; built
@@ -63,7 +63,7 @@ const EXPERIENCE: Role[] = [
     ],
   },
   {
-    title: 'Sole Author — Peer-Reviewed Publication',
+    title: 'Sole Author · Peer-Reviewed Publication',
     org: 'Journal of Fintech, Business, and Development (JFBD), ISSN 3065-9809',
     location: 'Vol. 2 No. 1, pp. 1–15',
     dates: 'Aug. 2025',
@@ -73,7 +73,7 @@ const EXPERIENCE: Role[] = [
           “Influence of Components of the Artificial Intelligence on the Fin-tech Market of Uzbekistan: Banking and
           Insurance Systems”
         </a>{' '}
-        — 15-page analysis of AI as a mechanism for structural change, inclusion, and trust in financial systems.
+        (15-page analysis of AI as a mechanism for structural change, inclusion, and trust in financial systems).
       </>,
       'Surveyed AI adoption across credit scoring, fraud detection, biometric authentication, and digital banking in Uzbekistan; combined secondary data with expert interviews and proposed a government-strategy framework.',
     ],
@@ -84,7 +84,7 @@ const PROJECTS: Project[] = [
   {
     name: 'TrainHire (Naviq)',
     stack: 'Next.js 16, React 19, Supabase, Anthropic Claude, Stripe, HeyGen',
-    dates: '2026 — Present',
+    dates: '2026 – Present',
     bullets: [
       'B2B SaaS that AI-generates 80-lesson training academies tailored to each employer’s internship specialty; three role-scoped portals (Dev, Employer, Intern) with idempotent UTC streak keys and JWKS-verified auth.',
       'Integrates Anthropic Claude Sonnet for lesson generation and HeyGen for AI presenter videos; Stripe employer subscription planned.',
@@ -93,7 +93,7 @@ const PROJECTS: Project[] = [
   {
     name: 'OLMA',
     stack: 'Next.js 15, Supabase, Zustand, React Query',
-    dates: '2025 — 2026',
+    dates: '2025 – 2026',
     bullets: [
       'Peer-to-peer learning network with dual-currency skill exchange, clubs, and gamified rankings; MVP shipped end-to-end including auth, social graph, and ranking engine.',
     ],
@@ -101,7 +101,7 @@ const PROJECTS: Project[] = [
   {
     name: 'Polymarket Tracker',
     stack: 'Node 20, GitHub Actions cron, Polymarket public API',
-    dates: '2026 — Present',
+    dates: '2026 – Present',
     bullets: [
       'Cron-driven scraper and paper-trader for the top-50 BTC 5-minute prediction-market contracts; runs on GitHub Actions, writes structured logs to an Obsidian-Git repo, security-audited PAPER mode.',
     ],
@@ -140,17 +140,17 @@ export default function ResumePage() {
           <div className="resume__entry">
             <div className="resume__entry-row">
               <strong>Minerva University</strong>
-              <span>Aug. 2026 — May 2030</span>
+              <span>Aug. 2026 – May 2030</span>
             </div>
             <div className="resume__entry-row resume__entry-row--italic">
               <span>B.S. in Computer Science (incoming, Class of 2030)</span>
-              <span>San Francisco → Seoul, Hyderabad, Berlin, Buenos Aires, London/Taipei</span>
+              <span>San Francisco → Tokyo → Buenos Aires → Berlin</span>
             </div>
           </div>
           <div className="resume__entry">
             <div className="resume__entry-row">
               <strong>Tashkent High School (11-year system)</strong>
-              <span>Sep. 2015 — Jun. 2026</span>
+              <span>Sep. 2015 – Jun. 2026</span>
             </div>
             <div className="resume__entry-row resume__entry-row--italic">
               <span>
@@ -210,14 +210,14 @@ export default function ResumePage() {
               Uzbekistan.
             </li>
             <li>
-              <strong>Math olympiads &mdash; 19+ wins</strong> across AMO, SASMO, SEAMO, AMC, and Math League.
+              <strong>Math olympiads · 19+ wins</strong> across AMO, SASMO, SEAMO, AMC, and Math League.
             </li>
             <li>
               <strong>World Scholar&rsquo;s Cup:</strong> 2&times; WOW Speaker at Nationals; <strong>#8 overall Senior
               Division</strong>, Tashkent National Round 2026; 20+ medals/cups across rounds.
             </li>
             <li>
-              <strong>Languages:</strong> Russian (native), English (fluent — IELTS 7.5).
+              <strong>Languages:</strong> Russian (native), English (fluent, IELTS 7.5).
             </li>
           </ul>
         </section>

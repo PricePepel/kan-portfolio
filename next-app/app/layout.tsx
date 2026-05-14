@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { TashkentSky } from '@/components/TashkentSky';
 import { ScrollReveal } from '@/components/ScrollReveal';
+import { SmoothScroll } from '@/components/SmoothScroll';
+import { LoadingScreen } from '@/components/LoadingScreen';
 
 const OG_DESC =
   'Production AI, shipped before university. Four projects live across SaaS, edtech, market analysis, and a WordPress build. Tashkent → Minerva, class of 2030.';
@@ -49,6 +51,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a href="#hero" className="skip-link">Skip to content</a>
         <TashkentSky />
         <ScrollReveal />
+        <SmoothScroll />
+        <LoadingScreen />
         {children}
       </body>
     </html>
