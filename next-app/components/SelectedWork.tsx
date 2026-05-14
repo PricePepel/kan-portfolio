@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
+import { animate, text } from 'animejs';
 import { ArrowUpRight, X } from '@phosphor-icons/react';
 import { CASES, type CaseStudy, type CaseSlug } from '@/lib/cases';
 
@@ -42,9 +43,7 @@ function Bigmark({
   const fontSize =
     variant === 'detail'
       ? 'clamp(120px, 24vw, 280px)'
-      : caseStudy.bentoSpan.includes('col-span-2')
-        ? 'clamp(120px, 18vw, 240px)'
-        : 'clamp(80px, 10vw, 140px)';
+      : 'clamp(80px, 11vw, 140px)';
 
   const className =
     variant === 'tile'
@@ -127,8 +126,17 @@ export function SelectedWork() {
 
   // Body scroll lock when modal open
   useEffect(() => {
-    document.body.style.overflow = activeSlug ? 'hidden' : '';
-    return () => { document.body.style.overflow = ''; };
+    if (activeSlug) {
+      document.body.style.overflow = 'hidden';
+      (window as any).__lenis?.stop();
+    } else {
+      document.body.style.overflow = '';
+      (window as any).__lenis?.start();
+    }
+    return () => {
+      document.body.style.overflow = '';
+      (window as any).__lenis?.start();
+    };
   }, [activeSlug]);
 
   const reduced =
@@ -230,7 +238,7 @@ export function SelectedWork() {
           <header className="mb-16 flex flex-col gap-5">
             <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
               <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
-              ( 02 / selected work · 2025–26 )
+              ( 03 / selected work · 2025–26 )
             </span>
             <h2
               className="font-bold tracking-tight"
@@ -250,10 +258,23 @@ export function SelectedWork() {
             </h2>
           </header>
 
-          <div className="grid grid-cols-1 gap-3 md:grid-cols-3 md:grid-rows-3 md:[grid-auto-flow:dense]">
-            {CASES.map((c) => (
-              <CaseTile key={c.slug} caseStudy={c} onOpen={openCase} />
+          <div
+            className="selected-work-scroller flex w-full snap-x snap-mandatory items-stretch gap-5 overflow-x-auto pb-4 md:grid md:grid-cols-2 md:gap-7 md:overflow-visible"
+            style={{
+              scrollPaddingInline: '24px',
+              scrollbarColor: 'var(--line-2) transparent',
+              scrollbarWidth: 'thin',
+            }}
+            aria-label="Selected projects"
+          >
+            {CASES.map((c, i) => (
+              <CaseTile key={c.slug} caseStudy={c} onOpen={openCase} index={i} total={CASES.length} />
             ))}
+          </div>
+          <div className="mt-5 flex items-center gap-3 font-mono text-[11px] uppercase tracking-[0.06em] text-[var(--text-faint)] md:hidden">
+            <span aria-hidden="true">←</span>
+            <span>Drag · scroll · arrow-keys</span>
+            <span aria-hidden="true">→</span>
           </div>
         </div>
       </section>
@@ -267,18 +288,59 @@ export function SelectedWork() {
 
 function CaseTile({
   caseStudy,
-  onOpen
+  onOpen,
+  index,
 }: {
   caseStudy: CaseStudy;
   onOpen: (slug: CaseSlug, el: HTMLElement | null) => void;
+  index: number;
+  total: number;
 }) {
   const ref = useRef<HTMLAnchorElement | null>(null);
+
+  // Scramble title on hover. Uses anime.js v4 text.scrambleText.
+  useEffect(() => {
+    const root = ref.current;
+    if (!root) return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const titleEl = root.querySelector<HTMLElement>('.case-title-text');
+    if (!titleEl) return;
+    const originalText = titleEl.textContent || '';
+
+    let scrambling = false;
+    const handleEnter = () => {
+      if (scrambling) return;
+      scrambling = true;
+      animate(titleEl, {
+        innerHTML: text.scrambleText({
+          duration: 600,
+          revealRate: 60,
+          chars: 'lowerCase',
+          text: originalText,
+        }),
+        onComplete: () => {
+          scrambling = false;
+          titleEl.textContent = originalText;
+        },
+      });
+    };
+
+    root.addEventListener('mouseenter', handleEnter);
+    return () => {
+      root.removeEventListener('mouseenter', handleEnter);
+    };
+  }, []);
+
   return (
     <a
       ref={ref}
       href={`#case/${caseStudy.slug}`}
       aria-label={`Open ${caseStudy.title} case study`}
-      className={`case-tile group relative flex flex-col overflow-hidden rounded-[2px] border border-[var(--line)] transition-colors hover:border-[var(--accent)] ${caseStudy.bentoSpan} ${caseStudy.bentoMinH}`}
+      className="case-tile group relative flex shrink-0 snap-center flex-col overflow-hidden rounded-[4px] border border-[var(--line)] transition-[border-color] duration-300 hover:border-[var(--accent)] focus-visible:outline-2 focus-visible:outline-offset-[3px] w-[min(82vw,520px)] md:w-full md:shrink min-h-[420px] md:min-h-[400px]"
+      style={{
+        outlineColor: 'var(--accent)',
+      }}
       onClick={(e) => {
         e.preventDefault();
         onOpen(caseStudy.slug, ref.current);
@@ -313,7 +375,7 @@ function CaseTile({
           className="font-bold tracking-tight"
           style={{ fontFamily: 'var(--font-display)', fontSize: '22px', letterSpacing: '-0.02em' }}
         >
-          {caseStudy.title}
+          <span className="case-title-text">{caseStudy.title}</span>
           {caseStudy.subtitle && (
             <span style={{ color: 'var(--text-mute)', fontWeight: 500 }}> {caseStudy.subtitle}</span>
           )}
