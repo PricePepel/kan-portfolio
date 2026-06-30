@@ -6,7 +6,7 @@ import './resume.css';
 export const metadata: Metadata = {
   title: 'Resume — Ruslan Kan',
   description:
-    'One-page resume for Ruslan Kan: Lead Software Developer & co-founder at Saman AI Academy (EU EdTech4BY accelerator), incoming Minerva University Class of 2030.',
+    'One-page resume for Ruslan Kan: Lead Software Developer & co-founder at Bloomin (formerly Saman AI Academy, EU EdTech4BY accelerator), incoming Minerva University Class of 2030.',
 };
 
 type Bullet = string | React.ReactNode;
@@ -27,26 +27,27 @@ type Project = {
 const EXPERIENCE: Role[] = [
   {
     title: 'Lead Software Developer & Co-founder',
-    org: 'Saman AI Academy · EU EdTech4BY accelerator portfolio',
+    org: 'Bloomin (formerly Saman AI Academy) · EU EdTech4BY accelerator portfolio',
     location: 'Tashkent, Uzbekistan',
     dates: 'Jun. 2025 – Present',
     bullets: [
       <>
-        Built <strong>samanTA</strong> (ta.saman.academy) AI quiz/tutor platform:{' '}
-        <strong>117 users, 70 deployed school bots, 562 quiz sessions, 59.8% completion, 77.6% avg score</strong> since
-        launch on Telegram + web cabinet (FastAPI / Supabase / OpenAI).
+        Grew <strong>samanTA</strong> (ta.saman.academy) to{' '}
+        <strong>117 users across 70 deployed school bots</strong> (562 quiz sessions, 77.6% avg score) by building an AI
+        quiz/tutor on FastAPI, Supabase, and OpenAI with a Telegram + web cabinet.
       </>,
       <>
-        Shipped <strong>Saman CRM</strong> coach cockpit (saman.academy): 5-tab dashboard, AI Concierge (GPT-4o context
-        document + GPT-4o-mini Telegram nudges), Stripe $9.99/mo Premium paywall, public coach landing pages.
+        Launched the <strong>Bloomin coach platform</strong> (trybloomin.ai, formerly Saman CRM) to onboard coaches via
+        invite links — shipping a 5-tab dashboard, coaches directory, Impact Cards, an AI Concierge (GPT-4o + GPT-4o-mini
+        Telegram nudges), and a Stripe Premium paywall.
       </>,
       <>
-        Closed <strong>$5K seed</strong> from <strong>EU EdTech4BY accelerator</strong>;{' '}
-        <strong>$15K second tranche</strong> under review.
+        Raised <strong>€20K</strong> to date (EU EdTech4BY accelerator portfolio), with a further <strong>€30K</strong>{' '}
+        round in progress.
       </>,
       <>
-        Own engineering across three production surfaces (samanTA, CRM, Rankings) sharing one FastAPI backend on Supabase;
-        co-lead product strategy with CEO, COO/CPO, and CTO.
+        Own engineering across three production surfaces (samanTA, the Bloomin coach platform, Rankings) on one shared
+        FastAPI/Supabase backend, and co-lead product strategy with the CEO, COO/CPO, and CTO.
       </>,
     ],
   },
@@ -57,8 +58,8 @@ const EXPERIENCE: Role[] = [
     dates: '2024 – 2025',
     bullets: [
       <>
-        Taught HTML/CSS, JavaScript, and React to <strong>80+ students aged 10–17</strong> across multiple cohorts; built
-        lesson plans and mentored first deployed projects.
+        Taught web development (HTML/CSS, JavaScript, React) to <strong>80+ students aged 10–17</strong> across multiple
+        cohorts, authoring lesson plans and mentoring each student’s first deployed project.
       </>,
     ],
   },
@@ -86,7 +87,7 @@ const PROJECTS: Project[] = [
     stack: 'Next.js 16, React 19, Supabase, Anthropic Claude, Stripe, HeyGen',
     dates: '2026 – Present',
     bullets: [
-      'B2B SaaS that AI-generates 80-lesson training academies tailored to each employer’s internship specialty; three role-scoped portals (Dev, Employer, Intern) with idempotent UTC streak keys and JWKS-verified auth.',
+      'AI-generates 20-lesson onboarding academies per role — automating ~3–4 hrs of manual curriculum work each — across three role-scoped portals (Dev/Employer/Intern) with idempotent UTC streak keys and JWKS-verified auth.',
       'Integrates Anthropic Claude Sonnet for lesson generation and HeyGen for AI presenter videos; Stripe employer subscription planned.',
     ],
   },
@@ -95,7 +96,7 @@ const PROJECTS: Project[] = [
     stack: 'Next.js 15, Supabase, Zustand, React Query',
     dates: '2025 – 2026',
     bullets: [
-      'Peer-to-peer learning network with dual-currency skill exchange, clubs, and gamified rankings; MVP shipped end-to-end including auth, social graph, and ranking engine.',
+      'Shipped a peer-to-peer learning network end-to-end — auth, social graph, dual-currency skill exchange, clubs, and a gamified ranking engine.',
     ],
   },
   {
@@ -103,7 +104,7 @@ const PROJECTS: Project[] = [
     stack: 'Node 20, GitHub Actions cron, Polymarket public API',
     dates: '2026 – Present',
     bullets: [
-      'Cron-driven scraper and paper-trader for the top-50 BTC 5-minute prediction-market contracts; runs on GitHub Actions, writes structured logs to an Obsidian-Git repo, security-audited PAPER mode.',
+      'Built a zero-dependency cron scraper + paper-trader tracking the top-50 BTC 5-minute prediction markets — runs on GitHub Actions, commits structured logs to an Obsidian-Git repo, security-audited PAPER mode.',
     ],
   },
 ];
@@ -123,7 +124,7 @@ export default function ResumePage() {
         <header className="resume__header">
           <h1>Ruslan Kan</h1>
           <p className="resume__contact">
-            Tashkent, Uzbekistan&nbsp;·&nbsp;
+            Tashkent, Uzbekistan&nbsp;→&nbsp;San Francisco (Aug. 2026)&nbsp;·&nbsp;
             <a href="mailto:kan.nadya1978@gmail.com">kan.nadya1978@gmail.com</a>&nbsp;·&nbsp;
             <a href="https://www.linkedin.com/in/ruslan-kan-207692384/" target="_blank" rel="noopener noreferrer">
               linkedin.com/in/ruslan-kan

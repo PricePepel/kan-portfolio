@@ -5,7 +5,7 @@ import { Sun, Moon, ArrowUpRight, GithubLogo } from '@phosphor-icons/react';
 
 export function Navigation() {
   const [mounted, setMounted] = useState(false);
-  const [theme, setTheme] = useState<'dark' | 'light'>('dark');
+  const [theme, setTheme] = useState<'dark' | 'light'>('light');
 
   useEffect(() => {
     setMounted(true);
@@ -31,7 +31,7 @@ export function Navigation() {
   };
 
   return (
-    <header className="fixed inset-x-0 top-0 z-[60] backdrop-blur-md" style={{ background: 'oklch(7.5% 0.008 70 / 0.72)', borderBottom: '1px solid var(--line)' }}>
+    <header className="fixed inset-x-0 top-0 z-[60] backdrop-blur-md" style={{ background: 'var(--surface-blur)', borderBottom: '1px solid var(--line)' }}>
       <div className="mx-auto flex max-w-[1400px] items-center gap-6 px-6 py-3 md:px-10">
         <a href="#hero" aria-label="Kan, home" className="flex min-h-[44px] items-center gap-2 px-1 -mx-1">
           <span className="grid h-7 w-7 place-items-center rounded-[6px] text-[14px] font-black" style={{ background: 'var(--text)', color: 'var(--bg-base)', fontFamily: 'var(--font-display)' }}>
@@ -40,10 +40,9 @@ export function Navigation() {
           <span className="font-bold tracking-tight" style={{ fontSize: '16px', fontFamily: 'var(--font-display)' }}>Kan</span>
         </a>
         <nav className="ml-auto hidden gap-7 font-mono text-[12px] uppercase tracking-[0.05em] text-[var(--text-mute)] md:flex" aria-label="Primary">
-          <a href="#work" className="transition-colors hover:text-[var(--text)]">Work</a>
-          <a href="#process" className="transition-colors hover:text-[var(--text)]">Process</a>
-          <a href="#about" className="transition-colors hover:text-[var(--text)]">About</a>
-          <a href="/resume" className="transition-colors hover:text-[var(--text)]">Resume</a>
+          <a href="#lamppost" className="transition-colors hover:text-[var(--text)]">Story</a>
+          <a href="#builder" className="transition-colors hover:text-[var(--text)]">Work</a>
+          <a href="/resume" className="transition-colors hover:text-[var(--text)]">Résumé</a>
           <a href="#contact" className="transition-colors hover:text-[var(--text)]">Contact</a>
         </nav>
         <button

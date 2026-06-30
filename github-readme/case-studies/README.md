@@ -30,6 +30,6 @@ Anything redacted is marked. NDA-bound details are described at architecture lev
 
 ## About the engineer
 
-[Kan](https://github.com/PricePepel), AI integration for SaaS founders, based in Tashkent (GMT+5).
+[Ruslan Kan](https://github.com/PricePepel), full-stack + AI engineer based in Tashkent (GMT+5). Incoming Minerva University CS '30 (San Francisco, Aug 2026).
 
-Booking projects for June 2026 onwards. Discovery call, quote within 48 hours, fixed scope, flat fee. See [the portfolio](https://kan-portfolio-pricepepels-projects.vercel.app) for current pricing or email [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com).
+Looking for software-engineering internships, especially Summer 2027. See [the portfolio](https://kan-portfolio-pricepepels-projects.vercel.app) or email [nicetryskrock@gmail.com](mailto:nicetryskrock@gmail.com).

@@ -10,18 +10,18 @@ interface Affiliation {
 
 const AFFILIATIONS: Affiliation[] = [
   {
-    org: 'Saman AI Academy',
+    org: 'Bloomin (formerly Saman AI Academy)',
     role: 'Lead Software Developer',
     since: '2025 →',
     detail:
       'Three product pillars in production, two of them in daily external use. Stack: Anthropic, OpenAI, Next.js, Supabase.',
-    href: 'https://saman.academy',
+    href: 'https://www.trybloomin.ai',
   },
   {
     org: 'ITSTEP Tashkent',
     role: 'Web Development Instructor',
     since: '2024 →',
-    detail: '80+ students, ages 10–17. Evening classes alongside school and Saman.',
+    detail: '80+ students, ages 10–17. Evening classes alongside school and Bloomin.',
   },
   {
     org: 'Academic Council',

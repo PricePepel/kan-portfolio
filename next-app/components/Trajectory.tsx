@@ -49,7 +49,12 @@ function eventStart(range: [number, number], i: number, total: number): number {
   return a + ((b - a) * i) / Math.max(total - 1, 1);
 }
 
-export function Trajectory() {
+interface TrajectoryProps {
+  eyebrowNum?: string;
+  eyebrowLabel?: string;
+}
+
+export function Trajectory({ eyebrowNum = '01', eyebrowLabel = 'trajectory' }: TrajectoryProps = {}) {
   const ref = useRef<HTMLDivElement>(null);
   const reduced = useReducedMotion();
 
@@ -74,7 +79,7 @@ export function Trajectory() {
         <header className="mb-12 flex flex-col gap-5 md:mb-16">
           <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
             <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
-            ( 01 / trajectory )
+            ( {eyebrowNum} / {eyebrowLabel} )
           </span>
           <h2
             className="font-bold tracking-tight max-w-4xl"

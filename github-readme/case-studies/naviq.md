@@ -3,6 +3,7 @@
 **Year:** 2025
 **Status:** Production · MVP live on dev at naviq.app
 **Role:** Solo developer
+**Live (dev):** [naviq.app](https://naviq.app)
 
 ---
 

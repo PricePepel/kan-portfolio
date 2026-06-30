@@ -238,7 +238,7 @@ export function SelectedWork() {
           <header className="mb-16 flex flex-col gap-5">
             <span className="inline-flex items-center gap-3 font-mono text-[13px] font-medium uppercase tracking-[0.06em] text-[var(--text-mute)]">
               <span className="rule-draw-on-scroll inline-block h-px w-7 bg-[var(--accent)]" />
-              ( 03 / selected work · 2025–26 )
+              ( 06 / selected work · 2025–26 )
             </span>
             <h2
               className="font-bold tracking-tight"

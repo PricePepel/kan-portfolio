@@ -76,18 +76,18 @@ body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
   min-height: 11in;
   padding: 0.5in 0.6in;
   box-shadow: 0 24px 60px -20px rgba(0, 0, 0, 0.25), 0 4px 12px rgba(0, 0, 0, 0.08);
-  font-size: 10.5pt;
-  line-height: 1.35;
+  font-size: 10pt;
+  line-height: 1.15;
 }
 
 .resume__header {
   text-align: center;
-  margin-bottom: 8pt;
+  margin-bottom: 4pt;
 }
 
 .resume__header h1 {
   font-family: 'Source Sans 3', Georgia, serif;
-  font-size: 24pt;
+  font-size: 18pt;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -108,22 +108,22 @@ body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
 }
 
 .resume__section {
-  margin-top: 8pt;
+  margin-top: 3pt;
 }
 
 .resume__section h2 {
   font-family: 'Source Sans 3', Georgia, serif;
-  font-size: 12pt;
+  font-size: 11pt;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  margin: 0 0 4pt;
-  padding-bottom: 1pt;
+  margin: 0 0 2pt;
+  padding-bottom: 0.5pt;
   border-bottom: 0.75pt solid #111;
 }
 
 .resume__entry {
-  margin: 4pt 0 6pt;
+  margin: 2pt 0 2pt;
 }
 
 .resume__entry-row {
@@ -131,7 +131,7 @@ body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
   justify-content: space-between;
   align-items: baseline;
   gap: 12pt;
-  font-size: 10.5pt;
+  font-size: 10pt;
 }
 
 .resume__entry-row strong {
@@ -140,22 +140,22 @@ body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
 
 .resume__entry-row--italic {
   font-style: italic;
-  font-size: 10pt;
+  font-size: 9.5pt;
   color: #222;
-  margin-top: 1pt;
+  margin-top: 0.5pt;
 }
 
 .resume__entry ul,
 .resume__plain-list {
-  margin: 2pt 0 0;
-  padding-left: 18pt;
+  margin: 1pt 0 0;
+  padding-left: 16pt;
 }
 
 .resume__entry ul li,
 .resume__plain-list li {
-  margin: 1pt 0;
-  font-size: 10.5pt;
-  line-height: 1.35;
+  margin: 0.5pt 0;
+  font-size: 10pt;
+  line-height: 1.15;
 }
 
 .resume__plain-list {
@@ -163,7 +163,7 @@ body:has(.resume-page) [aria-hidden="true"][class*="fixed"] {
   list-style: none;
 }
 .resume__plain-list li {
-  margin: 1.5pt 0;
+  margin: 0.5pt 0;
 }
 
 /* ====== Print ====== */

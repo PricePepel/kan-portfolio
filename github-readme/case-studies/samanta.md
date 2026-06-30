@@ -2,13 +2,16 @@
 
 **Year:** 2025
 **Status:** EdTech · Live tutor flow used daily by students
-**Role:** Solo developer
+**Role:** Lead Software Developer & Co-founder, Bloomin (formerly Saman AI Academy)
+**Live:** [ta.saman.academy](https://ta.saman.academy)
 
 ---
 
 ## What it is
 
 An AI-powered quiz and tutoring platform that runs across three surfaces: a React web app, a FastAPI backend on Supabase, and a Python Telegram bot. Coaches assemble quizzes; students take them on the web or inside Telegram; OpenAI generates and grades content.
+
+samanTA is the student-facing AI tutor inside **Bloomin** (formerly Saman AI Academy), an EU EdTech4BY accelerator-portfolio company. The companion product, **the Bloomin coach platform** ([trybloomin.ai](https://www.trybloomin.ai)), is where coaches onboard and run their practice.
 
 ## Problem
 
@@ -53,6 +56,7 @@ Stripe gates a "Premium" tier at $9.99/mo that unlocks the AI Concierge feature 
 - **56 of 56 unit tests pass** (auth flow, reminder cadence math, JWKS verification, Stripe webhook idempotency, decorator behaviour).
 - SQL dry-runs against a staging schema before every migration.
 - End-to-end smoke test on a real test user across all three surfaces (web sign-in → Telegram link → take quiz on web → take quiz in bot → reminder fires).
+- **In production:** 117 users, 70 deployed school bots, 562 quiz sessions, 59.8% completion rate, 77.6% average score.
 
 ## Notable decisions
 
