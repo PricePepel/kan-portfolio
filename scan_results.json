@@ -17,31 +17,46 @@
       "company": "Five Q",
       "email": "jobs@fiveq.com",
       "category": "other",
-      "description": "Interactive web development and marketing agency"
+      "description": "Interactive web development and marketing agency",
+      "draftCreated": "2026-10-18",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r-8746730823707135980"
     },
     {
       "company": "Sysdig Cloud",
       "email": "talent@sysdig.com",
       "category": "ai-ml",
-      "description": "Container security, monitoring, forensics"
+      "description": "Container security, monitoring, forensics",
+      "draftCreated": "2026-10-18",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r4083470009307324592"
     },
     {
       "company": "Zapier",
       "email": "recruiting@zapier.com",
       "category": "devtools",
-      "description": "Connect apps, automate tasks"
+      "description": "Connect apps, automate tasks",
+      "draftCreated": "2026-10-18",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r8256929003349662364"
     },
     {
       "company": "Doist",
       "email": "careers@doist.com",
       "category": "saas",
-      "description": "Productivity software (Todoist, Twist)"
+      "description": "Productivity software (Todoist, Twist)",
+      "draftCreated": "2026-10-18",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r-5997172428616743703"
     },
     {
       "company": "Stripe",
       "email": "candidatefeedback-applications@stripe.com",
       "category": "fintech",
-      "description": "Payment infrastructure, has university recruiting"
+      "description": "Payment infrastructure, has university recruiting",
+      "draftCreated": "2026-10-18",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r237820586092394968"
     },
     {
       "company": "GatherContent",
@@ -95,7 +110,7 @@
       "company": "Axelerant",
       "email": "jobs@axelerant.com",
       "category": "saas",
-      "description": "We’re an incubator for innovative products and services created to make the world a happier place.",
+      "description": "We\u2019re an incubator for innovative products and services created to make the world a happier place.",
       "draftCreated": "2026-05-14",
       "status": "gmail_draft_ready"
     },
@@ -304,7 +319,159 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 27,
-  "companiesScanned": 305,
-  "lastScanDate": "2026-05-14"
+  "totalDraftsToday": 5,
+  "companiesScanned": 335,
+  "lastScanDate": "2026-10-18",
+  "failedScans": [
+    {
+      "company": "FullStack",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Mavens",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Pixel2HTML",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "ShakaCode",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "2600Hz",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "ActiveProspect",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "AirTreks",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Art & Logic",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Aurity",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "BrainCheck",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "CarriersEdge",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Cohesive Networks",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "CollabNet",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Collabora",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "ConvertKit LLC",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Corgibytes",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Cyanna Education",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "DesignLab",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "DroneDeploy",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Eyeo",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "G2i",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "GetFileCloud",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "GigaOM",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "GigSalad",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Gistia Healthcare",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "GrantStreet",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Harvest",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "HiringThing",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Hubstaff",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    },
+    {
+      "company": "Intellum",
+      "reason": "network_policy_403",
+      "date": "2026-10-18"
+    }
+  ]
 }
