@@ -319,9 +319,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 5,
-  "companiesScanned": 335,
-  "lastScanDate": "2026-10-18",
+  "totalDraftsToday": 0,
+  "companiesScanned": 365,
+  "lastScanDate": "2026-10-19",
   "failedScans": [
     {
       "company": "FullStack",
@@ -472,6 +472,156 @@
       "company": "Intellum",
       "reason": "network_policy_403",
       "date": "2026-10-18"
+    },
+    {
+      "company": "Jackson River",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Keen",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Koding",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "LearnZillion",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Lightbend",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Mixcloud",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Mixmax",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Mobile Jazz",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Moraware",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "NationBuilder",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "nClouds",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Nearform",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "NoRedInk",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "PageFreezer Software",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "PeopleG2",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "RainforestQA",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Redox",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "retail-zipline",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "RetailNext",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Roadtrippers",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Sapien",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Sencha Inc",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Starcoders",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "TeamSnap",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Third Iron",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Tidelift",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "TopDevz",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Trello",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Tyk",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
+    },
+    {
+      "company": "Unbounce",
+      "reason": "network_policy_403",
+      "date": "2026-10-19"
     }
   ]
 }
