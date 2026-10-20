@@ -320,8 +320,8 @@
     }
   ],
   "totalDraftsToday": 0,
-  "companiesScanned": 365,
-  "lastScanDate": "2026-10-19",
+  "companiesScanned": 395,
+  "lastScanDate": "2026-10-20",
   "failedScans": [
     {
       "company": "FullStack",
@@ -622,6 +622,156 @@
       "company": "Unbounce",
       "reason": "network_policy_403",
       "date": "2026-10-19"
+    },
+    {
+      "company": "Velaro, Inc.",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "WebPunch",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "When I Work",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "WizeHire",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Wordfence",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Articulate",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Balsamiq",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Barrel",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "BetterDoctor",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Bitnami",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Bluespark Labs",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Bonfire",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "BriteCore",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Cadasta",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "CafeMedia",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "ChartMogul",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Chef",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Chess.com",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Civic Actions",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Clevertech",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Acceleration Partners",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Accella",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Actionable.co",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Actyx",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "AltSchool",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "AmaZix",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Avaaz",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Azumio",
+      "reason": "network_policy_403",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Resonanz Group",
+      "reason": "no_job_page",
+      "date": "2026-10-20"
+    },
+    {
+      "company": "Animalz",
+      "reason": "no_job_page",
+      "date": "2026-10-20"
     }
   ]
 }
