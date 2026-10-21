@@ -320,8 +320,8 @@
     }
   ],
   "totalDraftsToday": 0,
-  "companiesScanned": 395,
-  "lastScanDate": "2026-10-20",
+  "companiesScanned": 425,
+  "lastScanDate": "2026-10-21",
   "failedScans": [
     {
       "company": "FullStack",
@@ -772,6 +772,186 @@
       "company": "Animalz",
       "reason": "no_job_page",
       "date": "2026-10-20"
+    },
+    {
+      "company": "Litmus",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://litmus.com/jobs/"
+    },
+    {
+      "company": "Mattermost",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://jobs.lever.co/mattermost/"
+    },
+    {
+      "company": "NodeSource",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "angel list"
+    },
+    {
+      "company": "Reinteractive",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "3DprinterOS",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://angel.co/3dprinteros/jobs"
+    },
+    {
+      "company": "4D Pipeline",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "ActiveCampaign",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Advantage Integrated Solutions",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "AgileBits",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://angel.co/agilebits/jobs"
+    },
+    {
+      "company": "Angie Hospitality",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Applied Brain Research",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Assembled Brands",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "www.indeed.com/q-Assembled-Brands-jobs.htm"
+    },
+    {
+      "company": "Astro HQ",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "AWeber",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "BacklotCars",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Brave-software",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "brave.com"
+    },
+    {
+      "company": "Chekr",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "CitizenShipper",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Close.io",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://jobs.lever.co/close.io/"
+    },
+    {
+      "company": "Codebusters",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "http://codebusters.applytojob.com/apply"
+    },
+    {
+      "company": "CodeControl",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://codecontrol.io/join-us"
+    },
+    {
+      "company": "Codeship (acquired by Cloudbees)",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://codeship.com/jobs"
+    },
+    {
+      "company": "Coinbase",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://www.coinbase.com/careers"
+    },
+    {
+      "company": "Collab. Drug Discovery",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://www.collaborativedrug.com/pages/employment"
+    },
+    {
+      "company": "Collage.com",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Comcate Software",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "CompuCorp",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://www.compucorp.co.uk/jobs"
+    },
+    {
+      "company": "ConnectCPA",
+      "reason": "no_job_page",
+      "date": "2026-10-21",
+      "url": null
+    },
+    {
+      "company": "Countly",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://angel.co/countly/jobs"
+    },
+    {
+      "company": "Cozy Cloud",
+      "reason": "network_policy_403",
+      "date": "2026-10-21",
+      "url": "https://angel.co/cozycloud"
     }
   ]
 }
