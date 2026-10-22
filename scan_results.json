@@ -277,7 +277,9 @@
     "BloodHub",
     "Railroad19",
     "Antavo",
-    "Buffer"
+    "Buffer",
+    "Docker",
+    "Hanno"
   ],
   "jsRendered": [
     "Aha!",
@@ -320,8 +322,8 @@
     }
   ],
   "totalDraftsToday": 0,
-  "companiesScanned": 425,
-  "lastScanDate": "2026-10-21",
+  "companiesScanned": 468,
+  "lastScanDate": "2026-10-22",
   "failedScans": [
     {
       "company": "FullStack",
@@ -952,6 +954,252 @@
       "reason": "network_policy_403",
       "date": "2026-10-21",
       "url": "https://angel.co/cozycloud"
+    },
+    {
+      "company": "Dataquest",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://dataquest.breezy.hr/"
+    },
+    {
+      "company": "DataStax",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://www.datastax.com/company/careers/search"
+    },
+    {
+      "company": "DealDash",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://dealdash.workable.com/"
+    },
+    {
+      "company": "Dealer Inspire",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.dealerinspire.com/careers/"
+    },
+    {
+      "company": "Deeson",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.deeson.co.uk/about"
+    },
+    {
+      "company": "Dgraph",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://dgraph.io/careers.html"
+    },
+    {
+      "company": "Dito",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://www.ditoweb.com/company/employment/"
+    },
+    {
+      "company": "Doximity",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.doximity.com/about/jobs"
+    },
+    {
+      "company": "Duck Duck Go",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://duck.co/help/company/hiring"
+    },
+    {
+      "company": "Edison Nation",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://stackoverflow.com/jobs/companies/edison-nation"
+    },
+    {
+      "company": "Eezy",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://www.eezy.com/"
+    },
+    {
+      "company": "Enjin",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://enjincoin.io/"
+    },
+    {
+      "company": "EveryoneSocial",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://everyonesocial.com/"
+    },
+    {
+      "company": "Exposure Ninja",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.exposureninja.com/working-with-exposure-ninja/"
+    },
+    {
+      "company": "Feeld",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://feeld.co/jobs"
+    },
+    {
+      "company": "Fire Engine RED",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://fire-engine-red.com/about/#careers"
+    },
+    {
+      "company": "Fleetio",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.fleetio.com/careers"
+    },
+    {
+      "company": "Folarium Technomedia",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://www.folarium.co.id/career"
+    },
+    {
+      "company": "Follow Up Boss",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://boards.greenhouse.io/followupboss"
+    },
+    {
+      "company": "FormAssembly",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://formassembly.workable.com/"
+    },
+    {
+      "company": "Four Kitchens",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.fourkitchens.com/careers/"
+    },
+    {
+      "company": "Genuitec",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.genuitec.com/company/careers/"
+    },
+    {
+      "company": "Giant Swarm",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://angel.co/giant-swarm/jobs"
+    },
+    {
+      "company": "Go Fish Digital",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://gofishdigital.com/careers/"
+    },
+    {
+      "company": "GoHiring",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://www.gohiring.com/jobs.html"
+    },
+    {
+      "company": "Goodway Group",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://goodwaygroup.com/careers/"
+    },
+    {
+      "company": "GrabCAD",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "http://blog.grabcad.com/jobs/"
+    },
+    {
+      "company": "Graylog",
+      "reason": "network_policy_403",
+      "date": "2026-10-22",
+      "url": "https://www.graylog.org/jobs/"
+    },
+    {
+      "company": "Cvedia",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "DNSimple",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "ExecVision",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Explainify",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Figma",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "First+Third",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Flow",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Flyreel",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Frontastic GmbH",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "GotSoccer",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "GovPredict",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Gower St Analytics",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
+    },
+    {
+      "company": "Gradle",
+      "reason": "no_job_page",
+      "date": "2026-10-22",
+      "url": null
     }
   ]
 }
