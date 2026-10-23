@@ -10,6 +10,36 @@
       "details": "Remote globally, 2025-2026 grads, Python/JS/Go, AI/ML/Cloud/K8s work areas, competitive pay + 2K learning budget",
       "priority": "A",
       "status": "ready_to_apply"
+    },
+    {
+      "company": "1Password",
+      "role": "Developer Intern, Provisioning - Winter 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101664",
+      "url": "https://to.indeed.com/aarwnrly2zmm",
+      "date": "2026-10-23",
+      "draft": "applications/1password-developer-intern-provisioning.md",
+      "notes": "React/TypeScript frontend internship - very strong match"
+    },
+    {
+      "company": "1Password",
+      "role": "Developer Intern, Machine Identity - Winter 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101663",
+      "url": "https://to.indeed.com/aacnbwh8xkwh",
+      "date": "2026-10-23",
+      "draft": "applications/1password-developer-intern-machine-identity.md",
+      "notes": "Python/backend, AI agent identity - good match"
+    },
+    {
+      "company": "1Password",
+      "role": "Developer Intern, Extension Excellence - Winter 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101665",
+      "url": "https://to.indeed.com/aal89gzwmwz9",
+      "date": "2026-10-23",
+      "draft": "applications/1password-developer-intern-extension.md",
+      "notes": "Browser extension TypeScript - good match"
     }
   ],
   "emailContacts": [
@@ -322,8 +352,8 @@
     }
   ],
   "totalDraftsToday": 0,
-  "companiesScanned": 468,
-  "lastScanDate": "2026-10-22",
+  "companiesScanned": 498,
+  "lastScanDate": "2026-10-23",
   "failedScans": [
     {
       "company": "FullStack",
@@ -1200,6 +1230,186 @@
       "reason": "no_job_page",
       "date": "2026-10-22",
       "url": null
+    },
+    {
+      "company": "Aha!",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "http://www.aha.io/company/careers"
+    },
+    {
+      "company": "Antavo",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://antavo.com/job/"
+    },
+    {
+      "company": "Bitovi",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.bitovi.com/jobs"
+    },
+    {
+      "company": "BloodHub",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "http://www.bloodhub.com/"
+    },
+    {
+      "company": "Foundersuite.com",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://foundersuite.com/jobs"
+    },
+    {
+      "company": "Gridium",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://gridium.com/about/working-at-gridium/"
+    },
+    {
+      "company": "Heroku",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.heroku.com/careers"
+    },
+    {
+      "company": "Railroad19",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.railroad19.com/#careers"
+    },
+    {
+      "company": "100Starlings",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://angel.co/100starlings"
+    },
+    {
+      "company": "33 Sticks",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "http://33sticks.com/join-us/"
+    },
+    {
+      "company": "Accounto Technology",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.accounto.io"
+    },
+    {
+      "company": "Action Verb",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "actionverb.com"
+    },
+    {
+      "company": "Attentiv",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "http://attentiv.com/jobs/"
+    },
+    {
+      "company": "Baremetrics",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://baremetrics.com/jobs"
+    },
+    {
+      "company": "Basecamp",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://basecamp.com/jobs"
+    },
+    {
+      "company": "BeBanjo",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "http://www.bebanjo.com/careers"
+    },
+    {
+      "company": "Blossom",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://angel.co/blossom"
+    },
+    {
+      "company": "BookingSync",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "bookingsync.com"
+    },
+    {
+      "company": "BrandBastion",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.brandbastion.com/"
+    },
+    {
+      "company": "Buffer",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://buffer.com/journey"
+    },
+    {
+      "company": "Cargobase",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://cargobase1.recruitee.com/#/"
+    },
+    {
+      "company": "Cartstack",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://cartstack.workable.com"
+    },
+    {
+      "company": "Castle",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "angel list"
+    },
+    {
+      "company": "Casumo",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "www.casumocareers.com/"
+    },
+    {
+      "company": "Cesanta",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://angel.co/cesanta/jobs"
+    },
+    {
+      "company": "Chaser",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "chaser.io"
+    },
+    {
+      "company": "CircleCI",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://circleci.com/jobs"
+    },
+    {
+      "company": "Clerky",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.clerky.com"
+    },
+    {
+      "company": "Cloudpeeps",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.cloudpeeps.com/jobs"
+    },
+    {
+      "company": "Clustree",
+      "reason": "network_policy_403",
+      "date": "2026-10-23",
+      "url": "https://www.clustree.com/careers"
     }
   ]
 }
