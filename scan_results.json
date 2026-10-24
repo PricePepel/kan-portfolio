@@ -40,6 +40,37 @@
       "date": "2026-10-23",
       "draft": "applications/1password-developer-intern-extension.md",
       "notes": "Browser extension TypeScript - good match"
+    },
+    {
+      "company": "Amplify",
+      "role": "Summer 2027: Software Engineering Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101732",
+      "url": "https://to.indeed.com/aadgbblhjrjr",
+      "date": "2026-10-24",
+      "draft": "applications/amplify-software-engineering-intern-summer2027.md",
+      "notes": "EdTech intern $30-35/hr, React/TypeScript/Python - requires US work auth, June 7-Aug 13 2027",
+      "pay": "$30-35/hr"
+    },
+    {
+      "company": "1Password",
+      "role": "Developer Intern, Credential Brokering - Winter 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101722",
+      "url": "https://to.indeed.com/aa96grm7zgxp",
+      "date": "2026-10-24",
+      "draft": "applications/1password-developer-intern-credential-brokering.md",
+      "notes": "AI agent credential platform, Go/backend - Jan-Apr 2027, US/Canada remote"
+    },
+    {
+      "company": "1Password",
+      "role": "Developer Intern, Developer Interfaces - Winter 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101723",
+      "url": "https://to.indeed.com/aapby7xpbymd",
+      "date": "2026-10-24",
+      "draft": "applications/1password-developer-intern-developer-interfaces.md",
+      "notes": "CLI/SDK/API developer experience, Go/Rust - Jan-Apr 2027, US/Canada remote. OAuth, developer tooling"
     }
   ],
   "emailContacts": [
@@ -351,9 +382,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 0,
-  "companiesScanned": 498,
-  "lastScanDate": "2026-10-23",
+  "totalDraftsToday": 3,
+  "companiesScanned": 528,
+  "lastScanDate": "2026-10-24",
   "failedScans": [
     {
       "company": "FullStack",
@@ -1410,6 +1441,186 @@
       "reason": "network_policy_403",
       "date": "2026-10-23",
       "url": "https://www.clustree.com/careers"
+    },
+    {
+      "name": "hashi Corp",
+      "url": "https://www.hashicorp.com/",
+      "reason": "js_rendered",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Hazelcast",
+      "url": "https://hazelcast.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Health Leads'",
+      "url": "https://healthleadsusa.org/about-us/careers/open-positions/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Heap",
+      "url": "https://heapanalytics.com/jobs",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Help Scout",
+      "url": "http://www.helpscout.net/careers/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Hippo Education",
+      "url": "http://www.careers.hippoed.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Hireology",
+      "url": "www.hireology.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Incsub",
+      "url": "http://incsub.com/careers/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "InfluxData",
+      "url": "https://www.influxdata.com/careers/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Inspired HR",
+      "url": "http://inspiredhr.mytribehr.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Intridea/Mobomo",
+      "url": "http://jobs.intridea.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "iwantmyname",
+      "url": "https://iwantmyname.com/jobs",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "JBS Customer Software",
+      "url": "https://www.jbssolutions.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Kalypso LP",
+      "url": "http://kalypso.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "KBMax",
+      "url": "http://www.kbmax.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Kehona Health",
+      "url": "http://keonahealth.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Kellerkinder",
+      "url": "http://www.kellerkinder.de/jobs.html",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Khan Academy",
+      "url": "https://www.khanacademy.org/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Kiprosh",
+      "url": "http://kiprosh.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "KIZEN",
+      "url": "https://kizen.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Knack",
+      "url": "https://www.knack.com/jobs/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Knock Homes",
+      "url": "https://www.knock.com/jobs",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "KnownFour",
+      "url": "http://www.knownfour.com",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Komodo Platform",
+      "url": "https://komodoplatform.com/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Kuali",
+      "url": "https://www.kuali.co/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Later",
+      "url": "https://angel.co/latergramme/jobs",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "LaterPay",
+      "url": "https://www.laterpay.net/careers/",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Launch Potato",
+      "url": "http://launchpotato.com/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Lazy Eight",
+      "url": "http://www.lazyeight.in/clients/lazyeight/careers",
+      "reason": "timeout",
+      "date": "2026-10-24"
     }
   ]
 }
