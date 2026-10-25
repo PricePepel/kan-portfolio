@@ -171,7 +171,7 @@
       "company": "Axelerant",
       "email": "jobs@axelerant.com",
       "category": "saas",
-      "description": "We\u2019re an incubator for innovative products and services created to make the world a happier place.",
+      "description": "We’re an incubator for innovative products and services created to make the world a happier place.",
       "draftCreated": "2026-05-14",
       "status": "gmail_draft_ready"
     },
@@ -383,8 +383,8 @@
     }
   ],
   "totalDraftsToday": 3,
-  "companiesScanned": 528,
-  "lastScanDate": "2026-10-24",
+  "companiesScanned": 558,
+  "lastScanDate": "2026-10-25",
   "failedScans": [
     {
       "company": "FullStack",
@@ -1621,6 +1621,186 @@
       "url": "http://www.lazyeight.in/clients/lazyeight/careers",
       "reason": "timeout",
       "date": "2026-10-24"
+    },
+    {
+      "company": "Health Leads’",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://healthleadsusa.org/about-us/careers/open-positions/"
+    },
+    {
+      "company": "Let's Encrypt",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://letsencrypt.org/jobs/"
+    },
+    {
+      "company": "Linaro",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.linaro.org/careers/"
+    },
+    {
+      "company": "Localistico",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://angel.co/localistico/jobs"
+    },
+    {
+      "company": "Logikcull",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "logikcull.com/jobs"
+    },
+    {
+      "company": "LoveToKnow",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.lovetoknow.com/Careers/careers.html"
+    },
+    {
+      "company": "Loyal",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.loyalhealth.com/careers"
+    },
+    {
+      "company": "Lullabot",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.lullabot.com/jobs"
+    },
+    {
+      "company": "Lynx Technology Partners",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://lynxgrc.com/careers/"
+    },
+    {
+      "company": "Mapbox",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.mapbox.com/jobs/"
+    },
+    {
+      "company": "MariaDB",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://mariadb.com/"
+    },
+    {
+      "company": "Mediacurrent",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.mediacurrent.com/about/careers"
+    },
+    {
+      "company": "Meet Edgar",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://meetedgar.com/careers/"
+    },
+    {
+      "company": "MetaLab",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://metalab.co/careers/"
+    },
+    {
+      "company": "Metamaterial Technologies",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.metamaterial.com/join-our-team"
+    },
+    {
+      "company": "Meteor",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.meteor.com/jobs"
+    },
+    {
+      "company": "Mobility Labs, Inc.",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.mobility-labs.com/careers#available-positions"
+    },
+    {
+      "company": "Modus-create",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://moduscreate.com/who-we-are/"
+    },
+    {
+      "company": "Moment",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.shopmoment.com/careers"
+    },
+    {
+      "company": "Moz",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://moz.com/about/jobs"
+    },
+    {
+      "company": "Much Better Adventures",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.muchbetteradventures.com"
+    },
+    {
+      "company": "New Context",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.newcontext.com/careers/"
+    },
+    {
+      "company": "NIFTIT",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://niftit.recruiterbox.com/"
+    },
+    {
+      "company": "nVisium",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://nvisium.com/careers/"
+    },
+    {
+      "company": "O'Reilly Media",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.oreilly.com/jobs/"
+    },
+    {
+      "company": "Octopus Deploy",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://octopus.com/company"
+    },
+    {
+      "company": "Olark",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.olark.com/jobs"
+    },
+    {
+      "company": "Olo",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "http://www.olo.com/company/#careers"
+    },
+    {
+      "company": "OnTheGoSystems",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://www.onthegosystems.com/jobs/"
+    },
+    {
+      "company": "Open Knowledge",
+      "reason": "network_policy_403",
+      "date": "2026-10-25",
+      "url": "https://okfn.org/about/jobs/"
     }
   ]
 }
