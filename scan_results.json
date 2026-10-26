@@ -71,6 +71,39 @@
       "date": "2026-10-24",
       "draft": "applications/1password-developer-intern-developer-interfaces.md",
       "notes": "CLI/SDK/API developer experience, Go/Rust - Jan-Apr 2027, US/Canada remote. OAuth, developer tooling"
+    },
+    {
+      "company": "Alchimetis",
+      "role": "AI Engineer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101837",
+      "url": "https://to.indeed.com/aazj9pzgvt24",
+      "date": "2026-10-26",
+      "draft": "applications/alchimetis-ai-engineer-intern.md",
+      "notes": "AI agentic systems, Python, $4-5k/month remote - strong match. Newer listing (Oct 2026)",
+      "pay": "$4,000-$5,000/month"
+    },
+    {
+      "company": "Fabdigit INC.",
+      "role": "Engineering Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101847",
+      "url": "https://to.indeed.com/aavw96sgz2b2",
+      "date": "2026-10-26",
+      "draft": "applications/fabdigit-engineering-intern.md",
+      "notes": "Remote engineering intern $23-28/hr at startup",
+      "pay": "$23.98-$28.87/hr"
+    },
+    {
+      "company": "Simbe Robotics",
+      "role": "Data Analytics & Data Science Intern \u2014 Spring & Summer 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_101842",
+      "url": "https://to.indeed.com/aa86l6qyphn6",
+      "date": "2026-10-26",
+      "draft": "applications/simbe-robotics-data-analytics-intern.md",
+      "notes": "Data analytics/AI at robotics startup, $35-40/hr remote Spring/Summer 2027",
+      "pay": "$35-$40/hr"
     }
   ],
   "emailContacts": [
@@ -171,7 +204,7 @@
       "company": "Axelerant",
       "email": "jobs@axelerant.com",
       "category": "saas",
-      "description": "We’re an incubator for innovative products and services created to make the world a happier place.",
+      "description": "We\u2019re an incubator for innovative products and services created to make the world a happier place.",
       "draftCreated": "2026-05-14",
       "status": "gmail_draft_ready"
     },
@@ -383,8 +416,8 @@
     }
   ],
   "totalDraftsToday": 3,
-  "companiesScanned": 558,
-  "lastScanDate": "2026-10-25",
+  "companiesScanned": 588,
+  "lastScanDate": "2026-10-26",
   "failedScans": [
     {
       "company": "FullStack",
@@ -1623,7 +1656,7 @@
       "date": "2026-10-24"
     },
     {
-      "company": "Health Leads’",
+      "company": "Health Leads\u2019",
       "reason": "network_policy_403",
       "date": "2026-10-25",
       "url": "https://healthleadsusa.org/about-us/careers/open-positions/"
@@ -1801,6 +1834,156 @@
       "reason": "network_policy_403",
       "date": "2026-10-25",
       "url": "https://okfn.org/about/jobs/"
+    },
+    {
+      "company": "hashi Corp",
+      "reason": "network_policy_429_rate_limited",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Hazelcast",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Heap",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Help Scout",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Hippo Education",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Hireology",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Hugging Face",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Incsub",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "InfluxData",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Inspired HR",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Intridea/Mobomo",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "iwantmyname",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "JBS Customer Software",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Kalypso LP",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "KBMax",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Kehona Health",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Kellerkinder",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Khan Academy",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Kiprosh",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "KIZEN",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Knack",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Knock Homes",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "KnownFour",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Komodo Platform",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Kuali",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Later",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "LaterPay",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Launch Potato",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Lazy Eight",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
+    },
+    {
+      "company": "Loom",
+      "reason": "network_policy_403",
+      "date": "2026-10-26"
     }
   ]
 }
