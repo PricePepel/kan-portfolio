@@ -2,176 +2,226 @@
   {
     "name": "GatherContent",
     "email": "careers@bynder.com",
-    "description": "Painlessly plan, organise and produce web con",
+    "description": "Painlessly plan, organise and produce web content",
     "category": "ai-ml",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r690142315010724386",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "GMB Fitness",
     "email": "hi@gmb.io",
     "description": "Online fitness training",
     "category": "ai-ml",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r-8666822034931766089",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Mobomo",
     "email": "hiring@mobomo.com",
     "description": "Software product development",
     "category": "saas",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r1232205697896813095",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Network Ninja",
     "email": "nni@networkninja.com",
     "description": "Customizable Management Software",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r-4408131882516469663",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Recruiterbox",
     "email": "hire@trakstar.com",
     "description": "Recruitment software",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r-4576080504094050867",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "AdEspresso",
     "email": "work@adespresso.com",
     "description": "Optimize your Facebook Ads Easily",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r7053164549044079001",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Axelerant",
     "email": "jobs@axelerant.com",
-    "description": "We’re an incubator for innovative products and services created to make the world a happier place.",
+    "description": "Incubator for innovative products",
     "category": "saas",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r6727384224068405525",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Bugcrowd",
     "email": "careers@bugcrowd.com",
-    "description": "We bring thousands of good hackers to the fight,",
+    "description": "Crowdsourced security platform",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r-8437765454735422999",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Covenant Eyes",
     "email": "employment@covenanteyes.com",
     "description": "Internet filtering and accountability",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r6433990556639612765",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Digital Ocean",
     "email": "recops@digitalocean.com",
-    "description": "Simple Cloud Hosting, Built for Developers.",
+    "description": "Simple Cloud Hosting for Developers",
     "category": "devtools",
-    "employeeCount": "501-1000"
+    "gmailDraftId": "r-3981008121108836397",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Human Made",
     "email": "hiring@humanmade.com",
     "description": "WordPress Development",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r-8746313951484164515",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Kanopi Studios",
     "email": "hr@kanopi.com",
     "description": "Open Source Design, Development & Support",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r-651579930594118584",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Paylock",
     "email": "hr@paylock.com",
-    "description": "Offers a suite of parking management services",
+    "description": "Parking management services",
     "category": "other",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r4421919541008874698",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "ScienceLogic",
     "email": "hr@sciencelogic.com",
     "description": "Hybrid IT Monitoring",
     "category": "other",
-    "employeeCount": "201-500"
+    "gmailDraftId": "r-6471604050452985251",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Surevine",
     "email": "jobs@surevine.com",
     "description": "Secure Collaboration Solutions",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r70212866586880635",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "SurveyMonkey",
     "email": "recruiting@surveymonkey.com",
-    "description": "Create professional surveys tailored to your needs",
+    "description": "Professional survey platform",
     "category": "ai-ml",
-    "employeeCount": "501-1000"
+    "gmailDraftId": "r7491437328815765671",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Treehouse",
     "email": "jobs@teamtreehouse.com",
-    "description": "Treehouse is an online interactive education platform",
+    "description": "Online interactive education platform",
     "category": "edtech",
-    "employeeCount": "51-200"
+    "gmailDraftId": "r-8300188380494526932",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Wikimedia",
     "email": "recruiting@wikimedia.org",
-    "description": "wikipedia :doge:",
+    "description": "Free knowledge for everyone",
     "category": "other",
-    "employeeCount": "201-500"
+    "gmailDraftId": "r-8887714613261540468",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "GOFAR",
     "email": "ian@gofar.co",
-    "description": "We log, score and improve driving beautifully",
+    "description": "Driving behavior improvement platform",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r954747394155023411",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Logmein",
     "email": "jobs@goto.com",
-    "description": "Get In and go with remote access from LogMeIn",
+    "description": "Remote access and collaboration platform",
     "category": "other",
-    "employeeCount": "1001-5000"
+    "gmailDraftId": "r-5523129715924754105",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "MarsBased",
     "email": "hola@marsbased.com",
     "description": "Design & development consultancy",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r7353788405710810506",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Prezly",
     "email": "al@prezly.com",
-    "description": "Connect your content with your influencers.",
+    "description": "PR management platform",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r-6172979381875600973",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Team App",
     "email": "jobs@teamapp.com",
-    "description": "Smartphone app for sports team communication.",
+    "description": "Sports team communication app",
     "category": "other",
-    "employeeCount": "11-50"
+    "gmailDraftId": "r-2398087571337238144",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Owsy",
     "email": "careers@bindhq.com",
-    "description": "CREATING PRODUCTS FOR FINANCIAL SERVICES FIRMS.",
+    "description": "Products for financial services firms",
     "category": "saas",
-    "employeeCount": "1-10"
+    "gmailDraftId": "r1843155840345667719",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   },
   {
     "name": "Waygo",
     "email": "jobs@translateabroad.com",
     "description": "Visual OCR & Translation for Mobile",
     "category": "other",
-    "employeeCount": "1-10"
+    "gmailDraftId": "r8846000603073647353",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-10-27"
   }
 ]
