@@ -398,7 +398,13 @@
     "Antavo",
     "Buffer",
     "Docker",
-    "Hanno"
+    "Hanno",
+    "Restorepoint",
+    "Retrospect",
+    "Run the World Digital",
+    "SerpApi",
+    "The Block",
+    "Ultra Tendency"
   ],
   "jsRendered": [
     "Aha!",
@@ -441,8 +447,8 @@
     }
   ],
   "totalDraftsToday": 25,
-  "companiesScanned": 618,
-  "lastScanDate": "2026-10-27",
+  "companiesScanned": 648,
+  "lastScanDate": "2026-10-28",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2159,6 +2165,150 @@
       "company": "Relayto",
       "reason": "network_policy_403",
       "date": "2026-10-27"
+    },
+    {
+      "company": "Screenly",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://remotebase.io/company/screenly/jobs"
+    },
+    {
+      "company": "Simplecast",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://simplecast.com/"
+    },
+    {
+      "company": "Skillshare",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://www.skillshare.com/careers"
+    },
+    {
+      "company": "SoftwareMill",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://softwaremill.com/join-us/"
+    },
+    {
+      "company": "Spreaker",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.spreaker.com/jobs"
+    },
+    {
+      "company": "Stack Overflow",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://stackoverflow.com/company/work-here"
+    },
+    {
+      "company": "Student Loan Hero (now part of LendingTree)",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://studentloanhero.com/careers/"
+    },
+    {
+      "company": "Swappa",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.indeed.com/cmp/Swappa-LLC/jobs"
+    },
+    {
+      "company": "Task Analytics",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://angel.co/task-analytics"
+    },
+    {
+      "company": "TeachBoost",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://teachboost.com/company/careers"
+    },
+    {
+      "company": "TED",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.ted.com/about/our-organization/jobs-at-ted"
+    },
+    {
+      "company": "Tesera",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://tesera.com/team/"
+    },
+    {
+      "company": "Tessitura Network",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.tessituranetwork.com/en/Opportunities/Careers.aspx"
+    },
+    {
+      "company": "TestDome",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://angel.co/testdome/jobs"
+    },
+    {
+      "company": "The Wirecutter",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://thewirecutter.com/jobs/"
+    },
+    {
+      "company": "TNTP",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://tntp.org/join"
+    },
+    {
+      "company": "Transloadit",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://transloadit.com/jobs/"
+    },
+    {
+      "company": "UpWorthy",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.upworthy.com/jobs"
+    },
+    {
+      "company": "Urbansitter",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://www.urbansitter.com/careers"
+    },
+    {
+      "company": "Urgently",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://hellohired.com/urgently"
+    },
+    {
+      "company": "Veritas Genetics",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://curoverse.jazz.co/"
+    },
+    {
+      "company": "VLP Law Group",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "http://www.vlplawgroup.com/JoinUs.aspx"
+    },
+    {
+      "company": "Waldo Photos",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://waldo.photos/"
+    },
+    {
+      "company": "Watsi",
+      "reason": "network_policy_403",
+      "date": "2026-10-28",
+      "url": "https://angel.co/watsi/jobs"
     }
   ]
 }
