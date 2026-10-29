@@ -104,6 +104,16 @@
       "draft": "applications/simbe-robotics-data-analytics-intern.md",
       "notes": "Data analytics/AI at robotics startup, $35-40/hr remote Spring/Summer 2027",
       "pay": "$35-$40/hr"
+    },
+    {
+      "company": "NexCommand AI",
+      "role": "AI Engineer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102020",
+      "url": "https://to.indeed.com/aajpvsxdhyq6",
+      "date": "2026-10-29",
+      "draft": "applications/nexcommand-ai-engineer-intern.md",
+      "notes": "Remote AI engineering internship - Python/ML/LLM focus. Note: requires US university enrollment (satisfied: Minerva CS) and possible defense project eligibility check needed for international student"
     }
   ],
   "emailContacts": [
@@ -447,8 +457,8 @@
     }
   ],
   "totalDraftsToday": 25,
-  "companiesScanned": 648,
-  "lastScanDate": "2026-10-28",
+  "companiesScanned": 678,
+  "lastScanDate": "2026-10-29",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2309,6 +2319,156 @@
       "reason": "network_policy_403",
       "date": "2026-10-28",
       "url": "https://angel.co/watsi/jobs"
+    },
+    {
+      "company": "Waybetter",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "WeaveUp",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "WebRTC Ventures",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Wildbit",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "X-Team",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Xapo",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Yoko Co",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "YourSports",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "VMware Carbon Black",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Codeable",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Cofense",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Conferize",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "CoreData",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Crowdstrke",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Dimanex",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Divio",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "doctorSIM",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Edify",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Etsy",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Fatura Simples",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Focus Asia",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Forest Admin",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Fortumo",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Foundr Magazine",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "GetIncredibles",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Ghost",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Gitbook",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Grape.io",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Hasura",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
+    },
+    {
+      "company": "Heetch",
+      "reason": "network_policy_403",
+      "date": "2026-10-29"
     }
   ]
 }
