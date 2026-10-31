@@ -114,6 +114,36 @@
       "date": "2026-10-29",
       "draft": "applications/nexcommand-ai-engineer-intern.md",
       "notes": "Remote AI engineering internship - Python/ML/LLM focus. Note: requires US university enrollment (satisfied: Minerva CS) and possible defense project eligibility check needed for international student"
+    },
+    {
+      "company": "Chess.com",
+      "role": "Engineering Internship (AI/ML or Product track)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102136",
+      "url": "https://to.indeed.com/aaclsd4ycd6l",
+      "date": "2026-10-31",
+      "draft": "applications/chesscom-engineering-intern.md",
+      "notes": "Remote, TypeScript/Python/LLMs, 100% remote team, strong match for AI/ML track"
+    },
+    {
+      "company": "NexCommand AI",
+      "role": "AI Engineer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102139",
+      "url": "https://to.indeed.com/aaycyxvfb7xj",
+      "date": "2026-10-31",
+      "draft": "applications/nexcommand-ai-engineer-intern.md",
+      "notes": "Remote, 3 months, Python/ML/AI, requires US university enrollment (Minerva \u2713)"
+    },
+    {
+      "company": "Women and Families Ascending Association",
+      "role": "Web Developer and Social Media Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102145",
+      "url": "https://to.indeed.com/aacksw24snhj",
+      "date": "2026-10-31",
+      "draft": "applications/wafaa-web-developer-intern.md",
+      "notes": "Remote, nonprofit, verified email from listing, Gmail draft created"
     }
   ],
   "emailContacts": [
@@ -398,6 +428,16 @@
       "email": "contact@tortugabackpacks.com",
       "draftCreated": "2026-05-14",
       "status": "gmail_draft_ready"
+    },
+    {
+      "company": "Women and Families Ascending Association",
+      "email": "wafaa@wafaaorganization.org",
+      "category": "nonprofit",
+      "description": "Nonprofit supporting families; web developer intern",
+      "draftCreated": "2026-10-31",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r4206702813850076594",
+      "source": "indeed_job_listing_JOBSEARCH_102145"
     }
   ],
   "noOpenings": [
@@ -414,7 +454,13 @@
     "Run the World Digital",
     "SerpApi",
     "The Block",
-    "Ultra Tendency"
+    "Ultra Tendency",
+    {
+      "company": "Hanno",
+      "url": "https://github.com/wearehanno/playbook/wiki/New-Hires",
+      "note": "GitHub wiki loaded but no intern/junior role keywords found",
+      "date": "2026-10-31"
+    }
   ],
   "jsRendered": [
     "Aha!",
@@ -424,7 +470,13 @@
     "Stripe",
     "CircleCI",
     "Heroku",
-    "Mozilla"
+    "Mozilla",
+    {
+      "company": "Docker",
+      "url": "https://www.docker.com/careers",
+      "note": "Intern roles found but page is JS-rendered; no ATS links or email in static HTML",
+      "date": "2026-10-31"
+    }
   ],
   "redirected": [
     {
@@ -456,9 +508,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 25,
-  "companiesScanned": 678,
-  "lastScanDate": "2026-10-29",
+  "totalDraftsToday": 4,
+  "companiesScanned": 708,
+  "lastScanDate": "2026-10-31",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2469,6 +2521,146 @@
       "company": "Heetch",
       "reason": "network_policy_403",
       "date": "2026-10-29"
+    },
+    {
+      "company": "Restorepoint",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Retrospect",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Run the World Digital",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "SerpApi",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "The Block",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Ultra Tendency",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "YouNeedABudget",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "10up",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "51Blocks",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "AdQuick",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "AgentFire",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Alegion",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Alley interactive",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Andela",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Apartment Therapy",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Appnovation",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Argent",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "ART19",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Aula",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Authority Partners",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Avocado",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Award Force",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Balena",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Band Industries",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Bearer",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "BeerMenus",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Beutler Ink",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
+    },
+    {
+      "company": "Bevy",
+      "reason": "network_policy_403",
+      "date": "2026-10-31"
     }
   ]
 }
