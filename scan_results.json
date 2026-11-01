@@ -144,6 +144,17 @@
       "date": "2026-10-31",
       "draft": "applications/wafaa-web-developer-intern.md",
       "notes": "Remote, nonprofit, verified email from listing, Gmail draft created"
+    },
+    {
+      "company": "Cotiviti",
+      "role": "Intern AI Engineer, Early-Career \u2013 LLM Context & Data Layer (Healthcare)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102204",
+      "url": "https://to.indeed.com/aarbpj9fjvn7",
+      "date": "2026-11-01",
+      "draft": "applications/cotiviti-ai-engineer-intern.md",
+      "notes": "LLM/RAG/Healthcare, $32-40/hr remote, prefers PhD but strong skills match. Open until Dec 22 2026.",
+      "pay": "$32-40/hr"
     }
   ],
   "emailContacts": [
@@ -508,9 +519,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 4,
-  "companiesScanned": 708,
-  "lastScanDate": "2026-10-31",
+  "totalDraftsToday": 1,
+  "companiesScanned": 739,
+  "lastScanDate": "2026-11-01",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2661,6 +2672,156 @@
       "company": "Bevy",
       "reason": "network_policy_403",
       "date": "2026-10-31"
+    },
+    {
+      "company": "BidWrangler",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Bisnow Media",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Blue Ox Family Games",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Blue Zinc IT",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Bold Penguin",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "BuySellAds",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Chili Piper",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Chronos Capital",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Ciao Bambino!",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Clio",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "ComplianceMate",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Conjura",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Continu",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Continued",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Contrast Security",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Course Concierge",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "CrewBloom",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "CROmetrics",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Custody x Change",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "DBNY",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Delphia",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "digitalis.io",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Dotsub",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Doyensec",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "EngageTech",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Evergiving",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Farmstead",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "FineTune learning",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Fleep",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Flockler",
+      "reason": "network_restricted",
+      "scanDate": "2026-11-01"
     }
   ]
 }
