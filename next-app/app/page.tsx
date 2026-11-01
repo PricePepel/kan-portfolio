@@ -123,8 +123,8 @@ export default function Home() {
               Three areas I keep returning to.
             </h2>
             <p className="max-w-[60ch] text-[16px] leading-[1.7] text-[var(--text-mute)] md:text-[17px]">
-              I still solve things — for other people now. Lead developer and co-founder at Bloomin
-              (formerly Saman AI Academy); production AI, shipped before university.
+              I still solve things — for other people now. Lead Software Developer at Bloomin
+              and CTO of samanTA; production AI, shipped before university.
             </p>
           </header>
           <ServiceFlowDiagram />
@@ -147,12 +147,12 @@ export default function Home() {
       <StoryChapter chapter={contact}>
         <CircleClose size={300} className="mb-12" />
 
-        <OversizedEmailLink email="kan.nadya1978@gmail.com" />
+        <OversizedEmailLink email="ruslan.kan@uni.minerva.edu" />
 
         <p className="mt-8 max-w-[60ch] text-[16px] leading-[1.6] text-[var(--text-mute)]">
-          Tashkent, Uzbekistan · GMT+5. Heading to{' '}
-          <strong className="font-medium text-[var(--text)]">Minerva</strong> in August — class of 2030,
-          then four cities in four years.
+          San Francisco, CA. At{' '}
+          <strong className="font-medium text-[var(--text)]">Minerva</strong> — class of 2030,
+          four cities in four years. Looking for a Summer 2027 software engineering internship.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-2.5">
@@ -194,7 +194,7 @@ export default function Home() {
           >
             <div className="flex flex-wrap gap-5">
               <span>© 2026 Ruslan Kan</span>
-              <span>Tashkent · 41.3°N · 69.3°E</span>
+              <span>San Francisco · 37.8°N · 122.4°W</span>
               <span>the circle, not the podium</span>
             </div>
             <a

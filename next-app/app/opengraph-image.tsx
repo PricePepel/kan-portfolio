@@ -71,7 +71,7 @@ export default async function OG() {
               lineHeight: 1.4
             }}
           >
-            Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up. Tashkent · GMT+5.
+            Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up. San Francisco.
           </div>
         </div>
 
