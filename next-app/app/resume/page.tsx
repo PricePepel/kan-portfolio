@@ -6,7 +6,7 @@ import './resume.css';
 export const metadata: Metadata = {
   title: 'Resume — Ruslan Kan',
   description:
-    'One-page resume for Ruslan Kan: Lead Software Developer & co-founder at Bloomin (formerly Saman AI Academy, EU EdTech4BY accelerator), incoming Minerva University Class of 2030.',
+    'One-page resume for Ruslan Kan: Lead Software Developer at Bloomin, CTO of samanTA, Minerva University Class of 2030.',
 };
 
 type Bullet = string | React.ReactNode;
@@ -26,9 +26,9 @@ type Project = {
 
 const EXPERIENCE: Role[] = [
   {
-    title: 'Lead Software Developer & Co-founder',
-    org: 'Bloomin (formerly Saman AI Academy) · EU EdTech4BY accelerator portfolio',
-    location: 'Tashkent, Uzbekistan',
+    title: 'Lead Software Developer',
+    org: 'Bloomin',
+    location: 'Warsaw, Poland / Chicago, USA',
     dates: 'Jun. 2025 – Present',
     bullets: [
       <>
@@ -42,12 +42,11 @@ const EXPERIENCE: Role[] = [
         Telegram nudges), and a Stripe Premium paywall.
       </>,
       <>
-        Raised <strong>€20K</strong> to date (EU EdTech4BY accelerator portfolio), with a further <strong>€30K</strong>{' '}
-        round in progress.
+        samanTA's usage results helped Bloomin win a <strong>€20,000 grant from EdTech4BY</strong>.
       </>,
       <>
-        Own engineering across three production surfaces (samanTA, the Bloomin coach platform, Rankings) on one shared
-        FastAPI/Supabase backend, and co-lead product strategy with the CEO, COO/CPO, and CTO.
+        Promoted twice in under a year. Drive engineering planning, code review, and delivery, and coordinate roadmap and
+        architecture with the Chicago-based founding team.
       </>,
     ],
   },
@@ -124,8 +123,8 @@ export default function ResumePage() {
         <header className="resume__header">
           <h1>Ruslan Kan</h1>
           <p className="resume__contact">
-            Tashkent, Uzbekistan&nbsp;→&nbsp;San Francisco (Aug. 2026)&nbsp;·&nbsp;
-            <a href="mailto:kan.nadya1978@gmail.com">kan.nadya1978@gmail.com</a>&nbsp;·&nbsp;
+            San Francisco, CA&nbsp;·&nbsp;
+            <a href="mailto:ruslan.kan@uni.minerva.edu">ruslan.kan@uni.minerva.edu</a>&nbsp;·&nbsp;
             <a href="https://www.linkedin.com/in/ruslan-kan-207692384/" target="_blank" rel="noopener noreferrer">
               linkedin.com/in/ruslan-kan
             </a>
@@ -150,7 +149,7 @@ export default function ResumePage() {
           </div>
           <div className="resume__entry">
             <div className="resume__entry-row">
-              <strong>Tashkent High School (11-year system)</strong>
+              <strong>School No. 166, Tashkent</strong>
               <span>Sep. 2015 – Jun. 2026</span>
             </div>
             <div className="resume__entry-row resume__entry-row--italic">

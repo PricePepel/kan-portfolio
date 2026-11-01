@@ -10,7 +10,7 @@ interface Affiliation {
 
 const AFFILIATIONS: Affiliation[] = [
   {
-    org: 'Bloomin (formerly Saman AI Academy)',
+    org: 'Bloomin',
     role: 'Lead Software Developer',
     since: '2025 →',
     detail:
@@ -19,14 +19,14 @@ const AFFILIATIONS: Affiliation[] = [
   },
   {
     org: 'ITSTEP Tashkent',
-    role: 'Web Development Instructor',
-    since: '2024 →',
-    detail: '80+ students, ages 10–17. Evening classes alongside school and Bloomin.',
+    role: 'Volunteer Web Development Instructor',
+    since: '2024 – 2025',
+    detail: '80+ students, ages 10–17. Hands-on Python, HTML/CSS and JavaScript workshops.',
   },
   {
     org: 'Academic Council',
-    role: 'President',
-    since: '2025 →',
+    role: 'Leader',
+    since: '2025 – 2026',
     detail: '900 students. School-wide policy + initiative leadership.',
   },
   {

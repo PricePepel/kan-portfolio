@@ -5,12 +5,12 @@ import { SmoothScroll } from '@/components/SmoothScroll';
 import { LoadingScreen } from '@/components/LoadingScreen';
 
 const OG_DESC =
-  'Production AI, shipped before university. Four projects live across SaaS, edtech, market analysis, and a WordPress build. Tashkent → Minerva, class of 2030.';
+  'Production AI, shipped before university. Four projects live across SaaS, edtech, market analysis, and a WordPress build. Now at Minerva University, class of 2030.';
 
 export const metadata: Metadata = {
   title: 'Kan · Builder. Tashkent → Minerva.',
   description:
-    'I ship production AI features and tools. Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up in public. Heading to Minerva University in August 2026, class of 2030.',
+    'I ship production AI features and tools. Anthropic, OpenAI, Next.js, Supabase. Four projects live, all written up in public. At Minerva University, class of 2030. Looking for a Summer 2027 software engineering internship.',
   openGraph: {
     title: 'Kan · Builder. Tashkent → Minerva.',
     description: OG_DESC,
