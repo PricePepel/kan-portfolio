@@ -18,10 +18,10 @@ interface TimelineEvent {
 
 const PAST: TimelineEvent[] = [
   { x: 60,  date: '2024',     label: 'itstep · teaching' },
-  { x: 170, date: '2025',     label: 'naviq · shipped' },
-  { x: 280, date: '2025',     label: 'samanTA · shipped' },
-  { x: 390, date: '2025',     label: 'council · president' },
-  { x: 490, date: '2026.feb', label: 'polymarket' },
+  { x: 170, date: '2025',     label: 'council · leader' },
+  { x: 280, date: '2026.mar', label: 'naviq · shipped' },
+  { x: 390, date: '2026.mar', label: 'samanTA · launched' },
+  { x: 490, date: '2026.apr', label: 'polymarket' },
   { x: 580, date: '2026.apr', label: 'kenmore · client' },
   { x: 670, date: '2026.may', label: 'minerva · admit', pinch: true },
 ];
