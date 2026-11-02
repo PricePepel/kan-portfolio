@@ -519,9 +519,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 1,
-  "companiesScanned": 739,
-  "lastScanDate": "2026-11-01",
+  "totalDraftsToday": 0,
+  "companiesScanned": 769,
+  "lastScanDate": "2026-11-02",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2822,6 +2822,156 @@
       "company": "Flockler",
       "reason": "network_restricted",
       "scanDate": "2026-11-01"
+    },
+    {
+      "company": "Forward Financing",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Greenback Tax Services",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Hudl",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Influx",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "InVision",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "KeyCDN",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "LiveMentor",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Manage Flitter",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "mySociety",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "MySQL",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Netsparker",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Niteo",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Nugg",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Numbrs",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Optimile NV",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Paktor",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Paylocity",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Peak",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "PreviousNext",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Rackspace Technology",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Red Hat",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Sherpany AG",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Simbiose Ventures",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Skore",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Sourcefabric",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "SugarCRM",
+      "reason": "network_policy_403",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "INTUO/Unit4",
+      "reason": "invalid_url_skipped",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "KissMetrics",
+      "reason": "invalid_url_skipped",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Shortfundly",
+      "reason": "invalid_url_skipped",
+      "date": "2026-11-02"
+    },
+    {
+      "company": "Sococo",
+      "reason": "invalid_url_skipped",
+      "date": "2026-11-02"
     }
   ]
 }
