@@ -27,6 +27,9 @@ export function LoadingScreen() {
   const [digits, setDigits] = useState<Digit[]>(makeInitialDigits);
 
   useEffect(() => {
+    // The resume is for reading and printing, so it opens straight away.
+    if (window.location.pathname.startsWith('/resume')) return;
+
     try {
       if (sessionStorage.getItem(SESSION_KEY) === '1') return;
     } catch {}
