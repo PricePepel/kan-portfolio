@@ -27,27 +27,19 @@ type Project = {
 const EXPERIENCE: Role[] = [
   {
     title: 'Lead Software Developer',
-    org: 'Bloomin',
+    org: 'Bloomin, 7-person EdTech startup',
     location: 'Warsaw, Poland / Chicago, USA',
     dates: 'Jun. 2025 – Present',
     bullets: [
       <>
-        Grew <strong>samanTA</strong> (ta.saman.academy) to{' '}
-        <strong>117 users across 70 deployed school bots</strong> (562 quiz sessions, 77.6% avg score) by building an AI
-        quiz/tutor on FastAPI, Supabase, and OpenAI with a Telegram + web cabinet.
+        Launched <strong>samanTA</strong> (ta.saman.academy), an AI quiz and tutoring Telegram Mini App (React, FastAPI,
+        Supabase, OpenAI API): about 80 daily users at its March 2026 launch; <strong>117 unique users, 70 deployed quiz
+        bots, and 562 quiz sessions</strong>. Its usage results helped Bloomin win a{' '}
+        <strong>€20,000 grant from EdTech4BY</strong>.
       </>,
-      <>
-        Launched the <strong>Bloomin coach platform</strong> (trybloomin.ai, formerly Saman CRM) to onboard coaches via
-        invite links — shipping a 5-tab dashboard, coaches directory, Impact Cards, an AI Concierge (GPT-4o + GPT-4o-mini
-        Telegram nudges), and a Stripe Premium paywall.
-      </>,
-      <>
-        samanTA's usage results helped Bloomin win a <strong>€20,000 grant from EdTech4BY</strong>.
-      </>,
-      <>
-        Promoted twice in under a year. Drive engineering planning, code review, and delivery, and coordinate roadmap and
-        architecture with the Chicago-based founding team.
-      </>,
+      'Grounded the platform’s AI “Mini Coach” in each student’s lesson records to keep answers factual: passed all 4 hand-run edge-case tests with zero invented dates, raised context coverage from 1 of 5 to 3 of 5 records, and added a Telegram escalation loop to the educator.',
+      'Built privacy-first analytics on PostHog EU (consent banner in 2 languages, no IP addresses stored, server-side HogQL), plus a CEO dashboard for traffic, sessions, and geography.',
+      'Rebuilt coach public profiles around a 3D alumni “impact globe” (2 database migrations), covered by Vitest and Playwright tests and shipped through pull-request review; serves 28 coaches in production.',
     ],
   },
   {
@@ -57,14 +49,14 @@ const EXPERIENCE: Role[] = [
     dates: '2024 – 2025',
     bullets: [
       <>
-        Taught web development (HTML/CSS, JavaScript, React) to <strong>80+ students aged 10–17</strong> across multiple
-        cohorts, authoring lesson plans and mentoring each student’s first deployed project.
+        Taught HTML, CSS, JavaScript, and React to <strong>80+ students aged 10–17</strong>, mentoring each through a
+        first deployed project.
       </>,
     ],
   },
   {
     title: 'Sole Author · Peer-Reviewed Publication',
-    org: 'Journal of Fintech, Business, and Development (JFBD), ISSN 3065-9809',
+    org: 'Journal of Fintech, Business, and Development, ISSN 3065-9809',
     location: 'Vol. 2 No. 1, pp. 1–15',
     dates: 'Aug. 2025',
     bullets: [
@@ -72,38 +64,47 @@ const EXPERIENCE: Role[] = [
         <a href="https://economicjournals.org/index.php/JFBD/article/view/51" target="_blank" rel="noopener noreferrer">
           “Influence of Components of the Artificial Intelligence on the Fin-tech Market of Uzbekistan: Banking and
           Insurance Systems”
-        </a>{' '}
-        (15-page analysis of AI as a mechanism for structural change, inclusion, and trust in financial systems).
+        </a>
+        : 15-page study of AI in credit scoring, fraud detection, and digital banking, using secondary data and expert
+        interviews.
       </>,
-      'Surveyed AI adoption across credit scoring, fraud detection, biometric authentication, and digital banking in Uzbekistan; combined secondary data with expert interviews and proposed a government-strategy framework.',
     ],
   },
 ];
 
 const PROJECTS: Project[] = [
   {
-    name: 'TrainHire (Naviq)',
-    stack: 'Next.js 16, React 19, Supabase, Anthropic Claude, Stripe, HeyGen',
-    dates: '2026 – Present',
+    name: 'EasyPay · National Transport Hackathon',
+    stack: 'TypeScript, React Native (Expo), SQLite',
+    dates: 'Aug. 2026',
     bullets: [
-      'AI-generates 20-lesson onboarding academies per role — automating ~3–4 hrs of manual curriculum work each — across three role-scoped portals (Dev/Employer/Intern) with idempotent UTC streak keys and JWKS-verified auth.',
-      'Integrates Anthropic Claude Sonnet for lesson generation and HeyGen for AI presenter videos; Stripe employer subscription planned.',
+      'Placed 2nd with a 3-person team at Uzbekistan’s national transport hackathon (Ministry of Transport, Yandex Uzbekistan), winning a $2,100 prize; designed the fare-calculation and vehicle-binding API logic for one-tap bus payment at boarding.',
+    ],
+  },
+  {
+    name: 'Polymarket Tracker',
+    stack: 'Node.js 20, GitHub Actions',
+    dates: '2026',
+    bullets: [
+      'Built a zero-dependency data pipeline on a 5-minute GitHub Actions cron that logged the top 50 Polymarket traders’ trades on 5-minute BTC markets, idempotent via transaction-hash deduplication; ran unattended April–October 2026.',
+      'Paper-traded the signal and published the results: 1,493 trades at a 71% hit rate, almost exactly break-even at the prices paid.',
+    ],
+  },
+  {
+    name: 'TrainHire (Naviq)',
+    stack: 'Next.js 16, React 19, TypeScript, Supabase, Claude API',
+    dates: 'Mar. 2026 – Apr. 2026',
+    bullets: [
+      'Built an intern hiring platform for the UzCombinator program that turns a job description into a 20-lesson AI-generated academy (Claude Sonnet with an OpenAI fallback) and ranks candidates on a rolling 1–10 quiz score across 3 role-scoped portals.',
+      'Implemented JWKS-verified auth, XP levels, and idempotent UTC streak keys, covered by 56 Vitest tests.',
     ],
   },
   {
     name: 'OLMA',
     stack: 'Next.js 15, Supabase, Zustand, React Query',
-    dates: '2025 – 2026',
+    dates: '2025 – Present',
     bullets: [
-      'Shipped a peer-to-peer learning network end-to-end — auth, social graph, dual-currency skill exchange, clubs, and a gamified ranking engine.',
-    ],
-  },
-  {
-    name: 'Polymarket Tracker',
-    stack: 'Node 20, GitHub Actions cron, Polymarket public API',
-    dates: '2026 – Present',
-    bullets: [
-      'Built a zero-dependency cron scraper + paper-trader tracking the top-50 BTC 5-minute prediction markets — runs on GitHub Actions, commits structured logs to an Obsidian-Git repo, security-audited PAPER mode.',
+      'Shipped a peer-to-peer learning network end to end in 4 months; implemented at School No. 166, where it is in use by 300 active users.',
     ],
   },
 ];
@@ -143,7 +144,7 @@ export default function ResumePage() {
               <span>Aug. 2026 – May 2030</span>
             </div>
             <div className="resume__entry-row resume__entry-row--italic">
-              <span>B.S. in Computer Science (incoming, Class of 2030)</span>
+              <span>B.S. in Computational Sciences, Computer Science (AI concentration) &amp; Business</span>
               <span>San Francisco → Tokyo → Buenos Aires → Berlin</span>
             </div>
           </div>
@@ -154,7 +155,7 @@ export default function ResumePage() {
             </div>
             <div className="resume__entry-row resume__entry-row--italic">
               <span>
-                <strong>SAT 1510</strong> (Math 800, Verbal 710) · <strong>IELTS 7.5</strong> · Academic Council Leader
+                <strong>SAT 1510</strong> · <strong>IELTS 7.5</strong> · Academic Council Leader
                 (900+ students)
               </span>
               <span>Tashkent, Uzbekistan</span>
@@ -206,15 +207,15 @@ export default function ResumePage() {
           <h2>Selected Achievements</h2>
           <ul className="resume__plain-list">
             <li>
-              <strong>Mental arithmetic:</strong> <strong>Grand Champion of the World</strong>; 3&times; Grand Champion of
-              Uzbekistan.
+              <strong>Aloha Mental Arithmetic:</strong> <strong>World Grand Champion</strong> (Moscow, 2018); 3&times; Grand
+              Champion of Uzbekistan.
             </li>
             <li>
-              <strong>Math olympiads · 19+ wins</strong> across AMO, SASMO, SEAMO, AMC, and Math League.
+              <strong>Math olympiads:</strong> 20+ international math olympiad medals (2018–2025).
             </li>
             <li>
-              <strong>World Scholar&rsquo;s Cup:</strong> 2&times; WOW Speaker at Nationals; <strong>#8 overall Senior
-              Division</strong>, Tashkent National Round 2026; 20+ medals/cups across rounds.
+              <strong>World Scholar&rsquo;s Cup:</strong> 2&times; WOW Speaker; <strong>#8 scholar overall, Senior
+              Division</strong> (2026); 19 medals; Yale finals qualifier (2025).
             </li>
             <li>
               <strong>Languages:</strong> Russian (native), English (fluent, IELTS 7.5).
@@ -225,11 +226,11 @@ export default function ResumePage() {
         <section className="resume__section">
           <h2>Technical Skills</h2>
           <ul className="resume__plain-list">
-            <li><strong>Languages:</strong> TypeScript, JavaScript, Python, SQL (PostgreSQL), HTML/CSS, PHP</li>
-            <li><strong>Frameworks:</strong> Next.js (App Router), React 19, FastAPI, Tailwind, Shadcn/ui, Vite, WordPress</li>
-            <li><strong>Backend &amp; Data:</strong> Supabase (Postgres, RLS, Auth, Storage), Stripe, REST API design</li>
-            <li><strong>AI &amp; APIs:</strong> Anthropic Claude (Sonnet), OpenAI (GPT-4o / 4o-mini), Telegram Bot API, HeyGen, TanStack Query</li>
-            <li><strong>Tools:</strong> Git, GitHub Actions, Vercel, Docker, ESLint</li>
+            <li><strong>Programming:</strong> TypeScript, JavaScript, Python, SQL, HTML/CSS</li>
+            <li><strong>Frameworks:</strong> React, Next.js, Node.js, FastAPI, React Native (Expo), Tailwind CSS</li>
+            <li><strong>Data &amp; Infrastructure:</strong> PostgreSQL, Supabase, REST APIs, AWS, Git, GitHub Actions, Docker, Vercel, Render</li>
+            <li><strong>AI &amp; APIs:</strong> OpenAI API, Anthropic Claude API, Telegram Bot API, PostHog</li>
+            <li><strong>Testing:</strong> Vitest, Playwright</li>
           </ul>
         </section>
       </article>

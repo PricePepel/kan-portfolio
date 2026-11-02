@@ -165,9 +165,9 @@ export const STORY: StoryChapterData[] = [
     kicker: 'what I build now',
     headline: 'I still solve things — for other people now.',
     lede:
-      'Lead developer and co-founder at Bloomin (formerly Saman AI Academy). Production AI, shipped before university.',
+      'Lead Software Developer at Bloomin and CTO of samanTA. Production AI, shipped before university.',
     body: [
-      'samanTA, an AI tutor and quiz engine: 117 users, 70 deployed school bots, thousands of quiz sessions. The Bloomin coach platform, TrainHire/Naviq, OLMA, and a hands-off Polymarket paper-trader. A peer-reviewed paper on AI in Uzbekistan’s fintech market — written at 17.',
+      'samanTA, an AI tutor and quiz engine: 117 users, 70 deployed quiz bots, 562 quiz sessions. The Bloomin coach platform, TrainHire/Naviq, OLMA, and a Polymarket paper-trading experiment. A peer-reviewed paper on AI in Uzbekistan’s fintech market — written at 17.',
     ],
     motif: 'builder',
     intensity: [0.08, 0.05],
