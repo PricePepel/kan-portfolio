@@ -520,8 +520,8 @@
     }
   ],
   "totalDraftsToday": 0,
-  "companiesScanned": 769,
-  "lastScanDate": "2026-11-02",
+  "companiesScanned": 513,
+  "lastScanDate": "2026-11-03",
   "failedScans": [
     {
       "company": "FullStack",
@@ -2972,6 +2972,156 @@
       "company": "Sococo",
       "reason": "invalid_url_skipped",
       "date": "2026-11-02"
+    },
+    {
+      "company": "Five Q",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Sysdig Cloud",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Doist",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Domino Data Lab",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Formstack",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "GatherContent",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "GMB Fitness",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Mobomo",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Network Ninja",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Recruiterbox",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Zapier",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "AdEspresso",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Axelerant",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Bugcrowd",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Covenant Eyes",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Digital Ocean",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Human Made",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Kanopi Studios",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Paylock",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "ScienceLogic",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Surevine",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "SurveyMonkey",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Treehouse",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Wikimedia",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Auth0",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "GOFAR",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Logmein",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "MarsBased",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Mozilla",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
+    },
+    {
+      "company": "Prezly",
+      "error": "network_policy_403",
+      "scannedDate": "2026-11-03"
     }
   ]
 }
