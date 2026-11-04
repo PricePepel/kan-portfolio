@@ -519,9 +519,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 0,
-  "companiesScanned": 513,
-  "lastScanDate": "2026-11-03",
+  "totalDraftsToday": 1,
+  "companiesScanned": 543,
+  "lastScanDate": "2026-11-04",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3122,6 +3122,36 @@
       "company": "Prezly",
       "error": "network_policy_403",
       "scannedDate": "2026-11-03"
-    }
+    },
+    "Sulvo",
+    "Tenable",
+    "Time Doctor",
+    "Timely",
+    "Toggl",
+    "Toptal",
+    "Twilio",
+    "Upwork",
+    "UserTesting",
+    "Venafi, Inc",
+    "Vervoe",
+    "Whitespectre",
+    "Zemanta",
+    "Conveyal",
+    "Crossover",
+    "DataCite",
+    "Demio",
+    "doopoll",
+    "Elastic",
+    "Fastly",
+    "fournova",
+    "FoxAndSheep",
+    "Foxio",
+    "General Assembly",
+    "GrapheneDB",
+    "Haystack",
+    "Healthfinch",
+    "Holstee",
+    "ICUC",
+    "Jolly Good Code"
   ]
 }
