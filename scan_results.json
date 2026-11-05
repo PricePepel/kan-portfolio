@@ -155,6 +155,28 @@
       "draft": "applications/cotiviti-ai-engineer-intern.md",
       "notes": "LLM/RAG/Healthcare, $32-40/hr remote, prefers PhD but strong skills match. Open until Dec 22 2026.",
       "pay": "$32-40/hr"
+    },
+    {
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102444",
+      "url": "https://to.indeed.com/aamjbdndzy6s",
+      "date": "2026-11-05",
+      "draft": "applications/talentgrid-ai-analyst-intern.md",
+      "gmailDraftId": "r-1520248054553189832",
+      "notes": "AI-native analytics intern, remote, Summer 2027"
+    },
+    {
+      "company": "BNSF Railway",
+      "role": "bnsf tech Summer Intern 2027 (Remote - US)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102446",
+      "url": "https://to.indeed.com/aa9mwgmhfrk7",
+      "date": "2026-11-05",
+      "draft": "applications/bnsf-tech-summer-intern-2027.md",
+      "gmailDraftId": "r1224784005974508650",
+      "notes": "Tech intern, remote, $6,563/mo, Summer 2027"
     }
   ],
   "emailContacts": [
@@ -520,8 +542,8 @@
     }
   ],
   "totalDraftsToday": 1,
-  "companiesScanned": 543,
-  "lastScanDate": "2026-11-04",
+  "companiesScanned": 573,
+  "lastScanDate": "2026-11-05",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3152,6 +3174,156 @@
     "Healthfinch",
     "Holstee",
     "ICUC",
-    "Jolly Good Code"
+    "Jolly Good Code",
+    {
+      "company": "LitCharts",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Living Social",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "MarkIT.eu",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Netguru",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "owl power",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Pasilobus, Inc",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Productive Power",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "RaRe Technologies",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Salesforce",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Security Roots",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Shopify",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "SiteGround",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Skycrapers",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "SmileDirectClub",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Stack Exchange",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Sucuri, Inc",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Thinkbox.io",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Vinted",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Water Lily Pond",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Whitebox",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Zerply",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Bugfender",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Copass",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Honeybadger",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Hugo",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Import2",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Jim's Mowing",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "Kantree",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "MotorLot",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    },
+    {
+      "company": "SparkLabs",
+      "reason": "network_policy_403",
+      "date": "2026-11-05"
+    }
   ]
 }
