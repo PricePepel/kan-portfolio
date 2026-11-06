@@ -177,6 +177,30 @@
       "draft": "applications/bnsf-tech-summer-intern-2027.md",
       "gmailDraftId": "r1224784005974508650",
       "notes": "Tech intern, remote, $6,563/mo, Summer 2027"
+    },
+    {
+      "company": "CareSource",
+      "role": "2027 Summer Internship Program - Configuration and Automation",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102515",
+      "url": "https://to.indeed.com/aa6vkhhq6lh9",
+      "date": "2026-11-06",
+      "draft": "applications/caresource-summer-intern-2027.md",
+      "gmailDraftId": "r-6989905410284676175",
+      "notes": "Remote summer 2027, $41-66k/yr, automation and configuration engineering",
+      "pay": "$41,200-$66,000/year"
+    },
+    {
+      "company": "J. M. Smucker",
+      "role": "Data Science Intern, Summer 2027",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102502",
+      "url": "https://to.indeed.com/aa26qyzxxgrj",
+      "date": "2026-11-06",
+      "draft": "applications/smucker-data-science-intern-2027.md",
+      "gmailDraftId": "r5089187980862460262",
+      "notes": "Remote data science intern $21-26/hr, Summer 2027",
+      "pay": "$21-$26/hr"
     }
   ],
   "emailContacts": [
@@ -453,14 +477,16 @@
     {
       "company": "Five Q (v2)",
       "email": "hire@fiveq.com",
-      "draftCreated": "2026-05-14",
-      "status": "gmail_draft_ready"
+      "draftCreated": "2026-11-06",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r6817063189086890294"
     },
     {
       "company": "Tortuga",
       "email": "contact@tortugabackpacks.com",
-      "draftCreated": "2026-05-14",
-      "status": "gmail_draft_ready"
+      "draftCreated": "2026-11-06",
+      "status": "gmail_draft_ready",
+      "gmailDraftId": "r6606549131529131300"
     },
     {
       "company": "Women and Families Ascending Association",
@@ -541,9 +567,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 1,
-  "companiesScanned": 573,
-  "lastScanDate": "2026-11-05",
+  "totalDraftsToday": 4,
+  "companiesScanned": 614,
+  "lastScanDate": "2026-11-06",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3324,6 +3350,211 @@
       "company": "SparkLabs",
       "reason": "network_policy_403",
       "date": "2026-11-05"
+    },
+    {
+      "company": "Sulvo",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Team App",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Tenable",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Time Doctor",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Timely",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Toggl",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Toptal",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Twilio",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Upwork",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "UserTesting",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Venafi, Inc",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Vervoe",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Whitespectre",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Zemanta",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Conveyal",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Crossover",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "DataCite",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Demio",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "doopoll",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Elastic",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Fastly",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "fournova",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "FoxAndSheep",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Foxio",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "General Assembly",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "GitLab",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "GrapheneDB",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Haystack",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Healthfinch",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Holstee",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "ICUC",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Jolly Good Code",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Owsy",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Stripe",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Tortuga",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Waygo",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Spotify",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "The Sensible Code C'y",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Triposo",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "ElevenYellow",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
+    },
+    {
+      "company": "Hitlist",
+      "reason": "network_policy_403",
+      "date": "2026-11-06"
     }
   ]
 }
