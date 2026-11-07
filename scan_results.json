@@ -567,9 +567,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 4,
-  "companiesScanned": 614,
-  "lastScanDate": "2026-11-06",
+  "totalDraftsToday": 0,
+  "companiesScanned": 644,
+  "lastScanDate": "2026-11-07",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3555,6 +3555,156 @@
       "company": "Hitlist",
       "reason": "network_policy_403",
       "date": "2026-11-06"
+    },
+    {
+      "company": "Fonoma",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Fuel Made",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Funding Gates",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Gatekeeper",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Gear Stream",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Gigster",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "GitHub",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Groove",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "HelloMD",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Helpjuice, Inc.",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Hirsh Marketing",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "HoloMeeting",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Hopper",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Idego Group",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "InFlight",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Innolitics",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Inpsyde GmbH",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Instinct Science",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Interfolio",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Intevity",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Iridium Technology",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Jatheon",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Kadenze",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "KickBack Rewards systems",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Komoot",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Kontist",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Locus Health",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "MailerLite",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "MCF Technology Solutions",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
+    },
+    {
+      "company": "Mealthy",
+      "reason": "network_policy_403",
+      "date": "2026-11-07"
     }
   ]
 }
