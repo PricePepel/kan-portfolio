@@ -567,9 +567,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 0,
-  "companiesScanned": 644,
-  "lastScanDate": "2026-11-07",
+  "totalDraftsToday": 1,
+  "companiesScanned": 674,
+  "lastScanDate": "2026-11-08",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3705,6 +3705,186 @@
       "company": "Mealthy",
       "reason": "network_policy_403",
       "date": "2026-11-07"
+    },
+    {
+      "company": "4 Ventos",
+      "reason": "network_restricted",
+      "website": "https://www.4ventos.net/",
+      "tier": "B"
+    },
+    {
+      "company": "ACEA Bioscience",
+      "reason": "network_restricted",
+      "website": "https://www.aceabio.com",
+      "tier": "B"
+    },
+    {
+      "company": "Aldrin",
+      "reason": "network_restricted",
+      "website": "https://aldrin.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Amazee",
+      "reason": "network_restricted",
+      "website": "https://www.amazee.io/",
+      "tier": "B"
+    },
+    {
+      "company": "Amazowl",
+      "reason": "network_restricted",
+      "website": "https://www.amazowl.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Apptio",
+      "reason": "network_restricted",
+      "website": "https://www.apptio.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Aptible",
+      "reason": "network_restricted",
+      "website": "aptible.com",
+      "tier": "B"
+    },
+    {
+      "company": "Araize",
+      "reason": "network_restricted",
+      "website": "http://www.araize.com/",
+      "tier": "B"
+    },
+    {
+      "company": "ArangoDB",
+      "reason": "network_restricted",
+      "website": "arangodb.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Automattic",
+      "reason": "network_restricted",
+      "website": "https://automattic.com/work-with-us/",
+      "tier": "B"
+    },
+    {
+      "company": "Barrel Roll",
+      "reason": "network_restricted",
+      "website": "https://gobarrelroll.com",
+      "tier": "B"
+    },
+    {
+      "company": "BlueLabs",
+      "reason": "network_restricted",
+      "website": "https://www.bluelabs.eu/",
+      "tier": "B"
+    },
+    {
+      "company": "Boatyard",
+      "reason": "network_restricted",
+      "website": "www.boatyard.com",
+      "tier": "B"
+    },
+    {
+      "company": "Camplight",
+      "reason": "network_restricted",
+      "website": "https://camplight.net/",
+      "tier": "B"
+    },
+    {
+      "company": "ClickFlow",
+      "reason": "network_restricted",
+      "website": "https://www.clickflow.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Comet",
+      "reason": "network_restricted",
+      "website": "https://comet.co/",
+      "tier": "B"
+    },
+    {
+      "company": "Cornis",
+      "reason": "network_restricted",
+      "website": "https://home.cornis.fr/",
+      "tier": "B"
+    },
+    {
+      "company": "Daocloud",
+      "reason": "network_restricted",
+      "website": "https://www.daocloud.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Delicious Brains",
+      "reason": "network_restricted",
+      "website": "https://deliciousbrains.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Ebury",
+      "reason": "network_restricted",
+      "website": "http://www.ebury.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Eet.nu",
+      "reason": "network_restricted",
+      "website": "https://www.eet.nu/",
+      "tier": "B"
+    },
+    {
+      "company": "Findify",
+      "reason": "network_restricted",
+      "website": "https://www.findify.io/",
+      "tier": "B"
+    },
+    {
+      "company": "Harris",
+      "reason": "network_restricted",
+      "website": "https://www.harriscomputer.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Hatimeria",
+      "reason": "network_restricted",
+      "website": "https://www.hatimeria.com/",
+      "tier": "B"
+    },
+    {
+      "company": "HelpDocs",
+      "reason": "network_restricted",
+      "website": "https://helpdocs.io",
+      "tier": "B"
+    },
+    {
+      "company": "Herox",
+      "reason": "network_restricted",
+      "website": "herox.com",
+      "tier": "B"
+    },
+    {
+      "company": "Hotjar",
+      "reason": "network_restricted",
+      "website": "https://www.hotjar.com/",
+      "tier": "B"
+    },
+    {
+      "company": "IVPN",
+      "reason": "network_restricted",
+      "website": "https://www.ivpn.net/",
+      "tier": "B"
+    },
+    {
+      "company": "Ibotta",
+      "reason": "network_restricted",
+      "website": "https://ibotta.com/",
+      "tier": "B"
+    },
+    {
+      "company": "Igalia",
+      "reason": "network_restricted",
+      "website": "http://www.igalia.com/",
+      "tier": "B"
     }
   ]
 }
