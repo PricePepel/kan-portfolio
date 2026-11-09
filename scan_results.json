@@ -201,6 +201,17 @@
       "gmailDraftId": "r5089187980862460262",
       "notes": "Remote data science intern $21-26/hr, Summer 2027",
       "pay": "$21-$26/hr"
+    },
+    {
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102696",
+      "url": "https://to.indeed.com/aa7gqkkysnzh",
+      "date": "2026-11-09",
+      "draft": "applications/talentgrid-ai-analyst-intern.md",
+      "notes": "AI intern with LLMs/Python - remote, US work auth required, ATS application via Indeed",
+      "pay": "N/A"
     }
   ],
   "emailContacts": [
@@ -568,8 +579,8 @@
     }
   ],
   "totalDraftsToday": 1,
-  "companiesScanned": 674,
-  "lastScanDate": "2026-11-08",
+  "companiesScanned": 704,
+  "lastScanDate": "2026-11-09",
   "failedScans": [
     {
       "company": "FullStack",
@@ -3885,6 +3896,156 @@
       "reason": "network_restricted",
       "website": "http://www.igalia.com/",
       "tier": "B"
+    },
+    {
+      "company": "Modern Tribe",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Moveon.org",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Nav",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Nebulab",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Netlify",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "New Engen",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "NinjaCat",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Nomics",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Oddball",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OmniAccess",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OneSky",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "OutMatch",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Overleaf",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Payroll Panda",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Percona",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Perfect Keto",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Piggy",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Pipedrive",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Pitch",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Pond5",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Power Diary",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Raising the floor",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Red Guava",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Rocketrip",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Salesmsg",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Seeq",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Sendible",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "SevenAtoms",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Shield GEO",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
+    },
+    {
+      "company": "Sitemate Technologies",
+      "reason": "network_policy_403",
+      "date": "2026-11-09"
     }
   ]
 }
