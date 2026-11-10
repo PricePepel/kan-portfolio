@@ -579,8 +579,8 @@
     }
   ],
   "totalDraftsToday": 1,
-  "companiesScanned": 704,
-  "lastScanDate": "2026-11-09",
+  "companiesScanned": 734,
+  "lastScanDate": "2026-11-10",
   "failedScans": [
     {
       "company": "FullStack",
@@ -4046,6 +4046,156 @@
       "company": "Sitemate Technologies",
       "reason": "network_policy_403",
       "date": "2026-11-09"
+    },
+    {
+      "company": "SketchTogether.com",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Small Improvements",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "SMTP2GO",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Social Chorus",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Sonatype",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Squash Labs",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Staff Squared",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Statement",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "SteepRock",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Sticker Mule",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Strategyzer",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "strongDM",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Superformula",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Suse",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Taiga.io",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Taxes for Expats",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "TechnologyAdvice",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "TelemetryTV",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Teltech",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "TEN7",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Testlio",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "The Predictive Index",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "The Taproom Agency",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Thycotic",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Tigera",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Trace",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Trice Imaging",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Triplebyte",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "Tutuka Software",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
+    },
+    {
+      "company": "TXODDS",
+      "reason": "network_policy_403",
+      "date": "2026-11-10"
     }
   ]
 }
