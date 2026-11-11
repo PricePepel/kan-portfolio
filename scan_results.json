@@ -212,6 +212,59 @@
       "draft": "applications/talentgrid-ai-analyst-intern.md",
       "notes": "AI intern with LLMs/Python - remote, US work auth required, ATS application via Indeed",
       "pay": "N/A"
+    },
+    {
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102807",
+      "url": "https://to.indeed.com/aakwd48knp27",
+      "date": "2026-11-11",
+      "draft": "applications/talentgrid-ai-analyst-intern-summer2027.md",
+      "notes": "AI, LLMs, Python, remote - strong match. Check US work auth requirement."
+    },
+    {
+      "company": "NexCommand AI",
+      "role": "AI Engineer (Intern)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102806",
+      "url": "https://to.indeed.com/aakbjgflxp7n",
+      "date": "2026-11-11",
+      "draft": "applications/nexcommand-ai-engineer-intern.md",
+      "notes": "Python, AI/ML, defense/aerospace, remote 20hrs/week. Requires US university (Minerva qualifies). Check clearance requirements for international students."
+    },
+    {
+      "company": "Zoetis",
+      "role": "AI Acceleration Intern - AI Development Lifecycle",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102808",
+      "url": "https://to.indeed.com/aapl9pzlkzvy",
+      "date": "2026-11-11",
+      "draft": "applications/zoetis-ai-acceleration-intern.md",
+      "notes": "Python, AI lifecycle, remote, $22/hr undergrad. Likely requires US work auth.",
+      "pay": "$22/hour"
+    },
+    {
+      "company": "Zoetis",
+      "role": "AI Capabilities Intern \u2013 AI Architecture, Enablement & Tools",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102810",
+      "url": "https://to.indeed.com/aaw2bmq6pmdj",
+      "date": "2026-11-11",
+      "draft": "applications/zoetis-ai-capabilities-intern.md",
+      "notes": "Generative AI, LLMs, agentic AI, enterprise platform - strong match, $22/hr. Requires US work auth.",
+      "pay": "$22/hour"
+    },
+    {
+      "company": "Echo Global Logistics",
+      "role": "Software Engineering Intern - Chicago",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102805",
+      "url": "https://to.indeed.com/aa9yn47hzbh7",
+      "date": "2026-11-11",
+      "draft": "applications/echo-software-engineering-intern.md",
+      "notes": "Web dev, full-stack, good pay $35-50K/10wks. Requires 3 days Chicago office - location issue. Check US work auth.",
+      "pay": "$35,223-50,166/year (10 weeks)"
     }
   ],
   "emailContacts": [
@@ -578,9 +631,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 1,
+  "totalDraftsToday": 5,
   "companiesScanned": 734,
-  "lastScanDate": "2026-11-10",
+  "lastScanDate": "2026-11-11",
   "failedScans": [
     {
       "company": "FullStack",

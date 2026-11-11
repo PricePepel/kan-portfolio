@@ -1,38 +1,39 @@
-# NexCommand AI — AI Engineer Intern (Remote)
+# AI Engineer (Intern) — NexCommand AI
 
-**Job ID:** JOBSEARCH_102139
-**Source:** Indeed
-**URL:** https://to.indeed.com/aaycyxvfb7xj
-**Date:** 2026-10-31
-**Type:** Web Form Application
-**Match:** GOOD — Python/AI/ML, remote, US university enrollment ✓
+**Source:** Indeed (JOBSEARCH_102806)
+**Apply URL:** https://to.indeed.com/aakbjgflxp7n
+**Company:** NexCommand AI LLC
+**Location:** Remote (West Lafayette, IN area)
+**Posted:** October 24, 2026
+**Type:** Internship (Part-Time, up to 20 hrs/week, 3 months)
 
----
-
-## Cover Letter
-
-Subject: AI Engineer Internship Application — Ruslan Kan | Minerva CS '30
-
-Dear NexCommand AI Team,
-
-I'm Ruslan Kan, a Computer Science student at Minerva University (San Francisco, Class of 2030) with hands-on experience building and deploying AI systems in production. Your AI Engineer internship — developing ML models and integrating AI capabilities for defense, aerospace, and supply chain operations — aligns closely with both my technical skills and my interest in applied AI for critical infrastructure.
-
-At Saman AI Academy I shipped **samanTA**, a production AI tutoring platform for 117 active users across 70 Uzbekistan schools, where I handled the full ML pipeline: prompt engineering, context management, data preprocessing, and Supabase integration with FastAPI. I also built **Naviq**, a B2B SaaS platform using Claude AI for semantic candidate matching, working directly with large-scale datasets and deploying agentic patterns in a real business context.
-
-My Python proficiency spans scikit-learn, OpenAI/Anthropic SDKs, and FastAPI for model serving. I'm comfortable with version control (Git), remote async collaboration, and technical documentation — all essential in a distributed team environment. I'm currently enrolled at Minerva University, a US institution, and available for up to 20 hours/week as specified.
-
-I'm excited by the challenge of applying AI to complex operational domains where accuracy and reliability are paramount. I'd welcome the opportunity to contribute to NexCommand AI's mission.
-
-Best regards,
-Ruslan Kan
-nicetryskrock@gmail.com | github.com/PricePepel
-kan-portfolio-pricepepels-projects.vercel.app
-
----
+## Role Match
+Good fit — Python, AI/ML, model development, software integration.
+⚠️ Note: Requires enrollment in a US university. Ruslan is enrolled at Minerva University (San Francisco, CA) — qualifies.
+⚠️ Note: May involve sensitive/regulated industries (defense/aerospace) — verify security/clearance requirements for international students.
 
 ## Application Notes
-- Apply via web form: https://to.indeed.com/aaycyxvfb7xj
-- Duration: 3 months, max 20 hrs/week remote
-- Requires: enrolled in US university ✓ (Minerva University, SF)
-- Note: role mentions defense/sensitive industries; no immediate blocker but worth noting
-- 3-month duration starting ~Jan 2027 would be ideal timing (semester break)
+Apply directly on Indeed. Focus on Python skills, AI/ML experience, and Minerva University enrollment.
+
+---
+
+## Draft Cover Letter
+
+Subject: AI Engineer Intern Application — Ruslan Kan | Minerva University CS '30
+
+Dear NexCommand AI Hiring Team,
+
+I'm Ruslan Kan, a Computer Science student at Minerva University (San Francisco, CA, Class of 2030), applying for the AI Engineer Intern position.
+
+I have practical experience building and deploying AI systems end-to-end. At Saman AI Academy, I developed samanTA, an AI-powered tutoring platform with 117 users across 70 schools, integrating OpenAI's APIs with FastAPI backends and Supabase databases. I also built TrainHire, a B2B SaaS tool where I implemented AI agents using Anthropic's Claude API to automate HR workflows — from resume screening to interview scheduling.
+
+NexCommand AI's focus on applying AI to defense, aerospace, and manufacturing operations is compelling. My background in production AI systems — building real pipelines, handling data preprocessing, and integrating model outputs into business workflows — directly supports the work described in this role.
+
+I'm comfortable working remotely, managing my time independently, and communicating technical findings clearly across teams.
+
+GitHub: github.com/PricePepel
+Portfolio: kan-portfolio-pricepepels-projects.vercel.app
+
+Best regards,
+Ruslan Kan | nicetryskrock@gmail.com
+Minerva University, CS '30
