@@ -265,6 +265,28 @@
       "draft": "applications/echo-software-engineering-intern.md",
       "notes": "Web dev, full-stack, good pay $35-50K/10wks. Requires 3 days Chicago office - location issue. Check US work auth.",
       "pay": "$35,223-50,166/year (10 weeks)"
+    },
+    {
+      "company": "Xometry",
+      "role": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/xometry/jobs/5007635007",
+      "method": "web-form",
+      "ats": "greenhouse",
+      "category": "other",
+      "details": "Summer 2026 intern program, Waltham MA or North Bethesda MD, $25-27/hr, on-site 3 days/week, grad Dec 2026 or May 2027. NOTE: May be closed - posted Dec 2025.",
+      "priority": "B",
+      "status": "needs_verification"
+    },
+    {
+      "company": "Instructure",
+      "role": "Software Engineer Intern (Studio)",
+      "url": "https://jobs.lever.co/instructure/308d2d1a-3317-49d4-a947-b3275eb421cf",
+      "method": "web-form",
+      "ats": "lever",
+      "category": "edtech",
+      "details": "Budapest, Hungary (hybrid). Ruby on Rails + React on Canvas Studio. Status uncertain.",
+      "priority": "B",
+      "status": "needs_verification"
     }
   ],
   "emailContacts": [
@@ -632,8 +654,8 @@
     }
   ],
   "totalDraftsToday": 5,
-  "companiesScanned": 734,
-  "lastScanDate": "2026-11-11",
+  "companiesScanned": 764,
+  "lastScanDate": "2026-11-12",
   "failedScans": [
     {
       "company": "FullStack",
@@ -4249,6 +4271,298 @@
       "company": "TXODDS",
       "reason": "network_policy_403",
       "date": "2026-11-10"
+    },
+    {
+      "company": "Uberspace",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Unhaggled",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "User Interviews",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "vidIQ",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "VirtualPBX",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Voice123",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Voxnest / Spreaker",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Wave",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "We Are Sweet",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Web4Realty",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Whitesmith",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "ZenCash",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Ziffity Solutions",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Indie Localizers",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Inuka",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Kraken",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Kyero",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Language Drops",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Last Call Media",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Leadfeeder",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Littlelines",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "mailparser.io",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MailTag.io",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Mega",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MercuryWorksCraft",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MiMedx",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Mobiquity",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Moodle",
+      "reason": "DNS blocked by session network policy",
+      "date": "2026-11-12"
+    }
+  ],
+  "emailNotFound": [
+    {
+      "company": "Uberspace",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Unhaggled",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "User Interviews",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "vidIQ",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "VirtualPBX",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Voice123",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Voxnest / Spreaker",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Wave",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "We Are Sweet",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Web4Realty",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Whitesmith",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Xometry",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "ZenCash",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Ziffity Solutions",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Indie Localizers",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Instructure",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Inuka",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Kraken",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Kyero",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Language Drops",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Last Call Media",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Leadfeeder",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Littlelines",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "mailparser.io",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MailTag.io",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Mega",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MercuryWorksCraft",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "MiMedx",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Mobiquity",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
+    },
+    {
+      "company": "Moodle",
+      "reason": "DNS blocked - cannot fetch raw HTML",
+      "date": "2026-11-12"
     }
   ]
 }
