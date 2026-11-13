@@ -287,6 +287,18 @@
       "details": "Budapest, Hungary (hybrid). Ruby on Rails + React on Canvas Studio. Status uncertain.",
       "priority": "B",
       "status": "needs_verification"
+    },
+    {
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102935",
+      "url": "https://to.indeed.com/aakvgxrh86ph",
+      "date": "2026-11-13",
+      "draft": "applications/talentgrid-ai-analyst-intern-summer2027.md",
+      "notes": "Re-appeared on Indeed today (Nov 13). AI-native analytics intern, remote, Summer 2027. Same role as prior postings.",
+      "gmailDraftId": "r4406636359544280091",
+      "gmailDraftUrl": "https://mail.google.com/mail/?authuser=nicetryskrock@gmail.com#all?compose=thread-f:1881714573980441556%2Bmsg-a:r4406636359544280091"
     }
   ],
   "emailContacts": [
@@ -654,8 +666,8 @@
     }
   ],
   "totalDraftsToday": 5,
-  "companiesScanned": 764,
-  "lastScanDate": "2026-11-12",
+  "companiesScanned": 770,
+  "lastScanDate": "2026-11-13",
   "failedScans": [
     {
       "company": "FullStack",
@@ -4411,6 +4423,657 @@
       "company": "Moodle",
       "reason": "DNS blocked by session network policy",
       "date": "2026-11-12"
+    },
+    {
+      "company": "Mosalingua",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.mosalingua.com/en/"
+    },
+    {
+      "company": "NymCard",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.nymcard.com/"
+    },
+    {
+      "company": "OpenCraft",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "opencraft.com"
+    },
+    {
+      "company": "Palo Alto Insight",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.paloaltoinsight.com/english/"
+    },
+    {
+      "company": "Parablesoft",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "http://parablesoft.com/"
+    },
+    {
+      "company": "PartnerHero",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://partnerhero.com/"
+    },
+    {
+      "company": "Pixels for Humans",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.pixelsforhumans.com/"
+    },
+    {
+      "company": "PSPDFKit",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://pspdfkit.com/"
+    },
+    {
+      "company": "Qikker Online",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.qikkeronline.nl/"
+    },
+    {
+      "company": "RecognizeApp",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://recognizeapp.com/"
+    },
+    {
+      "company": "RemoteYear",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "remoteyear.com"
+    },
+    {
+      "company": "SalesHoo",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.salehoo.com"
+    },
+    {
+      "company": "Savvy Navvy",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.savvy-navvy.com"
+    },
+    {
+      "company": "Seez",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "http://seez.co"
+    },
+    {
+      "company": "Semaphore CI",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://semaphoreci.com/about/careers"
+    },
+    {
+      "company": "ServiceNow",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.servicenow.com/"
+    },
+    {
+      "company": "Sked Social",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "skedsocial.com/"
+    },
+    {
+      "company": "Sketch",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.sketch.com"
+    },
+    {
+      "company": "Slite",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://slite.com"
+    },
+    {
+      "company": "Soshace",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://soshace.com/"
+    },
+    {
+      "company": "Speedchecker",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "http://www.speedchecker.xyz/"
+    },
+    {
+      "company": "StayWell",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.staywell.com/"
+    },
+    {
+      "company": "Taxjar",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "TaxJar.com"
+    },
+    {
+      "company": "TEONITE",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "http://teonite.com/"
+    },
+    {
+      "company": "The Apache Software Foundation",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.apache.org/"
+    },
+    {
+      "company": "Universal Avenue",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.universalavenue.com/"
+    },
+    {
+      "company": "Webikon",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://webikon.sk/"
+    },
+    {
+      "company": "ZOLL Medical",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "B",
+      "website": "https://www.zoll.com/"
+    },
+    {
+      "company": "Advocate",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://adv.gg"
+    },
+    {
+      "company": "Parknav",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://parknav.com/"
+    },
+    {
+      "company": "Apitalks",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.apitalks.com/"
+    },
+    {
+      "company": "Arkency",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://arkency.com/"
+    },
+    {
+      "company": "Attractions.io",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://attractions.io/"
+    },
+    {
+      "company": "Barefoot Coders",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://barefootcoders.com/"
+    },
+    {
+      "company": "Lemonpie",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.bemyguest.fm/"
+    },
+    {
+      "company": "Blanket",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://blanket.ai/"
+    },
+    {
+      "company": "Bookwhen",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://bookwhen.com/"
+    },
+    {
+      "company": "Buink",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.buink.com"
+    },
+    {
+      "company": "Cantilever",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://cantilever.co/"
+    },
+    {
+      "company": "Chromatic",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://chromatichq.com/"
+    },
+    {
+      "company": "Cladwell",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://cladwell.com/"
+    },
+    {
+      "company": "CoverMyMeds",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.covermymeds.com/"
+    },
+    {
+      "company": "Datadog",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.datadoghq.com/jobs-engineering/"
+    },
+    {
+      "company": "DCD Automotive Holdings",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://dcd.auto/"
+    },
+    {
+      "company": "Fanatical Labs",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://fanaticallabs.com/"
+    },
+    {
+      "company": "Forget The Funnel",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://forgetthefunnel.com/"
+    },
+    {
+      "company": "Gradient Metrics",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://gradientmetrics.com/"
+    },
+    {
+      "company": "Happy Herbivore/Meal Mentor",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.getmealplans.com"
+    },
+    {
+      "company": "HeyTaco!",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.heytaco.chat/"
+    },
+    {
+      "company": "Input",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.input.com/"
+    },
+    {
+      "company": "Intercom",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.intercom.com/"
+    },
+    {
+      "company": "Jitbit",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.jitbit.com/"
+    },
+    {
+      "company": "Lincoln Loop",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://lincolnloop.com/"
+    },
+    {
+      "company": "Loot Crate",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.lootcrate.com"
+    },
+    {
+      "company": "Marketade",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.marketade.com/"
+    },
+    {
+      "company": "MarketGoo",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "www.marketgoo.com"
+    },
+    {
+      "company": "Marvel Prototyping",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://marvelapp.com/"
+    },
+    {
+      "company": "Minter.io",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://minter.io/"
+    },
+    {
+      "company": "Moo.do",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.moo.do/"
+    },
+    {
+      "company": "MyOnlineSchool",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.my-online-school.co.uk/"
+    },
+    {
+      "company": "Noiiz",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.noiiz.com/"
+    },
+    {
+      "company": "Notepad Studio",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://notepadstudio.com"
+    },
+    {
+      "company": "Pachama",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.pachama.com"
+    },
+    {
+      "company": "Pandable",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://pandable.co/"
+    },
+    {
+      "company": "Punchpass",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://punchpass.com/"
+    },
+    {
+      "company": "Sopris Health",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.soprishealth.com/"
+    },
+    {
+      "company": "Sticky",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://stickymarketingtools.com"
+    },
+    {
+      "company": "The Adventure Junkies",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.theadventurejunkies.com/"
+    },
+    {
+      "company": "Trivago",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.trivago.com"
+    },
+    {
+      "company": "Troop Themes",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://troopthemes.com/"
+    },
+    {
+      "company": "Tucows",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://tucows.com/"
+    },
+    {
+      "company": "VIPKid",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.vipkid.com/"
+    },
+    {
+      "company": "WEARTH",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.wearthlondon.com"
+    },
+    {
+      "company": "Zest",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "zestmeup.com"
+    },
+    {
+      "company": "Zinc",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://zinc.io/"
+    },
+    {
+      "company": "Copyblogger",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "www.copyblogger.com"
+    },
+    {
+      "company": "DRONAMICS",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.dronamics.com/"
+    },
+    {
+      "company": "Eaternity",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.eaternity.org/"
+    },
+    {
+      "company": "Envato",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://envato.com/"
+    },
+    {
+      "company": "FRSH",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.frsh.com/#/"
+    },
+    {
+      "company": "log",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://log.pt/"
+    },
+    {
+      "company": "Mosabi",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://mosabi.co"
+    },
+    {
+      "company": "openredis",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://openredis.com/"
+    },
+    {
+      "company": "Pactly",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://pactly.ai/"
+    },
+    {
+      "company": "PixelHaus Media",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://pixelhaus.io/"
+    },
+    {
+      "company": "Podia",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "podia.com"
+    },
+    {
+      "company": "shiftling",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.shiftling.com/"
+    },
+    {
+      "company": "Sweet Studio",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://www.sweet.studio/"
+    },
+    {
+      "company": "ThirdPath Institute",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "www.thirdpath.org"
+    },
+    {
+      "company": "Valutac",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://valutac.com/"
+    },
+    {
+      "company": "VerticalOps",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "http://www.verticalops.com/"
+    },
+    {
+      "company": "Wild Audience",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "https://wildaudience.com/"
+    },
+    {
+      "company": "Oh My George",
+      "reason": "no_job_page_url",
+      "date": "2026-11-13",
+      "tier": "C",
+      "website": "www.ohmygeorge.com"
     }
   ],
   "emailNotFound": [
