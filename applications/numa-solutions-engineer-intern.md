@@ -1,36 +1,37 @@
-# Numa - Solutions Engineer Intern
+# Numa – Solutions Engineer Intern
 
-**Source:** Indeed (Job ID: JOBSEARCH_102867)
-**Apply URL:** https://to.indeed.com/aabhhwrgvjfj
-**Posted:** November 11, 2026
-**Location:** Remote (US or Canada)
-**Duration:** 6 months, Dec 1, 2026 – May 31, 2027
-**Start Date:** December 1, 2026 — VERY SOON
-**Type:** Part-time (35 hrs/week Mon-Fri 8am-8pm EST)
-**Email:** Not found — apply via Indeed link above
-
-## Note
-Numa is an AI-native automotive dealership platform ($50M raised, Google/Threshold investors). This is more a technical support role than pure engineering, but involves Twilio, HubSpot, SMS/telephony systems. Good for networking and systems understanding. Start date in 3 weeks.
-
-## Application Draft
-
-**Subject:** Solutions Engineer Internship — Ruslan Kan | Minerva CS '30 | AI + SaaS Background
+**Source:** Indeed (JOBSEARCH_102996; prev. JOBSEARCH_102867)  
+**Apply:** https://to.indeed.com/aahqqq6bvp4z  
+**Posted:** November 11, 2026  
+**Pay:** N/A · Remote · Part-time (35 hrs/week Mon-Fri 8am-8pm EST)  
+**Duration:** ~6 months, Dec 1, 2026 – May 31, 2027  
+**Start Date:** December 1, 2026 — ⚠️ VERY SOON  
+**ATS:** Web form via Indeed  
+**Note:** Numa is an AI-native automotive dealership platform ($50M raised, Google/Threshold investors). Remote part-time — their AI handles inbound/outbound customer calls and texts.
 
 ---
 
+## Draft Cover Letter / Application Essay
+
+**Subject:** Solutions Engineer Intern – Ruslan Kan | Minerva CS '30
+
 Hi Numa Team,
 
-I'm Ruslan Kan, a first-year CS student at Minerva University and former Lead Developer at Saman AI Academy. Your Solutions Engineer Intern role at Numa caught my attention — not just because it's remote and starts soon, but because Numa is building something genuinely ambitious: rearchitecting how automotive dealerships operate using AI agents.
+I'm Ruslan Kan, a first-year Computer Science student at Minerva University (Class of 2030), reaching out about the Solutions Engineer Intern role. Numa's approach — using AI to transform how dealerships communicate with customers in real time — aligns directly with what I've been building over the past year.
 
-My background bridges technical depth and customer-facing communication: I built samanTA, a multi-tenant chatbot platform serving 117 users across 70 Uzbek schools, where I had to manage both backend reliability (FastAPI/Supabase) and direct feedback loops with school administrators. I understand what it means when an integration breaks in a business-critical system.
+As Lead Software Developer at Saman AI Academy, I integrated OpenAI and Anthropic Claude APIs into production systems serving 117 users across 70 schools, handling real traffic with FastAPI backends and Supabase. I've built Saman CRM with Stripe billing and an AI concierge, and Naviq (TrainHire) — a B2B SaaS platform in Next.js 16/React 19 — from zero to paying customers. I understand what it takes to wire AI reliably into customer-facing products.
 
-The Twilio telephony work, DMS integrations, and HubSpot workflows you describe are new to me, but I learn fast and I have strong foundations in API integrations, debugging production systems, and clear technical documentation.
+A Solutions Engineer role at Numa is exactly where my technical skills and customer-impact orientation meet. I'm comfortable across TypeScript/Python/React, can quickly understand client environments, and love the puzzle of making integrations work smoothly end-to-end.
 
-Your 90-day ramp structure and buddy system sound like a great environment to build real systems knowledge.
+I'd welcome the chance to contribute to Numa's growth. Happy to share my GitHub or portfolio at any time.
 
-Portfolio: kan-portfolio-pricepepels-projects.vercel.app
-GitHub: github.com/PricePepel
+Best,  
+Ruslan Kan  
+nicetryskrock@gmail.com | github.com/PricePepel | kan-portfolio-pricepepels-projects.vercel.app  
+linkedin.com/in/ruslan-kan-207692384/
 
-Best,
-Ruslan Kan
-nicetryskrock@gmail.com | linkedin.com/in/ruslan-kan-207692384/
+---
+
+## Checklist
+- [ ] Apply via Indeed link above
+- [ ] Check if role requires US presence or is fully async-remote

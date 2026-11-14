@@ -299,6 +299,16 @@
       "notes": "Re-appeared on Indeed today (Nov 13). AI-native analytics intern, remote, Summer 2027. Same role as prior postings.",
       "gmailDraftId": "r4406636359544280091",
       "gmailDraftUrl": "https://mail.google.com/mail/?authuser=nicetryskrock@gmail.com#all?compose=thread-f:1881714573980441556%2Bmsg-a:r4406636359544280091"
+    },
+    {
+      "company": "Numa",
+      "role": "Solutions Engineer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_102996",
+      "url": "https://to.indeed.com/aahqqq6bvp4z",
+      "date": "2026-11-14",
+      "draft": "applications/numa-solutions-engineer-intern.md",
+      "notes": "Remote part-time, AI-powered automotive dealership communications platform. Technical solutions role - good fit for API/integration skills."
     }
   ],
   "emailContacts": [
@@ -667,7 +677,7 @@
   ],
   "totalDraftsToday": 5,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-13",
+  "lastScanDate": "2026-11-14",
   "failedScans": [
     {
       "company": "FullStack",
