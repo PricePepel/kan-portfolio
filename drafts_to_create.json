@@ -223,5 +223,68 @@
     "gmailDraftId": "r8846000603073647353",
     "status": "gmail_draft_ready",
     "draftCreated": "2026-10-27"
+  },
+  {
+    "name": "Five Q",
+    "email": "jobs@fiveq.com",
+    "description": "Interactive web development and marketing agency",
+    "category": "web-agency",
+    "gmailDraftId": "r-6531107185917309634",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "Five Q (hire)",
+    "email": "hire@fiveq.com",
+    "description": "Interactive web development and marketing agency",
+    "category": "web-agency",
+    "gmailDraftId": "r-3804973097483438548",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "Sysdig",
+    "email": "talent@sysdig.com",
+    "description": "Container security, monitoring, forensics",
+    "category": "devops-security",
+    "gmailDraftId": "r317496060539166615",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "Zapier",
+    "email": "recruiting@zapier.com",
+    "description": "Connect apps, automate tasks",
+    "category": "saas",
+    "gmailDraftId": "r8826686241125799376",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "Doist",
+    "email": "careers@doist.com",
+    "description": "Productivity software (Todoist, Twist)",
+    "category": "saas",
+    "gmailDraftId": "r1464575333875168355",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "Tortuga",
+    "email": "contact@tortugabackpacks.com",
+    "description": "Travel backpacks, remote-friendly company",
+    "category": "ecommerce",
+    "gmailDraftId": "r-1588857929928797648",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
+  },
+  {
+    "name": "WAFAA",
+    "email": "wafaa@wafaaorganization.org",
+    "description": "Nonprofit supporting women and families",
+    "category": "nonprofit",
+    "gmailDraftId": "r7276407870164920021",
+    "status": "gmail_draft_ready",
+    "draftCreated": "2026-11-15"
   }
 ]

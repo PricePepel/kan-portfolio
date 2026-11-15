@@ -317,36 +317,40 @@
       "email": "jobs@fiveq.com",
       "category": "other",
       "description": "Interactive web development and marketing agency",
-      "draftCreated": "2026-10-18",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r-8746730823707135980"
+      "gmailDraftId": "r-6531107185917309634",
+      "draft": "applications/fiveq-jobs-cold-email.md"
     },
     {
       "company": "Sysdig Cloud",
       "email": "talent@sysdig.com",
       "category": "ai-ml",
       "description": "Container security, monitoring, forensics",
-      "draftCreated": "2026-10-18",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r4083470009307324592"
+      "gmailDraftId": "r317496060539166615",
+      "draft": "applications/sysdig-cold-email.md"
     },
     {
       "company": "Zapier",
       "email": "recruiting@zapier.com",
       "category": "devtools",
       "description": "Connect apps, automate tasks",
-      "draftCreated": "2026-10-18",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r8256929003349662364"
+      "gmailDraftId": "r8826686241125799376",
+      "draft": "applications/zapier-cold-email.md"
     },
     {
       "company": "Doist",
       "email": "careers@doist.com",
       "category": "saas",
       "description": "Productivity software (Todoist, Twist)",
-      "draftCreated": "2026-10-18",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r-5997172428616743703"
+      "gmailDraftId": "r1464575333875168355",
+      "draft": "applications/doist-cold-email.md"
     },
     {
       "company": "Stripe",
@@ -585,26 +589,29 @@
     {
       "company": "Five Q (v2)",
       "email": "hire@fiveq.com",
-      "draftCreated": "2026-11-06",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r6817063189086890294"
+      "gmailDraftId": "r-3804973097483438548",
+      "draft": "applications/fiveq-cold-email.md"
     },
     {
       "company": "Tortuga",
       "email": "contact@tortugabackpacks.com",
-      "draftCreated": "2026-11-06",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r6606549131529131300"
+      "gmailDraftId": "r-1588857929928797648",
+      "draft": "applications/tortuga-cold-email.md"
     },
     {
       "company": "Women and Families Ascending Association",
       "email": "wafaa@wafaaorganization.org",
       "category": "nonprofit",
       "description": "Nonprofit supporting families; web developer intern",
-      "draftCreated": "2026-10-31",
+      "draftCreated": "2026-11-15",
       "status": "gmail_draft_ready",
-      "gmailDraftId": "r4206702813850076594",
-      "source": "indeed_job_listing_JOBSEARCH_102145"
+      "gmailDraftId": "r7276407870164920021",
+      "source": "indeed_job_listing_JOBSEARCH_102145",
+      "draft": "applications/wafaa-web-developer-intern.md"
     }
   ],
   "noOpenings": [
@@ -677,7 +684,7 @@
   ],
   "totalDraftsToday": 5,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-14",
+  "lastScanDate": "2026-11-15",
   "failedScans": [
     {
       "company": "FullStack",
