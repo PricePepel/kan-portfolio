@@ -309,6 +309,56 @@
       "date": "2026-11-14",
       "draft": "applications/numa-solutions-engineer-intern.md",
       "notes": "Remote part-time, AI-powered automotive dealership communications platform. Technical solutions role - good fit for API/integration skills."
+    },
+    {
+      "company": "NexCommand AI",
+      "role": "AI Engineer (Intern)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103178",
+      "url": "https://to.indeed.com/aac7xy4mqjbf",
+      "date": "2026-11-17",
+      "notes": "Re-appeared with new ID. Remote, Python/AI/ML, 3 months, requires US university enrollment. Already tracked under JOBSEARCH_102806.",
+      "draft": "applications/nexcommand-ai-engineer-intern.md"
+    },
+    {
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103180",
+      "url": "https://to.indeed.com/aannwy4xk4tv",
+      "date": "2026-11-17",
+      "notes": "Re-appeared with new ID. Requires US work authorization without sponsorship \u2013 monitor for change. Already tracked under JOBSEARCH_102935.",
+      "draft": "applications/talentgrid-ai-analyst-intern-summer2027.md"
+    },
+    {
+      "company": "CACI International",
+      "role": "Operations Intern (AI Tool Integration and Operational Testing - Summer 2027)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103182",
+      "url": "https://to.indeed.com/aa696pwrzws7",
+      "date": "2026-11-17",
+      "notes": "NOT APPLICABLE \u2013 requires Secret clearance and US citizenship (no visa sponsorship). O'Fallon, IL.",
+      "eligible": false
+    },
+    {
+      "company": "Women and Families Ascending Association",
+      "role": "Web Developer and Social Media Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103186",
+      "url": "https://to.indeed.com/aajvt97qns98",
+      "date": "2026-11-17",
+      "notes": "Non-profit, unpaid, mostly non-technical tasks. Poor skill match. Emails: wafaa@wafaaorganization.org, wafaaorganization7@gmail.com",
+      "eligible": false
+    },
+    {
+      "company": "Dream Grid Studios",
+      "role": "Software Engineer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103176",
+      "url": "https://to.indeed.com/aayv6pnjgvp7",
+      "date": "2026-11-17",
+      "notes": "NOT APPLICABLE \u2013 $1-2/hr compensation, part-time, low-quality listing.",
+      "eligible": false
     }
   ],
   "emailContacts": [
@@ -684,7 +734,7 @@
   ],
   "totalDraftsToday": 0,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-16",
+  "lastScanDate": "2026-11-17",
   "failedScans": [
     {
       "company": "FullStack",
