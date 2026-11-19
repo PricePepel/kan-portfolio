@@ -359,6 +359,17 @@
       "date": "2026-11-17",
       "notes": "NOT APPLICABLE \u2013 $1-2/hr compensation, part-time, low-quality listing.",
       "eligible": false
+    },
+    {
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103300",
+      "url": "https://to.indeed.com/aasqlsxljksq",
+      "date": "2026-11-19",
+      "draft": "applications/youbloom-react-intern.md",
+      "gmailDraftId": "r-3133117507776498747",
+      "notes": "React/Tailwind, music-tech startup, remote, unpaid but real deployments. Email: info@youbloom.com (verified in job description)"
     }
   ],
   "emailContacts": [
@@ -732,9 +743,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 0,
+  "totalDraftsToday": 1,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-18",
+  "lastScanDate": "2026-11-19",
   "failedScans": [
     {
       "company": "FullStack",
