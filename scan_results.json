@@ -743,9 +743,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 1,
+  "totalDraftsToday": 0,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-19",
+  "lastScanDate": "2026-11-20",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5304,6 +5304,106 @@
       "company": "Moodle",
       "reason": "DNS blocked - cannot fetch raw HTML",
       "date": "2026-11-12"
+    }
+  ],
+  "indeedReviewed": [
+    {
+      "jobId": "JOBSEARCH_103364",
+      "company": "Mlewi Games",
+      "role": "Game Development Intern",
+      "reason": "Unity/game dev \u2014 wrong stack",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103365",
+      "company": "Dream Grid Studios",
+      "role": "Software engineer Intern",
+      "reason": "dollar1-2/hr \u2014 not applicable",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103366",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "reason": "Re-appearance \u2014 already drafted 103300",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103367",
+      "company": "ALLIANT",
+      "role": "Developer Intern/Early Career",
+      "reason": "Requires Bachelor + 2yr DevOps/QA experience",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103368",
+      "company": "Connecting Scholars",
+      "role": "UI/UX Developer Internship",
+      "reason": "dollar1/year \u2014 not applicable",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103369",
+      "company": "NexCommand AI",
+      "role": "AI Engineer (Intern)",
+      "reason": "Already tracked/drafted",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103370",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "role": "UX/UI Game Dev (Unity) Internship",
+      "reason": "dollar1/year \u2014 not applicable",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103371",
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "reason": "Already tracked \u2014 needs US work auth",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103372",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "PHP/Laravel \u2014 wrong stack",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103373",
+      "company": "Dream Grid Studios",
+      "role": "Software engineer Intern",
+      "reason": "dollar1-2/hr \u2014 re-appearance",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103374",
+      "company": "Connecting Scholars",
+      "role": "UI/UX Developer Internship",
+      "reason": "dollar1/year \u2014 re-appearance",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103375",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "PHP/Laravel \u2014 re-appearance",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103376",
+      "company": "Women and Families Ascending Association",
+      "role": "Web Developer and Social Media Intern",
+      "reason": "Non-tech duties \u2014 not suitable",
+      "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103377",
+      "company": "Truveta",
+      "role": "ML Postdoc Researcher",
+      "reason": "Full-time postdoc, Seattle WA",
+      "date": "2026-11-20"
     }
   ]
 }
