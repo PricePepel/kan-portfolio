@@ -370,6 +370,18 @@
       "draft": "applications/youbloom-react-intern.md",
       "gmailDraftId": "r-3133117507776498747",
       "notes": "React/Tailwind, music-tech startup, remote, unpaid but real deployments. Email: info@youbloom.com (verified in job description)"
+    },
+    {
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103428",
+      "url": "https://to.indeed.com/aawnjlyqrnv8",
+      "date": "2026-11-21",
+      "draft": "applications/asymmetrica-investments-software-engineering-intern.md",
+      "gmail_draft_id": "r8677408530456232193",
+      "notes": "Swiss fintech/AI firm \u2014 remote, Python/FastAPI/React/LLM exact match; unpaid internship",
+      "status": "gmail_draft_ready"
     }
   ],
   "emailContacts": [
@@ -743,9 +755,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 0,
+  "totalDraftsToday": 1,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-20",
+  "lastScanDate": "2026-11-21",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5404,6 +5416,34 @@
       "role": "ML Postdoc Researcher",
       "reason": "Full-time postdoc, Seattle WA",
       "date": "2026-11-20"
+    },
+    {
+      "jobId": "JOBSEARCH_103429",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "reason": "re-appearance of tracked role (103300 already drafted)",
+      "date": "2026-11-21"
+    },
+    {
+      "jobId": "JOBSEARCH_103430",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "PHP/Laravel \u2014 wrong stack (re-appearance)",
+      "date": "2026-11-21"
+    },
+    {
+      "jobId": "JOBSEARCH_103431",
+      "company": "Shellprop",
+      "role": "SEO intern",
+      "reason": "SEO/marketing \u2014 not a software engineering role",
+      "date": "2026-11-21"
+    },
+    {
+      "jobId": "JOBSEARCH_103432",
+      "company": "Women and Families Ascending Association",
+      "role": "Web Developer and Social Media Intern",
+      "reason": "Already reviewed \u2014 non-tech duties not suitable",
+      "date": "2026-11-21"
     }
   ]
 }
