@@ -757,7 +757,7 @@
   ],
   "totalDraftsToday": 1,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-21",
+  "lastScanDate": "2026-11-22",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5444,6 +5444,97 @@
       "role": "Web Developer and Social Media Intern",
       "reason": "Already reviewed \u2014 non-tech duties not suitable",
       "date": "2026-11-21"
+    },
+    {
+      "jobId": "JOBSEARCH_103483",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "reason": "Re-appearance of drafted role (103428)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103484",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "reason": "Re-appearance of drafted role (103428)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103485",
+      "company": "Mlewi Games",
+      "role": "Game Development Intern",
+      "reason": "Unity/game dev \u2014 wrong stack (re-appearance)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103486",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "reason": "Re-appearance \u2014 already drafted 103300",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103487",
+      "company": "Dream Grid Studios",
+      "role": "Software engineer Intern",
+      "reason": "$1-2/hr \u2014 not applicable (re-appearance)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103488",
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "reason": "Re-appearance \u2014 already tracked (103371, needs US work auth)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103489",
+      "company": "Iwanciw Functional Funware",
+      "role": "Computer Science/Coding Entrepreneur - Paid Internship for School Credit",
+      "reason": "$3-5/hr school-credit internship \u2014 low pay, not suitable",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103490",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "role": "UX/UI Game Dev (Unity) Internship",
+      "reason": "$1/year \u2014 not applicable (re-appearance)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103491",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "PHP/Laravel \u2014 wrong stack (re-appearance)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103492",
+      "company": "Scout Space",
+      "role": "Embedded Firmware Engineering Intern (Summer 2027)",
+      "reason": "Washington DC only, embedded firmware \u2014 wrong location and stack",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103493",
+      "company": "Connecting Scholars",
+      "role": "UI/UX Developer Internship",
+      "reason": "$1/year \u2014 not applicable (re-appearance)",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103494",
+      "company": "CACI International",
+      "role": "Cybersecurity Intern - Summer 2027",
+      "reason": "Stafford VA only, defense/clearance required",
+      "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103495",
+      "company": "Shellprop",
+      "role": "SEO intern",
+      "reason": "SEO/marketing \u2014 not a software engineering role (re-appearance)",
+      "date": "2026-11-22"
     }
   ]
 }
