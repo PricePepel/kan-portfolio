@@ -757,7 +757,7 @@
   ],
   "totalDraftsToday": 1,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-22",
+  "lastScanDate": "2026-11-23",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5535,6 +5535,83 @@
       "role": "SEO intern",
       "reason": "SEO/marketing \u2014 not a software engineering role (re-appearance)",
       "date": "2026-11-22"
+    },
+    {
+      "jobId": "JOBSEARCH_103556",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "eligible": false,
+      "reason": "Re-appearance \u2014 already drafted (103428), unpaid"
+    },
+    {
+      "jobId": "JOBSEARCH_103557",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "eligible": false,
+      "reason": "Re-appearance \u2014 already drafted (103428), unpaid"
+    },
+    {
+      "jobId": "JOBSEARCH_103558",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "eligible": false,
+      "reason": "Re-appearance \u2014 already drafted (103300)"
+    },
+    {
+      "jobId": "JOBSEARCH_103559",
+      "company": "Mlewi Games",
+      "role": "Game Development Intern",
+      "eligible": false,
+      "reason": "Unity/game dev \u2014 wrong stack (re-appearance)"
+    },
+    {
+      "jobId": "JOBSEARCH_103560",
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "eligible": false,
+      "reason": "Re-appearance \u2014 requires US work authorization"
+    },
+    {
+      "jobId": "JOBSEARCH_103561",
+      "company": "Iwanciw Functional Funware",
+      "role": "CS/Coding Entrepreneur - Paid Internship",
+      "eligible": false,
+      "reason": "$3-5/hr school-credit internship \u2014 too low pay"
+    },
+    {
+      "jobId": "JOBSEARCH_103562",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "eligible": false,
+      "reason": "PHP/Laravel \u2014 wrong stack (re-appearance)"
+    },
+    {
+      "jobId": "JOBSEARCH_103563",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "role": "UX/UI Game Dev (Unity) Internship",
+      "eligible": false,
+      "reason": "$1/year \u2014 not applicable (re-appearance)"
+    },
+    {
+      "jobId": "JOBSEARCH_103564",
+      "company": "ALLIANT",
+      "role": "Developer Intern/Early Career",
+      "eligible": false,
+      "reason": "Requires 2+ yrs DevOps experience + Bachelor's degree \u2014 not applicable for pre-university applicant"
+    },
+    {
+      "jobId": "JOBSEARCH_103565",
+      "company": "Scout Space",
+      "role": "Embedded Firmware Engineering Intern (Summer 2027)",
+      "eligible": false,
+      "reason": "Reston VA only, embedded firmware \u2014 wrong location/stack (re-appearance)"
+    },
+    {
+      "jobId": "JOBSEARCH_103566",
+      "company": "Connecting Scholars",
+      "role": "UI/UX Developer Internship",
+      "eligible": false,
+      "reason": "$1/year \u2014 not applicable (re-appearance)"
     }
   ]
 }
