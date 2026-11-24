@@ -382,6 +382,36 @@
       "gmail_draft_id": "r8677408530456232193",
       "notes": "Swiss fintech/AI firm \u2014 remote, Python/FastAPI/React/LLM exact match; unpaid internship",
       "status": "gmail_draft_ready"
+    },
+    {
+      "company": "ASRC Federal",
+      "role": "Data Scientist / Data Analyst Intern (Summer 2027)",
+      "url": "https://to.indeed.com/aaphcr6j7y6s",
+      "method": "indeed-ats",
+      "ats": "indeed",
+      "category": "ai-ml",
+      "details": "Remote (CONUS), $23/hr, 32hr/week, May 17\u2013Aug 4 2027. AI Trust Framework, RAG, MCP, hallucination detection, Python/TypeScript/React. Requires US citizenship.",
+      "priority": "B",
+      "status": "web_form_apply",
+      "source": "indeed_scan",
+      "dateFound": "2026-11-24",
+      "draft": "applications/asrc-federal-ai-data-intern-summer2027.md",
+      "eligibilityNote": "Requires US citizenship + 3yr CONUS residency"
+    },
+    {
+      "company": "ASRC Federal",
+      "role": "Software Developer Intern (Summer 2027)",
+      "url": "https://to.indeed.com/aabyccgcw748",
+      "method": "indeed-ats",
+      "ats": "indeed",
+      "category": "fullstack",
+      "details": "Remote (CONUS), $23/hr, 32hr/week, May 17\u2013Aug 4 2027. Full-stack NOAA analytics, React/Python/Node.js, AI Companion. Requires US citizenship.",
+      "priority": "B",
+      "status": "web_form_apply",
+      "source": "indeed_scan",
+      "dateFound": "2026-11-24",
+      "draft": "applications/asrc-federal-software-developer-intern-summer2027.md",
+      "eligibilityNote": "Requires US citizenship + 3yr CONUS residency"
     }
   ],
   "emailContacts": [
