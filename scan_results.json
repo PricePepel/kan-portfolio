@@ -9,7 +9,8 @@
       "category": "ai-ml",
       "details": "Remote globally, 2025-2026 grads, Python/JS/Go, AI/ML/Cloud/K8s work areas, competitive pay + 2K learning budget",
       "priority": "A",
-      "status": "ready_to_apply"
+      "status": "ready_to_apply",
+      "draft": "applications/canonical-graduate-software-engineer.md"
     },
     {
       "company": "1Password",
@@ -275,7 +276,8 @@
       "category": "other",
       "details": "Summer 2026 intern program, Waltham MA or North Bethesda MD, $25-27/hr, on-site 3 days/week, grad Dec 2026 or May 2027. NOTE: May be closed - posted Dec 2025.",
       "priority": "B",
-      "status": "needs_verification"
+      "status": "needs_verification",
+      "draft": "applications/xometry-software-engineer-intern.md"
     },
     {
       "company": "Instructure",
@@ -286,7 +288,8 @@
       "category": "edtech",
       "details": "Budapest, Hungary (hybrid). Ruby on Rails + React on Canvas Studio. Status uncertain.",
       "priority": "B",
-      "status": "needs_verification"
+      "status": "needs_verification",
+      "draft": "applications/instructure-software-engineer-intern-studio.md"
     },
     {
       "company": "TalentGrid",
@@ -338,7 +341,8 @@
       "url": "https://to.indeed.com/aa696pwrzws7",
       "date": "2026-11-17",
       "notes": "NOT APPLICABLE \u2013 requires Secret clearance and US citizenship (no visa sponsorship). O'Fallon, IL.",
-      "eligible": false
+      "eligible": false,
+      "draft": "applications/caci-international-operations-intern-ai-summer2027.md"
     },
     {
       "company": "Women and Families Ascending Association",
@@ -348,7 +352,8 @@
       "url": "https://to.indeed.com/aajvt97qns98",
       "date": "2026-11-17",
       "notes": "Non-profit, unpaid, mostly non-technical tasks. Poor skill match. Emails: wafaa@wafaaorganization.org, wafaaorganization7@gmail.com",
-      "eligible": false
+      "eligible": false,
+      "draft": "applications/wafaa-web-developer-social-media-intern.md"
     },
     {
       "company": "Dream Grid Studios",
@@ -358,7 +363,8 @@
       "url": "https://to.indeed.com/aayv6pnjgvp7",
       "date": "2026-11-17",
       "notes": "NOT APPLICABLE \u2013 $1-2/hr compensation, part-time, low-quality listing.",
-      "eligible": false
+      "eligible": false,
+      "draft": "applications/dream-grid-studios-software-engineer-intern.md"
     },
     {
       "company": "youbloom",
@@ -785,9 +791,9 @@
       "note": "No such address - corrected to hire@fiveq.com"
     }
   ],
-  "totalDraftsToday": 1,
+  "totalDraftsToday": 6,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-23",
+  "lastScanDate": "2026-11-25",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5642,6 +5648,34 @@
       "role": "UI/UX Developer Internship",
       "eligible": false,
       "reason": "$1/year \u2014 not applicable (re-appearance)"
+    },
+    {
+      "jobId": "JOBSEARCH_103677",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "eligible": false,
+      "reason": "Already in pipeline \u2014 re-appearance"
+    },
+    {
+      "jobId": "JOBSEARCH_103678",
+      "company": "Vertex",
+      "role": "Strategy Intern",
+      "eligible": false,
+      "reason": "Strategy role \u2014 not software engineering fit"
+    },
+    {
+      "jobId": "JOBSEARCH_103679",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "eligible": false,
+      "reason": "Already in pipeline \u2014 re-appearance"
+    },
+    {
+      "jobId": "JOBSEARCH_103680",
+      "company": "Pluto IT services",
+      "role": "Dot Net Developer Intern",
+      "eligible": false,
+      "reason": ".NET stack \u2014 not Ruslan skills (TypeScript/React/Python)"
     }
   ]
 }
