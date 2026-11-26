@@ -418,6 +418,18 @@
       "dateFound": "2026-11-24",
       "draft": "applications/asrc-federal-software-developer-intern-summer2027.md",
       "eligibilityNote": "Requires US citizenship + 3yr CONUS residency"
+    },
+    {
+      "company": "OpenSesame",
+      "role": "Product Internship - Summer 2027",
+      "url": "https://to.indeed.com/aarzldv9rp9c",
+      "method": "web-form-video",
+      "ats": "indeed",
+      "category": "ai-edtech",
+      "details": "B2B SaaS eLearning AI platform, uses Claude, remote, $20/hr, June-Aug 2027. Requires YouTube video application. Deadline Feb 14, 2027.",
+      "priority": "A",
+      "status": "draft_ready",
+      "draft": "applications/opensesame-product-intern-summer2027.md"
     }
   ],
   "emailContacts": [
@@ -793,7 +805,7 @@
   ],
   "totalDraftsToday": 6,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-25",
+  "lastScanDate": "2026-11-26",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5676,6 +5688,76 @@
       "role": "Dot Net Developer Intern",
       "eligible": false,
       "reason": ".NET stack \u2014 not Ruslan skills (TypeScript/React/Python)"
+    },
+    {
+      "jobId": "JOBSEARCH_103728",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "reason": "already in matched pipeline",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103729",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern (duplicate ID)",
+      "reason": "already in matched pipeline",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103730",
+      "company": "Pluto IT services",
+      "role": "Dot Net Developer Intern",
+      "reason": ".NET/wrong stack",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103731",
+      "company": "CACI International",
+      "role": "Software Development Intern - Summer 2027",
+      "reason": "govt financial work, no visa sponsorship; already have better CACI Operations role",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103732",
+      "company": "Mlewi Games",
+      "role": "Game Development Intern",
+      "reason": "Unity/game dev \u2014 wrong stack",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103733",
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "reason": "already in matched pipeline",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103734",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "Laravel/wrong stack (had React Intern already)",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103735",
+      "company": "ASRC Federal",
+      "role": "Software Developer Intern",
+      "reason": "already in matched pipeline",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103736",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "role": "UX/UI Game Dev (Unity) Internship",
+      "reason": "Unity/game dev \u2014 wrong stack",
+      "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103737",
+      "company": "ASRC Federal",
+      "role": "Data Scientist / Data Analyst Intern",
+      "reason": "already in matched pipeline",
+      "date": "2026-11-26"
     }
   ]
 }
