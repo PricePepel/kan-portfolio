@@ -805,7 +805,7 @@
   ],
   "totalDraftsToday": 6,
   "companiesScanned": 770,
-  "lastScanDate": "2026-11-26",
+  "lastScanDate": "2026-11-27",
   "failedScans": [
     {
       "company": "FullStack",
@@ -5758,6 +5758,55 @@
       "role": "Data Scientist / Data Analyst Intern",
       "reason": "already in matched pipeline",
       "date": "2026-11-26"
+    },
+    {
+      "jobId": "JOBSEARCH_103786",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern",
+      "date": "2026-11-27",
+      "notes": "Re-listing of already-tracked role (JOBSEARCH_103428). Already has gmail draft."
+    },
+    {
+      "jobId": "JOBSEARCH_103787",
+      "company": "TalentGrid",
+      "role": "AI Native Analyst Intern (Summer 2027)",
+      "date": "2026-11-27",
+      "notes": "Already tracked."
+    },
+    {
+      "jobId": "JOBSEARCH_103788",
+      "company": "CACI International",
+      "role": "Software Development Intern - Summer 2027",
+      "date": "2026-11-27",
+      "notes": "Already tracked \u2014 no visa sponsorship."
+    },
+    {
+      "jobId": "JOBSEARCH_103789",
+      "company": "CACI International",
+      "role": "Business Systems Analyst Intern - Summer 2027",
+      "date": "2026-11-27",
+      "notes": "NEW listing but ineligible \u2014 requires US work authorization, no visa sponsorship. Financial/VA govt systems, not AI/full-stack."
+    },
+    {
+      "jobId": "JOBSEARCH_103790",
+      "company": "SWCA Environmental Consultants",
+      "role": "Environmental Planning Intern",
+      "date": "2026-11-27",
+      "notes": "Wrong field (environmental, not tech)."
+    },
+    {
+      "jobId": "JOBSEARCH_103791",
+      "company": "youbloom",
+      "role": "React Developer Intern",
+      "date": "2026-11-27",
+      "notes": "Already tracked."
+    },
+    {
+      "jobId": "JOBSEARCH_103792",
+      "company": "Pluto IT services",
+      "role": "Dot Net Developer Intern",
+      "date": "2026-11-27",
+      "notes": "Wrong stack (.NET)."
     }
   ]
 }
