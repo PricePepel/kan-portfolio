@@ -430,6 +430,26 @@
       "priority": "A",
       "status": "draft_ready",
       "draft": "applications/opensesame-product-intern-summer2027.md"
+    },
+    {
+      "company": "Spanglish Events",
+      "role": "AI & Web Development Intern (Remote or Medell\u00edn)",
+      "source": "indeed",
+      "jobId": "JOBSEARCH_103848",
+      "url": "https://to.indeed.com/aaqxcpmr4zmt",
+      "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfP8tOddD9h1GrUIIU6XjuWKqE4_V9ytAWu_cSNqfK4pOGPsg/viewform",
+      "date": "2026-11-28",
+      "applicationDraft": "applications/spanglish-events-ai-web-intern.md",
+      "pay": "$75/week",
+      "stack": [
+        "Supabase",
+        "Vercel",
+        "GitHub",
+        "Cursor",
+        "v0",
+        "Codex"
+      ],
+      "notes": "AI-native stack match. Direct founder access. Apply via Google Form."
     }
   ],
   "emailContacts": [
@@ -5807,6 +5827,62 @@
       "role": "Dot Net Developer Intern",
       "date": "2026-11-27",
       "notes": "Wrong stack (.NET)."
+    },
+    {
+      "jobId": "JOBSEARCH_103842",
+      "company": "Prosper Group Consultancy, LLC",
+      "role": "Web Developer Intern",
+      "reason": "NJIT-only requirement, WordPress stack \u2014 not a match",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103847",
+      "company": "Connecting Scholars",
+      "role": "UI/UX Developer Internship",
+      "reason": "Essentially unpaid ($1/year) \u2014 skip",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103843",
+      "company": "Asymmetrica Investments AG",
+      "role": "Software Engineering Intern (duplicate)",
+      "reason": "Already in matched list",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103845",
+      "company": "youbloom",
+      "role": "Laravel Developer Intern",
+      "reason": "Laravel stack \u2014 not a match",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103851",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "role": "UX/UI Game Dev (Unity) Internship",
+      "reason": "Unity/game dev \u2014 wrong stack",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103852",
+      "company": "Flo Labs R&D",
+      "role": "Sports Science & HealthTech Intern",
+      "reason": "Not engineering/CS \u2014 skip",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103853",
+      "company": "EBRC/Biogen",
+      "role": "Internship at Biogen",
+      "reason": "Biotech, not remote, not CS \u2014 skip",
+      "date": "2026-11-28"
+    },
+    {
+      "jobId": "JOBSEARCH_103849",
+      "company": "Iwanciw Functional Funware",
+      "role": "Computer Science/Coding Entrepreneur Internship",
+      "reason": "$3-5/hr \u2014 below minimum wage \u2014 skip",
+      "date": "2026-11-28"
     }
   ]
 }
